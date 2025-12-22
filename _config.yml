@@ -1,7 +1,6 @@
 # Plugins
 gems:
 - jekyll-sitemap
-safe: false
 
 # Build Settings
 markdown: kramdown
@@ -17,7 +16,7 @@ baseurl: "/2026"
 url: "https://hai-webpage.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "G-01Y9DZ782N"
-googleAnalyticsSiteUrl: "healthsymposium.ai"
+googleAnalyticsSiteUrl: "hai-webpage.github.io"
 #siteVerification: ""
 
 # Organizer Info

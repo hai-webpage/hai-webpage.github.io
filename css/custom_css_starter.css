@@ -1,0 +1,359 @@
+/* ================================
+   CUSTOM THEME OVERRIDES
+   Load this file AFTER main.css
+   ================================ */
+
+/* ================================
+   CSS VARIABLES (EDIT THESE!)
+   Change these values to customize your site
+   ================================ */
+
+:root {
+  /* PRIMARY COLORS - Main brand colors */
+  --color-primary: #206a87;        /* Light blue green - used for links, accents */
+  --color-primary-dark: #064861;   /* Darker shade for hover states */
+  --color-secondary: #ff5800;      /* Orange - used for buttons */
+  --color-secondary-dark: #ed4515; /* Darker shade for button hover */
+  
+  /* ACCENT COLORS - Additional theme colors */
+  --color-accent: #206a87;         /* Same as primary by default */
+  --color-success: #5cb85c;        /* Green for success messages */
+  --color-warning: #f0ad4e;        /* Orange for warnings */
+  --color-danger: #d9534f;         /* Red for errors */
+  
+  /* TEXT COLORS */
+  --color-text-dark: #333333;      /* Main body text */
+  --color-text-medium: #555555;    /* Secondary text */
+  --color-text-light: #757575;     /* Muted text */
+  --color-text-lighter: #8b8b8b;   /* Very muted text */
+  
+  /* BACKGROUND COLORS */
+  --color-bg-main: #ffffff;        /* Main background */
+  --color-bg-section: #fcfcfc;     /* Section backgrounds */
+  --color-bg-card: #ffffff;        /* Card backgrounds */
+  --color-bg-overlay: rgba(37, 32, 31, 0.8); /* Dark overlays */
+  
+  /* BORDER COLORS */
+  --color-border: #e7e7e7;
+  --color-border-light: #eeeeee;
+  
+  /* FONTS */
+  --font-primary: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-secondary: 'Roboto', sans-serif;
+  --font-heading: 'Roboto', sans-serif;
+  
+  /* FONT SIZES */
+  --font-size-base: 13px;
+  --font-size-small: 12px;
+  --font-size-large: 15px;
+  --font-size-h1: 79.625px;
+  --font-size-h2: 76.375px;
+  --font-size-h3: 65px;
+  --font-size-h4: 40.625px;
+  --font-size-h5: 29.9px;
+  --font-size-h6: 24.375px;
+  
+  /* FONT WEIGHTS */
+  --font-weight-light: 300;
+  --font-weight-normal: 500;
+  --font-weight-medium: 700;
+  --font-weight-bold: 900;
+  
+  /* SPACING */
+  --spacing-xs: 5px;
+  --spacing-sm: 10px;
+  --spacing-md: 20px;
+  --spacing-lg: 40px;
+  --spacing-xl: 60px;
+  
+  /* BORDER RADIUS */
+  --radius-small: 3px;
+  --radius-medium: 4px;
+  --radius-large: 6px;
+  
+  /* SHADOWS */
+  --shadow-small: 0 1px 3px rgba(0, 0, 0, 0.15);
+  --shadow-medium: 0 1px 7px rgba(0, 0, 0, 0.06), 0 1px 3px rgba(0, 0, 0, 0.15);
+  --shadow-large: 0 5px 15px rgba(0, 0, 0, 0.3);
+  
+  /* TRANSITIONS */
+  --transition-fast: 0.15s;
+  --transition-normal: 0.3s;
+  --transition-slow: 0.5s;
+}
+
+
+/* ================================
+   APPLY CUSTOM COLORS
+   ================================ */
+
+/* Links */
+a {
+  color: var(--color-primary);
+}
+
+a:hover,
+a:focus,
+a:active {
+  color: var(--color-primary-dark);
+}
+
+/* Primary Buttons */
+.btn-primary {
+  background: var(--color-secondary) !important;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+  background: var(--color-secondary-dark) !important;
+}
+
+/* Colored Elements */
+.colored {
+  color: var(--color-secondary);
+  fill: var(--color-secondary);
+}
+
+/* Top Section Background */
+.top-section {
+  background: var(--color-primary);
+}
+
+/* Statistics */
+.statistic .stat {
+  color: var(--color-primary);
+}
+
+.statistic hr {
+  border-top-color: var(--color-primary);
+}
+
+/* Speaker/Rockstar Subsections */
+.rockstar-speakers .sub {
+  color: var(--color-primary);
+}
+
+/* Featured Pricing Column */
+.pricing-col-featured .pricing-ribbon,
+.pricing-col-featured .button {
+  background: var(--color-secondary);
+}
+
+/* Venue Text Backgrounds */
+.venue-text {
+  background: var(--color-primary);
+}
+
+/* Active Thumbnail Border */
+a.thumbnail:hover,
+a.thumbnail:focus,
+a.thumbnail.active {
+  border-color: var(--color-primary);
+}
+
+
+/* ================================
+   APPLY CUSTOM FONTS
+   ================================ */
+
+body,
+html {
+  font-family: var(--font-primary);
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-normal);
+}
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: var(--font-heading);
+  font-weight: var(--font-weight-light);
+}
+
+/* Buttons */
+.btn {
+  font-weight: var(--font-weight-medium);
+  transition: all var(--transition-normal) cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+
+/* ================================
+   CUSTOM ADDITIONS
+   Add your own custom styles below
+   ================================ */
+
+/* Example: Custom hero section styling */
+/*
+.top-section-hero {
+  background: linear-gradient(135deg, var(--color-primary), var(--color-secondary));
+}
+*/
+
+/* Example: Custom card styling */
+/*
+.card {
+  border-radius: var(--radius-large);
+  box-shadow: var(--shadow-medium);
+  transition: transform var(--transition-normal);
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--shadow-large);
+}
+*/
+
+/* Example: Custom navigation styling */
+/*
+nav li a {
+  font-weight: var(--font-weight-medium);
+  letter-spacing: 0.5px;
+}
+*/
+
+
+/* ================================
+   RESPONSIVE ADJUSTMENTS
+   Add mobile-specific overrides
+   ================================ */
+
+@media (max-width: 767px) {
+  :root {
+    --font-size-base: 14px;
+    --spacing-md: 15px;
+    --spacing-lg: 30px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  /* Tablet styles */
+}
+
+@media (min-width: 992px) {
+  /* Desktop styles */
+}
+
+
+/* ================================
+   LOGO CUSTOMIZATION
+   ================================ */
+
+/* CURRENT SETUP: The original CSS uses a sprite sheet
+   (one image file with multiple logo versions stacked vertically)
+   
+   Original structure:
+   - logos.svg contains 3 versions: dark, gray, light
+   - CSS positions background to show different versions
+   
+   OPTION 1: Replace the sprite file (easiest)
+   Create a new sprites/logos.svg with your logos stacked:
+   - Position 0px: Dark version
+   - Position -63px: Gray version  
+   - Position -127px: Light version
+*/
+
+/* .logo {
+  background-image: url("../img/sprites/logos.svg");
+  /* To use your own sprite: */
+  /* background-image: url("../img/sprites/my-logos.svg"); */
+/*} */
+
+/* OPTION 2: Use separate logo files (recommended) */
+/* Uncomment and customize these if using individual logo files: */
+
+.logo {
+  background-image: none; /* Remove sprite */
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.logo-dark {
+  background-image: url("../img/sprites/HAI\ Logo_black.png") !important;
+}
+
+.logo-gray {
+  background-image: url("../img/sprites/HAI\ Logo_black.png") !important;
+}
+
+.logo-white {
+  background-image: url("../img/sprites/HAI\ Logo_white.png") !important;
+}
+
+.logo-light {
+  background-image: url("../img/sprites/HAI\ Logo.png") !important;
+}
+
+
+/* OPTION 3: Use CSS filters to create color variations */
+/* Uncomment if you want to use ONE logo file with color filters: */
+
+/*
+.logo {
+  background-image: url("../img/logo.svg");
+}
+
+.logo-dark {
+  filter: brightness(0.2);
+}
+
+.logo-gray {
+  filter: grayscale(100%) brightness(0.5);
+}
+
+.logo-light {
+  filter: brightness(1.5);
+}
+*/
+
+/* Logo size overrides */
+.logo-header .logo {
+  /* Default: width: 185px; height: 60px; */
+  /* Customize: */
+  width: 200px;
+  height: 65px;
+}
+
+.logo-navbar {
+  /* Default: width: 185px; height: 60px; */
+  /* Customize: */
+  /* width: 200px; */
+  /* height: 65px; */
+}
+
+.logo-footer {
+  /* Default: width: 185px; height: 60px; */
+  /* Customize: */
+  /* width: 200px; */
+  /* height: 65px; */
+}
+
+
+/* ================================
+   UTILITY CLASSES
+   Helpful classes you can use
+   ================================ */
+
+.text-primary { color: var(--color-primary) !important; }
+.text-secondary { color: var(--color-secondary) !important; }
+.bg-primary { background-color: var(--color-primary) !important; }
+.bg-secondary { background-color: var(--color-secondary) !important; }
+
+.shadow-sm { box-shadow: var(--shadow-small); }
+.shadow-md { box-shadow: var(--shadow-medium); }
+.shadow-lg { box-shadow: var(--shadow-large); }
+
+.rounded-sm { border-radius: var(--radius-small); }
+.rounded-md { border-radius: var(--radius-medium); }
+.rounded-lg { border-radius: var(--radius-large); }
+
+
+/* ================================
+   DEBUGGING HELPER
+   Uncomment to see element outlines
+   ================================ */
+/*
+* {
+  outline: 1px solid rgba(255, 0, 0, 0.3);
+}
+*/

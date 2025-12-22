@@ -1,0 +1,18 @@
+<!-- Begin FAQ Poster Section -->
+<section id="faq-poster" class="about">
+    <div class="content-wrapper">
+        <div class="col-lg-8 col-lg-offset-2">
+            <h4>Frequently Asked Questions (FAQ)</h4>
+            {% for qna in site.posterFaqRows %}
+            <p class="text-left"><b>{{ qna.title }}</p>
+            <p class="text-left">{{ qna.details }}</p>
+            {% endfor %}
+        </div>
+
+        <div class="col-lg-8 col-lg-offset-2">
+            <br><br>
+            <a href="{{ site.posterUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.posterButtonText }}</a>
+        </div>
+    </div>
+</section>
+<!-- End FAQ Poster Section -->

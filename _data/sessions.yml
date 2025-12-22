@@ -1,0 +1,147 @@
+-
+  id: 001
+  title: "Registration"
+  place: "Hall"
+  service: false
+  description: "Sign in and join the event"
+-
+  id: 002
+  title: "Coffee Break and Networking"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 003
+  title: "Lunch, Networking and Exhibitions"
+  place: "Hall"
+  service: true
+-
+  id: 010
+  title: "Opening address and welcome remarks"
+  description: ""
+  subtype: keynote
+  speakers: 
+  language: en
+-
+  id: 020
+  title: "Keynote address: Designing the Future of Intelligent Health: From Innovation to Integration"
+  description: ""
+  subtype: keynote
+  #speakers: [3, 6]
+  #language: en
+  #complexity: "Intermediate"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 030
+  title: "Plenary talk"
+  description: ""
+  subtype: presentation
+  #speakers: [3, 6]
+  #language: en
+  #complexity: "Intermediate"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 040
+  title: "Key announcements"
+  description: ""
+  subtype: presentation
+  #speakers: 
+  #language: en
+-
+  id: 050
+  title: "Day 1 closing remarks"
+  description: ""
+  subtype: presentation
+  #speakers: 
+  #language: en
+-
+  id: 060
+  title: "Day 2 Opening remarks"
+  description: ""
+  subtype: presentation
+  #speakers: 
+  #language: en
+-
+  id: 070
+  title: "Event dinner and awards ceremony"
+  description: ""
+  place: "Ballroom"
+  service: true
+-
+  id: 100
+  title: "Foundation models in Healthcare - Building the Intelligent Core"
+  description: "Exploring how large-scale foundation models are transforming clinical decision support — laying the groundwork for intelligent healthcare systems."
+  subtype: presentation
+  #speakers: [3, 6]
+  #language: en
+  #complexity: "Intermediate"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 200
+  title: "Digital phenotyping - The New Frontier of Personalised Care"
+  description: "Leveraging behavioural, physiological, and digital biomarkers to enable real-time, personalized health insights and proactive care delivery."
+  subtype: presentation
+  #speakers: [4, 5]
+  #language: en
+  #complexity: "Intermediate" 
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 300
+  title: "AI for Healthy Ageing — Empowering Longevity and Quality of Life"
+  description: "Exploring how AI and digital health innovations can enable healthy ageing through early risk detection, personalised care pathways, cognitive and mobility support, and continuous monitoring — advancing longevity, independence, and quality of life for ageing populations."
+  subtype: presentation
+  #speakers: [4]
+  #language: en
+  #complexity: "Intermediate" 
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+-
+  id: 400
+  title: "Next Generation Systems for Care Coordination and Decision Support"
+  description: "This session highlights how agentic systems and AI-driven decision-support tools are improving care coordination and clinical workflows. It explores real examples of intelligent automation, data-guided decisions, and safer, more connected models of care."
+  subtype: presentation
+  #speakers: [6]
+  #language: uk
+  #complexity: "Beginner"
+  #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 500
+  title: "Intelligent Devices & Connected Diagnostics — Bridging MedTech and AI for Next-Gen Care"
+  description: "Showcasing how sensor technologies, connected devices, and edge AI are transforming diagnostics and patient monitoring. The session highlights practical examples of AI-enabled MedTech innovations — from point-of-care diagnostics to continuous monitoring platforms — and explores challenges in validation, and scaling these solutions into clinical workflows."
+  subtype: presentation
+  #speakers: [7]
+  #language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 600
+  title: "Investing in the Future of Health AI"
+  description: ""
+  subtype: presentation
+  #speakers: [7]
+  #language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 700
+  title: "Healthcare Innovation Pitch Challenge"
+  description: "Early-stage startups and research teams present innovations in AI, MedTech, and digital health to investors and clinicians."
+  subtype: presentation
+  #speakers: [7]
+  #language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 900
+  title: "Masterclass in Healthcare AI"
+  description: ""
+  subtype: workshop
+  #speakers: [7]
+  #language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"

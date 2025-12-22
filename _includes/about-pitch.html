@@ -1,0 +1,31 @@
+<!-- Begin About Poster Section -->
+<section id="about-pitch" class="about">
+    <div class="content-wrapper">
+        <div class="col-lg-8 col-lg-offset-2">
+            <p class="text-left">Showcase your cutting-edge solutions at the <b>Healthcare AI Symposium 2026</b> where global investors, industry leaders, and healthcare innovators come together to shape the future of healthcare.</p>
+        </div>
+
+        <div class="col-lg-8 col-lg-offset-2">
+            <h4>{{ site.whyApplyTitle }}</h4>
+            <p class="text-left">{{ site.whyApplyDescription }}</p>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-left">
+                {% assign animationDelay = 0 %}
+                {% for card in site.pitchBenefitCards %}
+                {% assign colWidth = 12 | divided_by: forloop.length %}
+                <div class="col-md-{{ colWidth }} col-xs-12 same-height animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                    <div class="card">
+                        <h4>{{ card.title }}</h4>
+                        <p>{{ card.information }}</p>
+                    </div>
+                </div>
+                {% assign animationDelay = animationDelay | plus:500 %}
+                {% endfor %}
+
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End About Poster Section -->

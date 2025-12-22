@@ -1,0 +1,21 @@
+<!-- Begin Info Pitch Section -->
+<section id="info-poster" class="about">
+    <div class="content-wrapper">
+
+        <div class="col-lg-8 col-lg-offset-2">
+            <h4>Important Dates</h4>
+            {% for dates in site.pitchDatesRows %}
+            <p class="text-left"><b>{{ dates.title }}</b>:</p>
+            <p class="text-left">{{ dates.date }}</p>
+            {% endfor %}
+        </div>
+
+        <div class="col-lg-8 col-lg-offset-2">
+            <h4>{{ site.pitchNotesTitle }}</h4>
+            {% for note in site.pitchNotesRows %}
+            <p class="text-left"><b>- {{ note.title }}</b>:</p>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+<!-- End Info Pitch Section -->

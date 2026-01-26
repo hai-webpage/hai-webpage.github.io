@@ -1,6 +1,6 @@
 # Plugins
-gems:
-- jekyll-sitemap
+plugins:
+  - jekyll-sitemap
 
 # Build Settings
 markdown: kramdown
@@ -12,9 +12,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Healthcare AI Symposium 2026"
 email: "Health_AI@a-star.edu.sg"
 description: "Healthcare AI Symposium 2026, 8-10 July 2026, Singapore"
-baseurl: "/2026"
+baseurl: ""
 url: "https://hai-webpage.github.io"
-permalink: "/blog/:title"
 googleAnalyticsTrackingId: "G-01Y9DZ782N"
 googleAnalyticsSiteUrl: "hai-webpage.github.io"
 #siteVerification: ""

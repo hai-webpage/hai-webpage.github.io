@@ -7,3 +7,4 @@
   elements: 
     - {name: "MOHT", description: "MOH Office for Healthcare Transformation (MOHT)", link: "https://www.moht.com.sg", imageUrl: "MOHT\ Logo_full\ colour.png"}
     - {name: "IMDA", description: "Infocomm Media Development Authority", link: "https://www.imda.gov.sg", imageUrl: "Infocomm_Media_Development_Authority_logo.svg"}
+    - {name: "MOH", description: "Ministry of Health, Singapore", link: "", imageUrl: "Ministry_of_Health_(Singapore)_(logo).svg"}

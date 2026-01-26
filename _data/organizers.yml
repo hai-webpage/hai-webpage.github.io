@@ -5,6 +5,5 @@
 - 
   group: "Co-organizers"
   elements: 
-    - {name: "A*STAR IHPC", description: "Institute of High Performance Computing, A*STAR", link: "https://www.a-star.edu.sg/ihpc", imageUrl: "ASTAR_IHPC_Horizontal_Logo_RGB.png"}
     - {name: "MOHT", description: "MOH Office for Healthcare Transformation (MOHT)", link: "https://www.moht.com.sg", imageUrl: "MOHT\ Logo_full\ colour.png"}
     - {name: "IMDA", description: "Infocomm Media Development Authority", link: "https://www.imda.gov.sg", imageUrl: "Infocomm_Media_Development_Authority_logo.svg"}

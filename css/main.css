@@ -2532,14 +2532,14 @@ time {
   width:185px;
   height:60px;
   margin-right:20px;
-  -webkit-transform:scale(0.7);
-  -ms-transform:scale(0.7);
-  transform:scale(0.7);
+  -webkit-transform:scale(0.9);
+  -ms-transform:scale(0.9);
+  transform:scale(0.9);
   vertical-align:middle
 }
 .logo-navbar {
-  width:216px;
-  height:70px;
+  width:185px;
+  height:60px;
   margin:8px 20px 0 -10px;
   -webkit-transform:scale(0.6);
   -ms-transform:scale(0.6);

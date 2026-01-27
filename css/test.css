@@ -2889,7 +2889,9 @@ time {
 }
 
 .logo {
-  background-image: url("../img/sprites/file.svg");
+  background-image: none;
+  background-size: contain;
+  background-position: center;
   background-repeat: no-repeat
 }
 
@@ -3025,8 +3027,8 @@ time {
 }
 
 .logo-navbar {
-  width: 185px;
-  height: 60px;
+  width: 200px;
+  height: 65px;
   margin: 8px 20px 0 -10px;
   -webkit-transform: scale(0.6);
   -ms-transform: scale(0.6);
@@ -3789,8 +3791,8 @@ nav li a.current,nav li a:hover {
 }
 
 .logo-footer {
-  width: 185px;
-  height: 60px;
+  width: 200px;
+  height: 65px;
   margin: -13px -13px 0;
   -webkit-transform: scale(0.65);
   -ms-transform: scale(0.65);

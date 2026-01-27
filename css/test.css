@@ -2894,15 +2894,19 @@ time {
 }
 
 .logo.logo-dark {
-  background-position: 0 -1px
+  background-image: url("../img/sprites/HAI\ Logo_black.png") !important;
 }
 
 .logo.logo-gray {
-  background-position: 0 -1px
+  background-image: url("../img/sprites/HAI\ Logo_black.png") !important;
+}
+
+.logo-white {
+  background-image: url("../img/sprites/HAI\ Logo_white.png") !important;
 }
 
 .logo.logo-light {
-  background-position: 0 -1px
+  background-image: url("../img/sprites/HAI\ Logo.png") !important;
 }
 
 .icon {

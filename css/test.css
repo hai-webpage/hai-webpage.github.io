@@ -3020,9 +3020,9 @@ time {
   width: 200px;
   height: 65px;
   margin-right: 20px;
-  -webkit-transform: scale(0.8);
-  -ms-transform: scale(0.8);
-  transform: scale(0.8);
+  -webkit-transform: scale(0.9);
+  -ms-transform: scale(0.9);
+  transform: scale(0.9);
   vertical-align: middle
 }
 

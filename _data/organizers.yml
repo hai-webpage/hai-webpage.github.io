@@ -1,9 +1,9 @@
 - 
-  group: "Main organizer"
+  group: "Main organiser"
   elements: 
     - {name: "A*STAR IHPC", description: "Institute of High Performance Computing, A*STAR", link: "https://www.a-star.edu.sg/ihpc", imageUrl: "ASTAR_IHPC_Horizontal_Logo_RGB.png"}
 - 
-  group: "Co-organizers"
+  group: "Co-organisers"
   elements: 
     - {name: "IMDA", description: "Infocomm Media Development Authority", link: "https://www.imda.gov.sg", imageUrl: "Infocomm_Media_Development_Authority_logo.svg"}
     - {name: "MOH", description: "Ministry of Health, Singapore", link: "", imageUrl: "Ministry_of_Health_(Singapore)_(logo).svg"}

@@ -3794,9 +3794,9 @@ nav li a.current,nav li a:hover {
   width: 200px;
   height: 65px;
   margin: -13px -13px 0;
-  -webkit-transform: scale(0.65);
-  -ms-transform: scale(0.65);
-  transform: scale(0.65)
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1)
 }
 
 .blog h3 {

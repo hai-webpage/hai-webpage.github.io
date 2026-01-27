@@ -2688,13 +2688,13 @@ time {
   user-select: none;
   text-transform: uppercase;
   border: 0;
-  background: #4285f4 !important
+  background: #ff5800 !important
 }
 
 .btn-primary:hover,.btn-primary:focus,.btn-primary:active,.btn-primary.active {
   outline: none;
   color: #fff;
-  background: #3266d5
+  background: #ed4515
 }
 
 .content-wrapper {

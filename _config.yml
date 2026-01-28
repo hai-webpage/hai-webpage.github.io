@@ -57,7 +57,7 @@ rightNavigationButtons:
  - {permalink: "/sponsor/", text: "Become a sponsor"}
 
 # Hero Block
-heroImage: "HAI26 background.jpg"
+heroImage: "HAI26 background slim.jpg"
 heroTitle: "3rd Annual Healthcare AI Symposium <typeout> 2026"
 eventDate: "Singapore, 8-10 July 2026"
 typeoutTextValues: '""'

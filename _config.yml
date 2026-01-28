@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Programme"}
 # - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/poster/", text: "Posters"}
- - {permalink: "/pitch/", text: "Pitch Challenge"}
+ - {permalink: "/pitch/", text: "Pitch"}
 # - {permalink: "/team/", text: "Team"}
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}

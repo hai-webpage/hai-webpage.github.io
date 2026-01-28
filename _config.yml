@@ -61,7 +61,7 @@ heroImage: "HAI26 background.jpg"
 heroTitle: "3rd Annual Healthcare AI Symposium <typeout> 2026"
 eventDate: "Singapore, 8-10 July 2026"
 typeoutTextValues: '""'
-typeoutFallback: "Healthcare AI Symposium"
+typeoutFallback: ""
 heroButtons:
  - {permalink: "/sponsor/", text: "Become a sponsor"}
  - {link: "https://a-star-engagementportal.glueup.com/event/162425/register/", text: "Register"}

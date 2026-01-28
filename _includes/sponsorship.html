@@ -1,0 +1,15 @@
+<!-- Begin Sponsorship Section -->
+<section id="sponsorship" class="about">
+    <div class="content-wrapper">
+        <div class="col-lg-8 col-lg-offset-2">
+            <p class="text-left">{{ site.sponsorDescription }}</p>
+            <br><br>
+            <h4>{{ site.sponsorRowsTitle }}</h4>
+            {% for row in site.sponsorRows %}
+            <h6>{{ row.title }}</h6>
+            <p class="text-left">{{ row.details }}</p>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+<!-- End Sponsorship Section -->

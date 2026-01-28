@@ -68,6 +68,8 @@ heroButtons:
 
 # About Block
 aboutTitle: "About HAI 2026"
+aboutDescription: "The 3rd edition of the Healthcare AI (HAI) Symposium returns to Singapore from 8–10 July 2026, convening the healthcare innovation ecosystem to exchange ideas, forge collaborations, and connect across disciplines. <br><br>This year’s symposium is dedicated to “<b>Designing the Future of Intelligent Health: Advancing Healthcare Through AI, MedTech and Digital Systems</b>.” <br><br>Join us to explore the latest developments in AI, MedTech, and digital healthcare, alongside policymakers, healthcare professionals, academics, investors, and industry leaders, as we shape the future of intelligent health together.
+"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "Two-day event covering frontier themes in healthcare AI and digital innovations." }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops with hands-on experience." }

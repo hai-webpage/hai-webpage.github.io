@@ -1631,6 +1631,7 @@ tbody.collapse.in {
 
 .jumbotron h1,.jumbotron .h1 {
   color: inherit;
+  font-weight: 400
 }
 
 .jumbotron p {

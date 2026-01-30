@@ -3,11 +3,13 @@
     {% include navigation.html %}
     <div class="content-wrapper">
     <div class="jumbotron">
-        <h1 style="text-align: left;">{{ site.heroTitle }}</h1>
-        <p>{{ site.eventDate }}</p>
-        {% for button in site.heroButtons %}
-        <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
-        {% endfor %}
+        <div class="col-lg-8 col-lg-offset-2">
+            <h1 style="text-align: left;">{{ site.heroTitle }}</h1>
+            <p>{{ site.eventDate }}</p>
+            {% for button in site.heroButtons %}
+            <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
+            {% endfor %}
+        </div>
     </div>
     <a href="#about" class="explore">
         <svg class="icon icon-arrow-down" viewBox="0 0 32 32">

@@ -3165,13 +3165,12 @@ nav li a.current,nav li a:hover {
 .top-section-hero .jumbotron p {
   font-size: 26px;
   font-weight: 200;
-  margin-left: 50px;
   margin-bottom: 15px;
   text-align: left
 }
 
 .top-section-hero .jumbotron .btn {
-  margin-left: 50px;
+  margin: 0, 3px;
   font-size: 16px
 }
 

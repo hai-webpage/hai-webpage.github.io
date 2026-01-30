@@ -1631,14 +1631,12 @@ tbody.collapse.in {
 
 .jumbotron h1,.jumbotron .h1 {
   color: inherit;
-  text-align: left
 }
 
 .jumbotron p {
   margin-bottom: 15px;
   font-size: 21px;
-  font-weight: 200;
-  text-align: left
+  font-weight: 200
 }
 
 .jumbotron>hr {
@@ -3158,13 +3156,15 @@ nav li a.current,nav li a:hover {
   left: 0;
   -webkit-transform: translateY(-60%);
   -ms-transform: translateY(-60%);
-  transform: translateY(-60%)
+  transform: translateY(-60%);
+  text-align: left
 }
 
 .top-section-hero .jumbotron p {
   font-size: 26px;
   font-weight: 100;
-  margin-bottom: 15px
+  margin-bottom: 15px;
+  text-align: left
 }
 
 .top-section-hero .jumbotron .btn {

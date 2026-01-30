@@ -42,7 +42,7 @@ c4sponsorsUrl: "/sponsor/"
 navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Programme"}
+ - {permalink: "/programme/", text: "Programme"}
 # - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/poster/", text: "Posters"}
  - {permalink: "/pitch/", text: "Pitch"}

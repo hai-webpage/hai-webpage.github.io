@@ -3,6 +3,7 @@
 	<div class="overlay solid-overlay"></div>
 	<div class="content-wrapper">
 		<div class="col-lg-10 col-lg-offset-1">
+            <h3>{{ site.statisticTitle }}</h3>
 			{% assign animationDelay = 0 %}
             {% for statistic in site.statisticBlock %}
             {% assign colWidth = 12 | divided_by: forloop.length %}

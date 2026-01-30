@@ -3157,12 +3157,14 @@ nav li a.current,nav li a:hover {
   -webkit-transform: translateY(-60%);
   -ms-transform: translateY(-60%);
   transform: translateY(-60%);
+  font-weight: 400;
   text-align: left
 }
 
 .top-section-hero .jumbotron p {
   font-size: 26px;
-  font-weight: 100;
+  font-weight: 200;
+  margin-left: 30px;
   margin-bottom: 15px;
   text-align: left
 }

@@ -1630,13 +1630,15 @@ tbody.collapse.in {
 }
 
 .jumbotron h1,.jumbotron .h1 {
-  color: inherit
+  color: inherit;
+  text-align: left
 }
 
 .jumbotron p {
   margin-bottom: 15px;
   font-size: 21px;
-  font-weight: 200
+  font-weight: 200;
+  text-align: left
 }
 
 .jumbotron>hr {

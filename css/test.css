@@ -3152,7 +3152,7 @@ nav li a.current,nav li a:hover {
 
 .top-section-hero .jumbotron {
   position: relative;
-  top: 70%;
+  top: 60%;
   margin: 0;
   left: 0;
   -webkit-transform: translateY(-60%);

@@ -58,7 +58,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "HAI26 Website Masthead.png"
-heroTitle: "3rd Annual Healthcare AI Symposium <typeout> 2026"
+heroTitle: "3rd Annual<br>Healthcare AI Symposium<br>2026"
 eventDate: "Singapore, 8-10 July 2026"
 typeoutTextValues: '""'
 typeoutFallback: ""

@@ -74,7 +74,7 @@ aboutBlock:
  - {title: "Pitch Challenge", image: "hackathon.jpg", text: "Come pitch your startup at our event!" }
 
 # Statistic Block
-statisticBlockImage: "HAI26 Website - Highlights Background.png"
+statisticBlockImage: "HAI26 Website Highlights.png"
 statisticBlock:
  - {count: "350", specialCharacter: "+", info: "attendees", detail: "from Singapore and abroad"}
  - {count: "30", specialCharacter: "+", info: "speakers", detail: "including clinicians, technologists and investors"}

@@ -63,7 +63,6 @@ eventDate: "Singapore, 8-10 July 2026"
 typeoutTextValues: '""'
 typeoutFallback: ""
 heroButtons:
- - {permalink: "/sponsor/", text: "Become a sponsor"}
  - {link: "https://a-star-engagementportal.glueup.com/event/162425/register/", text: "Register"}
 
 # About Block

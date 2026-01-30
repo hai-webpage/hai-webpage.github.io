@@ -63,7 +63,7 @@ eventDate: "Singapore, 8-10 July 2026"
 typeoutTextValues: '""'
 typeoutFallback: ""
 heroButtons:
- - {link: "https://a-star-engagementportal.glueup.com/event/162425/register/", text: "Register"}
+ - {link: "https://a-star-engagementportal.glueup.com/event/162425/register/", text: "Register Now"}
 
 # About Block
 aboutTitle: "About HAI 2026"

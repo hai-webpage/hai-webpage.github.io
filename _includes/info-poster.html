@@ -3,10 +3,23 @@
     <div class="content-wrapper">
         <div class="col-lg-8 col-lg-offset-2">
             <h3>Important Dates</h3>
-            {% for dates in site.posterDatesRows %}
-            <p class="text-left"><b>{{ dates.title }}</b>:</p>
-            <p class="text-left">{{ dates.date }}</p>
-            {% endfor %}
+
+            <div class="row about-details">
+                {% assign animationDelay = 0 %}
+                {% for dates in site.posterDatesRows %}
+                {% assign colWidth = 12 | divided_by: forloop.length %}
+                <div class="col-md-{{ colWidth }} col-xs-6">  
+                    <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                        <h5>{{ dates.title }}</h5>
+                        <p>{{ dates.date }}</p>
+                    </div>
+                </div>
+                {% assign animationDelay = animationDelay | plus:500 %}
+                {% assign check = forloop.index | modulo:2 %}
+                {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
+                {% endfor %}
+            </div>
+            
         </div>
     </div>
 </section>

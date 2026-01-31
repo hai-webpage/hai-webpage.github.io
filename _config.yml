@@ -180,10 +180,11 @@ footerBlocks:
  -
   title: "Links"
   links:
+   - {link: "https://www.a-star.edu.sg/ihpc", text: "Institute of High Performance Computing (A*STAR IHPC)"}
    - {link: "https://www.a-star.edu.sg", text: "Agency for Science, Technology and Research (A*STAR)"}
   # - {link: "https://developers.google.com", text: "Google Developers"}
  -
-  title: "Contacts"
+  title: "Contact"
   links:
    - {link: "mailto:Health_AI@a-star.edu.sg", text: "Health_AI@a-star.edu.sg"}
 #  -
@@ -269,7 +270,6 @@ pitchNotesRows:
  - {title: "Global healthcare companies and startups are welcome to apply"}
  - {title: "Shortlisted teams will present onsite at the sysmposium"}
 
-
 # Pitch Challenge FAQ Block
 pitchFaqRows:
  - {title: "Who should apply?", details: "Startups or companies working on innovative healthcare or AI-driven sotluions are welcome to apply. We accept early-stage, growth-stage, and research-based ventures."}
@@ -282,6 +282,7 @@ pitchFaqRows:
  - {title: "How many members can attend the symposium?", details: "Up to two members from the same company will receive complimentary access to HAI 2026. Additional members may register to attend the event."}
  - {title: "Can I submit more than one application?", details: "Founders should only submit one application per company."}
  - {title: "Is may application confidential?", details: "Yes, all applications are kept confidential within the organising team and shared only with the judging panel as required for their evaluation."}
+
 
 # Sponsorship
 sponsorDescription: "Be part of shaping the future of healthcare innovation at HAI 2026 - where breakthrough ideas and emerging technologies come together to accelerate real-world healthcare impact."

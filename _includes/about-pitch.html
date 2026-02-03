@@ -9,7 +9,7 @@
             {% for card in site.pitchBenefitCards %}
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
                 <div class="zoe-effect" data-toggle="modal">
-                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/pitch/' | append: card.image }})">
+                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl }}/img/pitch/{{ card.image }});">
                         <div class="overlay solid-overlay"></div>
                         <figcaption>
                             <div class="col-md-8 col-xs-8 text-left">

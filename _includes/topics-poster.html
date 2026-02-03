@@ -2,21 +2,22 @@
 <section id="topics-poster" class="about">
     <div class="content-wrapper">
         <div class="col-lg-8 col-lg-offset-2">
-            <h4><b>{{ site.posterTopicsTitle }}</b></h4>
+            <h4>{{ site.posterTopicsTitle }}</h4>
 
             <div class="row about-details">
                 {% assign animationDelay = 0 %}
                 {% for topics in site.posterTopicsRows %}
-                {% assign colWidth = 12 | divided_by: 4 %}
-                <div class="col-md-{{ colWidth }} col-xs-6">  
+                <div class="col-md-3 col-sm-6 col-xs-6">  
                     <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
                         <img class="img-circle" src="{{ site.baseurl }}/img/poster/{{ topics.image }}" height="128" width="128" alt="{{ about.title }}">
-                        <h5>{{ topics.title }}</h5>
+                        <h6>{{ topics.title }}</h6>
                     </div>
                 </div>
                 {% assign animationDelay = animationDelay | plus:500 %}
-                {% assign check = forloop.index | modulo:2 %}
-                {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
+                {% assign checkXs = forloop.index | modulo:2 %}
+                {% if checkXs == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
+                {% assign checkMd = forloop.index | modulo:4 %}
+                {% if checkMd == 0 %} <div class="clearfix visible-sm visible-md visible-lg"></div> {% endif %}
                 {% endfor %}
             </div>
             

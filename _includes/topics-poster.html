@@ -7,7 +7,7 @@
             <div class="row about-details">
                 {% assign animationDelay = 0 %}
                 {% for topics in site.posterTopicsRows %}
-                {% assign colWidth = 12 | divided_by: forloop.length %}
+                {% assign colWidth = 12 | divided_by: 4 %}
                 <div class="col-md-{{ colWidth }} col-xs-6">  
                     <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
                         <img class="img-circle" src="{{ site.baseurl }}/img/poster/{{ topics.image }}" height="128" width="128" alt="{{ about.title }}">

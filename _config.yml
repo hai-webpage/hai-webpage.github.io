@@ -249,9 +249,9 @@ pitchHeroImage: "HAI25 background.jpg"
 
 # Pitch About Block
 pitchBenefitCards:
- - {title: "Connect", information: 'with leading investors and industry experts'}
- - {title: "Network", information: 'with potential partners and mentors'}
- - {title: "Elevate", information: 'your visibility within the healthcare AI community'}
+ - {title: "Connect", image: "connect.png", information: 'with leading investors and industry experts'}
+ - {title: "Network", image: "network.png", information: 'with potential partners and mentors'}
+ - {title: "Elevate", image: "elevante.png", information: 'your visibility within the healthcare AI community'}
 
 # Pitch Challenge Important Dates
 pitchDatesRows:

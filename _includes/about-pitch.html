@@ -5,22 +5,24 @@
             <p class="text-left">Showcase your cutting-edge solutions at the <b>Healthcare AI Symposium 2026</b> where global investors, industry leaders, and healthcare innovators come together to shape the future of healthcare.</p>
         </div>
 
-        {% for card in site.pitchBenefitCards %}
-        <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
-            <div class="zoe-effect" data-toggle="modal">
-                <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/pitch/' | append: card.image }})">
-                    <div class="overlay solid-overlay"></div>
-                    <figcaption>
-                        <div class="col-md-8 col-xs-8 text-left">
-                            <h2><span>{{ card.title }}</span></h2>
-                            <div class="clearfix"></div>
-                            <span class="position">{{ card.information }}</span>
-                        </div>
-                    </figcaption>
-                </figure>
+        <div class="col-lg-10 col-lg-offset-1 text-center">
+            {% for card in site.pitchBenefitCards %}
+            <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
+                <div class="zoe-effect" data-toggle="modal">
+                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/pitch/' | append: card.image }})">
+                        <div class="overlay solid-overlay"></div>
+                        <figcaption>
+                            <div class="col-md-8 col-xs-8 text-left">
+                                <h2><span>{{ card.title }}</span></h2>
+                                <div class="clearfix"></div>
+                                <span class="position">{{ card.information }}</span>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
             </div>
+            {% endfor %}
         </div>
-        {% endfor %}
 
         <div class="col-lg-8 col-lg-offset-2">
             <h3>{{ site.whyApplyTitle }}</h3>

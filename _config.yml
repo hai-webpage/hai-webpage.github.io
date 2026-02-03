@@ -216,14 +216,14 @@ posterHeroImage: "HAI25 background.jpg"
 posterDescription: "The Healthcare AI Symposium 2026 invites undergraduate, postgraduate, and doctoral students to submit posters presenting their translational research aligned with the theme “<b>Designing the Future of Intelligent Health: Advancing Healthcare Through AI, MedTech, and Digital Systems</b>”.<br><br>This is an opportunity to share their research work and engage with researchers, clinicians, and industry leaders."
 posterTopicsTitle: "Invited Topics"
 posterTopicsRows:
- - {title: "AI-driven Diagnostics, Monitoring and Triage"}
- - {title: "Agentic AI for Healthcare"}
- - {title: "Digital Health, Clinical Informatics, and Medical Data Science"}
- - {title: "Medical Image Analysis and Computer Vision"}
- - {title: "MedTech and Medical Devices"}
- - {title: "Multimodal Learning and Foundation Models"}
- - {title: "Safety, Fairness, and Evaluation of Clinical AI Systems"}
- - {title: "Signal Processing and Physiological Measurements"}
+ - {title: "AI-driven Diagnostics, Monitoring and Triage", image: "diagnostics.png"}
+ - {title: "Agentic AI for Healthcare", image: "agentic.png"}
+ - {title: "Digital Health, Clinical Informatics, and Medical Data Science", image: "digitalhealth.png"}
+ - {title: "Medical Image Analysis and Computer Vision", image: "medicalimage.png"}
+ - {title: "MedTech and Medical Devices", image: "medtech.png"}
+ - {title: "Multimodal Learning and Foundation Models", image: "foundationmodel.png"}
+ - {title: "Safety, Fairness, and Evaluation of Clinical AI Systems", image: "safety.png"}
+ - {title: "Signal Processing and Physiological Measurements", image: "signalprocessing.png"}
 
 # Poster Important Dates
 posterDatesRows:

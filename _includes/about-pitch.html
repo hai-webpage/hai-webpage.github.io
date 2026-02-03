@@ -5,25 +5,26 @@
             <p class="text-left">Showcase your cutting-edge solutions at the <b>Healthcare AI Symposium 2026</b> where global investors, industry leaders, and healthcare innovators come together to shape the future of healthcare.</p>
         </div>
 
+        {% for card in site.pitchBenefitCards %}
+        <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
+            <div class="zoe-effect" data-toggle="modal">
+                <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/pitch/' | append: card.image }})">
+                    <div class="overlay solid-overlay"></div>
+                    <figcaption>
+                        <div class="col-md-8 col-xs-8 text-left">
+                            <h2><span>{{ card.title }}</span></h2>
+                            <div class="clearfix"></div>
+                            <span class="position">{{ card.information }}</span>
+                        </div>
+                    </figcaption>
+                </figure>
+            </div>
+        </div>
+        {% endfor %}
+
         <div class="col-lg-8 col-lg-offset-2">
             <h3>{{ site.whyApplyTitle }}</h3>
             <p class="text-left">{{ site.whyApplyDescription }}</p>
-        </div>
-
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 text-left">
-                {% assign animationDelay = 0 %}
-                {% for card in site.pitchBenefitCards %}
-                {% assign colWidth = 12 | divided_by: forloop.length %}
-                <div class="col-md-{{ colWidth }} col-xs-12 same-height animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
-                    <div class="card">
-                        <h4>{{ card.title }}</h4>
-                        <p>{{ card.information }}</p>
-                    </div>
-                </div>
-                {% assign animationDelay = animationDelay | plus:500 %}
-                {% endfor %}
-            </div>
         </div>
     </div>
 </section>

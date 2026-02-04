@@ -268,9 +268,9 @@ whyApplyDescription: "Participants will have the opportunity to pitch their idea
 # Pitch Important Notes
 pitchNotesTitle: "Important Notes"
 pitchNotesRows:
- - {title: "Attractive cash prizes for the top 3 teams"}
- - {title: "Global healthcare companies and startups are welcome to apply"}
- - {title: "Shortlisted teams will present onsite at the sysmposium"}
+ - {title: "Attractive cash prizes for the top 3 teams", image: "cashprizes.png"}
+ - {title: "Global healthcare companies and startups are welcome to apply", image: "companiesstartups.png"}
+ - {title: "Shortlisted teams will present onsite at the sysmposium", image: "presentonsite.png"}
 
 # Pitch Challenge FAQ Block
 pitchFaqRows:

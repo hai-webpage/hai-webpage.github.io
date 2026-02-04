@@ -4214,7 +4214,7 @@ nav li a.current,nav li a:hover {
   font-size: 14px;
   display: block;
   display: -webkit-box;
-  overflow: hidden;
+  overflow: visible;
   height: 100px;
   text-overflow: ellipsis;
   -webkit-line-clamp: 1;

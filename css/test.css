@@ -4161,7 +4161,7 @@ nav li a.current,nav li a:hover {
   position: absolute;
   bottom: 0;
   width: 100%;
-  height: 50px;
+  height: 100px;
   padding: 13px;
   z-index: 2;
   -webkit-transition: all 0.3s;

@@ -295,7 +295,10 @@ sponsorRows:
  - {title: "Speaking Opportunities", image: "speaking.png", details: "Showcase your expertise through curated panel discussions, keynote sessions and presentations, positioning your organisation as a leader in healthcare AI and innovation."}
  - {title: "Innovation Showcase", image: "innovation.png", details: "Secure premium exhibition space to demonstrate your latest solutions and technologies. Engage directly with potential clients, collaborators, and investors in a high-impact setting."}
 
-
+sponsorEnquiryTitle: "For Sponsorship Enquiries"
+sponsorEnquirySubtitle: "Shape the Future of Healthcare AI"
+sponsorEnquiryDescription: "Connect with innovators driving healthcare transformation"
+sponsorEnquiryButton: "Request sponsorship details"
 
 # # Hackathon
 # hackathonTitle: "Hackathon"

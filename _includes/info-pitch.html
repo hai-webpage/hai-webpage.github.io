@@ -3,7 +3,7 @@
     <div class="content-wrapper">
 
         <div class="col-lg-8 col-lg-offset-2">
-            <h3>Important Dates</h3>
+            <h4>{{ site.pitchDatesTitle }}</h4>
             <div class="row about-details">
                 {% assign animationDelay = 0 %}
                 {% for dates in site.pitchDatesRows %}
@@ -18,7 +18,7 @@
         </div>
 
         <div class="col-lg-8 col-lg-offset-2">
-            <h3>{{ site.pitchNotesTitle }}</h3>
+            <h4>{{ site.pitchNotesTitle }}</h4>
             {% for note in site.pitchNotesRows %}
             <p class="text-left"><b>- {{ note.title }}</b>:</p>
             {% endfor %}

@@ -5,15 +5,11 @@
             <h4>{{ site.posterTopicsTitle }}</h3>
 
             <div class="row about-details">
-                {% assign animationDelay = 0 %}
                 {% for topics in site.posterTopicsRows %}
                 <div class="col-md-3 col-sm-6 col-xs-6">  
-                    <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
-                        <img class="img-circle" src="{{ site.baseurl }}/img/poster/{{ topics.image }}" height="128" width="128" alt="{{ about.title }}">
-                        <p>{{ topics.title }}</p>
-                    </div>
+                    <img class="img-circle" src="{{ site.baseurl }}/img/poster/{{ topics.image }}" height="128" width="128" alt="{{ about.title }}">
+                    <p>{{ topics.title }}</p>
                 </div>
-                {% assign animationDelay = animationDelay | plus:500 %}
                 {% assign checkXs = forloop.index | modulo:2 %}
                 {% if checkXs == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
                 {% assign checkMd = forloop.index | modulo:4 %}

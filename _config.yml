@@ -226,6 +226,7 @@ posterTopicsRows:
  - {title: "Signal Processing and Physiological Measurements", image: "signalprocessing.png"}
 
 # Poster Important Dates
+posterDatesTitle: "Important Dates"
 posterDatesRows:
  - {title: "Abstract Submission Deadline", date: "Tuesday, 31 March 2026"}
  - {title: "Notification of Acceptance", date: "Friday, 29 May 2026"}

@@ -290,10 +290,10 @@ pitchFaqRows:
 sponsorDescription: "Be part of shaping the future of healthcare innovation at HAI 2026 - where breakthrough ideas and emerging technologies come together to accelerate real-world healthcare impact."
 sponsorRowsTitle: "Why sponsor?"
 sponsorRows:
- - {title: "Brand Visibility", details: "Amplify your brand with prominent logo placement across event collateral, digital platforms, and on-site signage, reaching industry leaders and decision-makers throughout the event."}
- - {title: "Strategic Networking", details: "Gain direct access to C-suite executives, senior decision-makers, leading researchers, and healthcare innovators. Build meaningful connections that support partnerships, catalyse innovation, and drive long-term business growth."}
- - {title: "Speaking Opportunities", details: "Showcase your expertise through curated panel discussions, keynote sessions and presentations, positioning your organisation as a leader in healthcare AI and innovation."}
- - {title: "Innovation Showcase", details: "Secure premium exhibition space to demonstrate your latest solutions and technologies. Engage directly with potential clients, collaborators, and investors in a high-impact setting."}
+ - {title: "Brand Visibility", image: "brand.png", details: "Amplify your brand with prominent logo placement across event collateral, digital platforms, and on-site signage, reaching industry leaders and decision-makers throughout the event."}
+ - {title: "Strategic Networking", image: "networking.png", details: "Gain direct access to C-suite executives, senior decision-makers, leading researchers, and healthcare innovators. Build meaningful connections that support partnerships, catalyse innovation, and drive long-term business growth."}
+ - {title: "Speaking Opportunities", image: "speaking.png", details: "Showcase your expertise through curated panel discussions, keynote sessions and presentations, positioning your organisation as a leader in healthcare AI and innovation."}
+ - {title: "Innovation Showcase", image: "innovation.png", details: "Secure premium exhibition space to demonstrate your latest solutions and technologies. Engage directly with potential clients, collaborators, and investors in a high-impact setting."}
 
 
 

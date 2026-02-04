@@ -20,10 +20,6 @@
         <div class="col-lg-8 col-lg-offset-2">
             <h4>{{ site.pitchNotesTitle }}</h4>
             {% for note in site.pitchNotesRows %}
-            <p class="text-left"><b>- {{ note.title }}</b>:</p>
-            {% endfor %}
-
-            {% for note in site.pitchNotesRows %}
             {% assign colWidth = 12 | divided_by: forloop.length %}
             <div class="col-md-{{ colWidth }} col-xs-12 same-height">  
                 <img class="img-circle" src="{{ site.baseurl }}/img/pitch/{{ note.image }}" height="128" width="128" alt="{{ note.title }}">

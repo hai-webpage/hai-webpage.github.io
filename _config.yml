@@ -299,6 +299,7 @@ sponsorEnquiryTitle: "For Sponsorship Enquiries"
 sponsorEnquirySubtitle: "Shape the Future of Healthcare AI"
 sponsorEnquiryDescription: "Connect with innovators driving healthcare transformation"
 sponsorEnquiryButton: "Request sponsorship details"
+sponsorEnquiryImage: "highlights.png"
 
 # # Hackathon
 # hackathonTitle: "Hackathon"

@@ -255,6 +255,7 @@ pitchBenefitCards:
  - {title: "Elevate", image: "elevate.png", information: 'your visibility within the healthcare AI community'}
 
 # Pitch Challenge Important Dates
+pitchDatesTitle: "Important Dates"
 pitchDatesRows:
  - {title: "Application Deadline", date: "Tuesday, 31 March 2026"}
  - {title: "Notification of Acceptance", date: "Sunday, 31 May 2026"}

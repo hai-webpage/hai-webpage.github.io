@@ -1,4 +1,27 @@
-@import url("//fonts.googleapis.com/css?family=Roboto%3A100%2C300%2C500");
+/* roboto-100 - latin */
+@font-face {
+  font-display: swap;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  src: url('../fonts/roboto-v50-latin-100.woff2') format('woff2');
+}
+/* roboto-300 - latin */
+@font-face {
+  font-display: swap;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  src: url('../fonts/roboto-v50-latin-300.woff2') format('woff2');
+}
+/* roboto-500 - latin */
+@font-face {
+  font-display: swap;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  src: url('../fonts/roboto-v50-latin-500.woff2') format('woff2');
+}
 
 html {
   font-family: sans-serif;
@@ -7,6 +30,7 @@ html {
 }
 
 body {
+  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 0
 }
 

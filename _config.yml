@@ -213,7 +213,7 @@ posterButtonText: "Register your poster"
 posterHeroImage: "HAI25 background.jpg"
 
 # Poster About Block
-posterDescription: "The Healthcare AI Symposium 2026 invites undergraduate, postgraduate, and doctoral students to submit posters presenting their translational research aligned with the theme “<b>Designing the Future of Intelligent Health: Advancing Healthcare Through AI, MedTech, and Digital Systems</b>”.<br><br>This is an opportunity to share their research work and engage with researchers, clinicians, and industry leaders."
+posterDescription: "The Healthcare AI Symposium 2026 invites undergraduate, postgraduate, and doctoral students to submit posters presenting their translational research aligned with the theme<br><br>“<b>Designing the Future of Intelligent Health: Advancing Healthcare Through AI, MedTech, and Digital Systems</b>”.<br><br>This is an opportunity to share their research work and engage with researchers, clinicians, and industry leaders."
 posterTopicsTitle: "Invited Topics"
 posterTopicsRows:
  - {title: "AI-driven Diagnostics, Monitoring and Triage", image: "diagnostics.png"}

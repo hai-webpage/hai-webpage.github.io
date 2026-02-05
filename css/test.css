@@ -333,8 +333,8 @@ h1 small,h1 .small,.h1 small,.h1 .small,h2 small,h2 .small,.h2 small,.h2 .small,
 }
 
 h4,.h4,h5,.h5,h6,.h6 {
-  margin-top: 10px;
-  margin-bottom: 10px
+  margin-top: 20px;
+  margin-bottom: 20px
 }
 
 h4 small,h4 .small,.h4 small,.h4 .small,h5 small,h5 .small,.h5 small,.h5 .small,h6 small,h6 .small,.h6 small,.h6 .small {
@@ -533,8 +533,8 @@ ul ul,ul ol,ol ul,ol ol {
 
 .list-inline>li {
   display: inline-block;
-  padding-left: 5px;
-  padding-right: 5px
+  padding-left: 10px;
+  padding-right: 10px
 }
 
 dl {

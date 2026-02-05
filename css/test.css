@@ -4199,7 +4199,7 @@ nav li a.current,nav li a:hover {
   overflow: visible;
   height: 100px;
   text-overflow: ellipsis;
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 3;
   -webkit-box-orient: vertical
 }
 

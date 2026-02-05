@@ -3702,7 +3702,7 @@ nav li a.current,nav li a:hover {
 }
 
 .partners img {
-  height: 72px;
+  height: 50px;
   width: auto;
   object-fit: contain;
   -webkit-transition: all 0.3s;

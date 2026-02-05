@@ -333,8 +333,8 @@ h1 small,h1 .small,.h1 small,.h1 .small,h2 small,h2 .small,.h2 small,.h2 .small,
 }
 
 h4,.h4,h5,.h5,h6,.h6 {
-  margin-top: 20px;
-  margin-bottom: 50px
+  margin-top: 10px;
+  margin-bottom: 10px
 }
 
 h4 small,h4 .small,.h4 small,.h4 .small,h5 small,h5 .small,.h5 small,.h5 .small,h6 small,h6 .small,.h6 small,.h6 .small {
@@ -3309,6 +3309,11 @@ nav li a.current,nav li a:hover {
   margin: 200px 0 0 0;
   color: #fff;
   background: 0
+}
+
+.about h4 {
+  margin-top: 20px;
+  margin-bottom: 50px
 }
 
 .about-details img {

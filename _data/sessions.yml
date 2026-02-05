@@ -3,13 +3,13 @@
   title: "Registration"
   place: "Hall"
   service: false
-  description: "Sign in and join the event"
+  #description: "Sign in and join the event"
 -
   id: 002
   title: "Coffee Break and Networking"
   place: "Hall"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  #description: "The best time to talk with speakers and attendees"
 -
   id: 003
   title: "Lunch, Networking and Exhibitions"

@@ -84,7 +84,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://www.a-star.edu.sg/ihpc", text: "Institute of High Performance Computing (A*STAR IHPC)"}
+   - {link: "https://www.a-star.edu.sg/ihpc", text: "A*STAR Institute of High Performance Computing (A*STAR IHPC)"}
   # - {link: "https://www.a-star.edu.sg", text: "Agency for Science, Technology and Research (A*STAR)"}
  -
   title: "Contact"

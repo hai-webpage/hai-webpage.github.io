@@ -169,13 +169,13 @@ pitchNotesRows:
 
 # Pitch Challenge FAQ Block
 pitchFaqRows:
- - {title: "Who should apply?", details: "Startups or companies working on innovative healthcare or AI-driven sotluions are welcome to apply. We accept early-stage, growth-stage, and research-based ventures."}
+ - {title: "Who should apply?", details: "Startups or companies working on innovative healthcare or AI-driven solutions are welcome to apply. We accept early-stage, growth-stage, and research-based ventures."}
  - {title: "Is there a fee to participate?", details: "No, participation in the pitch challenge is free of charge. However, teams are responsible for their own travel and accommodation if attending the event."}
  - {title: "How do I register, and what is required in the application?", details: "All applicants must register by completing the online registration form and submit the following:<br>- A pitch deck (PDF or PowerPoint, max file size of 100Mb)<br>- A pitch video (Length: up to 3.5 minutes, format and size: .mp4, .avi, max file size of 1 GB)"}
  - {title: "How long is the pitch?", details: "Each team will have 4 minutes to pitch, followed by 2-3 minutes of Q&A with the judges."}
  - {title: "When is the application deadline?", details: "Application deadline: 31 March 2026<br>Notification of acceptance: 31 May 2026<br>Pitch: 9 July 2026"}
  - {title: "What is the judging criteria?", details: "Judges will evaluate the pitches based on <br>- Innovation and uniqueness<br>- Impact on healthcare<br>- Feasibility and scalability<br>- Team Capability<br>- Clarity of presentation"}
- - {title: "What are the benefits of participating in the Healthcare Innovation Pitch Challenge?", details: "Opportunity to pitch and receive professional feedback from the judging panel and industry experts. Top 3 teams will receive:<br>- Recognition at the symposium.<br>- Networking opportunities with investors and partners.<br>- Potential follow-up meetings or funding introductions.</li></ul>"}
+ - {title: "What are the benefits of participating in the Healthcare Innovation Pitch Challenge?", details: "Opportunity to pitch and receive professional feedback from the judging panel and industry experts. Top 3 teams will receive:<br>- Recognition at the symposium<br>- Networking opportunities with investors and partners<br>- Potential follow-up meetings or funding introductions</li></ul>"}
  - {title: "How many members can attend the symposium?", details: "Up to two members from the same company will receive complimentary access to HAI 2026. Additional members may register to attend the event."}
  - {title: "Can I submit more than one application?", details: "Founders should only submit one application per company."}
  - {title: "Is may application confidential?", details: "Yes, all applications are kept confidential within the organising team and shared only with the judging panel as required for their evaluation."}

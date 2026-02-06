@@ -6410,7 +6410,7 @@ nav li a.current,nav li a:hover {
 .faq-question {
   cursor: pointer;
   font-size: 20px;
-  font-weight: 600;
+  font-weight: 300;
   list-style: none;
   outline: none;
   padding-right: 24px;

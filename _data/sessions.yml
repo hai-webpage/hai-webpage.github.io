@@ -24,7 +24,7 @@
   language: en
 -
   id: 020
-  title: "Keynote address: Designing the Future of Intelligent Health: From Innovation to Integration"
+  title: "Keynote Address: Designing the Future of Intelligent Health: From Innovation to Integration"
   description: ""
   subtype: keynote
   #speakers: [3, 6]
@@ -33,7 +33,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 030
-  title: "Plenary talk"
+  title: "Plenary Talk"
   description: ""
   subtype: presentation
   #speakers: [3, 6]
@@ -42,34 +42,34 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 040
-  title: "Key announcements"
+  title: "Key Announcements"
   description: ""
   subtype: presentation
   #speakers: 
   #language: en
 -
   id: 050
-  title: "Day 1 closing remarks"
+  title: "Day 1 Closing Remarks"
   description: ""
   subtype: presentation
   #speakers: 
   #language: en
 -
   id: 060
-  title: "Day 2 Opening remarks"
+  title: "Day 2 Opening Remarks"
   description: ""
   subtype: presentation
   #speakers: 
   #language: en
 -
   id: 070
-  title: "Event dinner and awards ceremony"
+  title: "Event Dinner and Awards Ceremony"
   description: ""
   place: "Ballroom"
   service: true
 -
   id: 100
-  title: "Foundation models in Healthcare - Building the Intelligent Core"
+  title: "Foundation Models in Healthcare - Building the Intelligent Core"
   description: "Exploring how large-scale foundation models are transforming clinical decision support — laying the groundwork for intelligent healthcare systems."
   subtype: presentation
   #speakers: [3, 6]
@@ -78,7 +78,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 200
-  title: "Digital phenotyping - The New Frontier of Personalised Care"
+  title: "Digital Phenotyping - The New Frontier of Personalised Care"
   description: "Leveraging behavioural, physiological, and digital biomarkers to enable real-time, personalized health insights and proactive care delivery."
   subtype: presentation
   #speakers: [4, 5]

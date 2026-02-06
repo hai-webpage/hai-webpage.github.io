@@ -17,7 +17,7 @@
   service: true
 -
   id: 010
-  title: "Opening address and welcome remarks"
+  title: "Opening Address and Welcome Remarks"
   description: ""
   subtype: keynote
   speakers: 

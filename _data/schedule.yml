@@ -1,6 +1,6 @@
 - 
   date: "2026-07-08"
-  dateReadable: "July 8"
+  dateReadable: "Wed, July 8"
   tracks: 
     - {title: "Session", color: "#206a87"}
 #    - {title: "Web & Cloud", color: "#03a9f4"}
@@ -68,7 +68,7 @@
     }
 - 
   date: "2026-07-09"
-  dateReadable: "July 9"
+  dateReadable: "Thu, July 9"
   tracks: 
     - {title: "Session", color: "#206a87"}
     #- {title: "Web & Cloud", color: "#03a9f4"}
@@ -120,7 +120,7 @@
     }
 - 
   date: "2026-07-10"
-  dateReadable: "July 10"
+  dateReadable: "Fri, July 10"
   tracks: 
     - {title: "Masterclass", color: "#90be4e"}
 #    - {title: "Web & Cloud", color: "#03a9f4"}

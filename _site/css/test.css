@@ -1860,7 +1860,8 @@ button.close {
   border-radius: 6px;
   box-shadow: 0 3px 9px rgba(0,0,0,0.5);
   background-clip: padding-box;
-  outline: 0
+  outline: 0;
+  z-index: 1050
 }
 
 .modal-backdrop {
@@ -4447,7 +4448,7 @@ nav li a.current,nav li a:hover {
 }
 
 .modal {
-  z-index: 1050 !important
+  z-index: 1050
 }
 
 .modal .icon-cross {
@@ -4476,7 +4477,7 @@ nav li a.current,nav li a:hover {
   bottom: 0;
   right: 0;
   left: 0;
-  z-index: 1040
+  /*z-index: 1040*/
 }
 
 .modal-content {

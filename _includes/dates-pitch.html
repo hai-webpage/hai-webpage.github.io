@@ -1,0 +1,19 @@
+<!-- Begin Pitch Important Dates Section -->
+<section id="dates-pitch" class="date-pitch image-section parallax" style="background-image: url({{ site.baseurl }}/img/sections-background/{{ site.pitchDatesBlockImage }});">
+    <div class="overlay solid-overlay"></div>
+    <div class="col-lg-8 col-lg-offset-2">
+        <h4>{{ site.pitchDatesTitle }}</h4>
+        <div class="row about-details">
+            {% assign animationDelay = 0 %}
+            {% for dates in site.pitchDatesRows %}
+            {% assign colWidth = 12 | divided_by: forloop.length %}
+            <div class="col-md-{{ colWidth }} col-xs-12 same-height animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">  
+                <h6><b>{{ dates.title }}</b></h6>
+                <p>{{ dates.date }}</p>
+            </div>
+            {% assign animationDelay = animationDelay | plus:500 %}
+            {% endfor %}
+        </div>
+    </div>
+</section>
+<!-- End Pitch Important Dates Section -->

@@ -2330,7 +2330,7 @@ section {
   text-align: center
 }
 
-section h3 {
+section h3, h4 {
   margin-bottom: 50px
 }
 
@@ -5759,7 +5759,7 @@ nav li a.current,nav li a:hover {
     padding-bottom: 40px
   }
 
-  section h3 {
+  section h3, h4 {
     padding-bottom: 30px
   }
 
@@ -6145,12 +6145,13 @@ nav li a.current,nav li a:hover {
   .lily-effect figcaption h2,.lily-effect figcaption p {
     -webkit-transform: translateY(-25px);
     -ms-transform: translateY(-25px);
-    transform: translateY(-25px)
+    transform: translateY(-25px);
   }
 
   .lily-effect figcaption p {
     line-height: 1;
-    opacity: 1
+    opacity: 1;
+    color: #000;
   }
 
   .lily-effect figcaption .position {

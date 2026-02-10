@@ -1,22 +1,6 @@
 <!-- Begin Info Pitch Section -->
 <section id="info-poster" class="about">
     <div class="content-wrapper">
-
-        <div class="col-lg-8 col-lg-offset-2">
-            <h4>{{ site.pitchDatesTitle }}</h4>
-            <div class="row about-details">
-                {% assign animationDelay = 0 %}
-                {% for dates in site.pitchDatesRows %}
-                {% assign colWidth = 12 | divided_by: forloop.length %}
-                <div class="col-md-{{ colWidth }} col-xs-12 same-height animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">  
-                        <h6><b>{{ dates.title }}</b></h6>
-                        <p>{{ dates.date }}</p>
-                </div>
-                {% assign animationDelay = animationDelay | plus:500 %}
-                {% endfor %}
-            </div>
-        </div>
-
         <div class="col-lg-8 col-lg-offset-2">
             <h4>{{ site.pitchNotesTitle }}</h4>
             {% for note in site.pitchNotesRows %}

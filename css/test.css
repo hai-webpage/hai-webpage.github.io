@@ -4293,7 +4293,7 @@ nav li a.current,nav li a:hover {
   height: 50%;
   padding: 32px 16px;
   text-transform: uppercase;
-  color: #000000
+  color: #373737;
 }
 
 .lily-effect figcaption h2 {
@@ -4316,10 +4316,11 @@ nav li a.current,nav li a:hover {
 .lily-effect figcaption .position {
   margin: 0;
   font-size: 11px;
+  font-weight: 400;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   letter-spacing: 1px;
-  color: rgba(255,255,255,0.9);
+  color: #fff;
   -webkit-transform: translateY(20px);
   -ms-transform: translateY(20px);
   transform: translateY(20px)

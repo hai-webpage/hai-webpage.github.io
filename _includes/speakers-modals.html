@@ -12,7 +12,7 @@
 							</svg>
 							<div class="close-mask" data-dismiss="modal"></div>
 						</div>
-						{% if site.showSessions %}
+						<!-- {% if site.showSessions %}
 							{% for session in site.data.sessions %}
 								{% for session_speaker in session.speakers %}
 									{% if session_speaker == speaker.id %}
@@ -36,16 +36,15 @@
 								{% endfor %}		
 							{% endfor %}
 							<hr>
-						{% endif %}
+						{% endif %} -->
 						<div class="people-details">
 							<div class="row">
 								<div class="col-md-2 col-sm-2">
 									<div class="flow-img img-circle people-img" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
 								</div>
 								<div class="col-md-10 col-sm-10 details">
-									<p class="name">{{ speaker.name }} {{ speaker.surname }}
-										<span class="position">{{ speaker.title }}, {{ speaker.company }}</span>
-									</p>
+									<p class="name">{{ speaker.name }} {{ speaker.surname }}</p>
+									<p><b>{{ speaker.title }}, {{ speaker.company }}</b></p>
 									{% if speaker.ribbon != null %}
 									<div class="modal-ribbon-wrapper">
 			                            {% for ribbon in speaker.ribbon %}

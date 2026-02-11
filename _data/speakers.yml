@@ -1,16 +1,4 @@
 - 
-  id: 1
-  name: "Rick Siow Mong"
-  surname: "Goh"
-  company: "A*STAR Institute of High Performance Computing"
-  title: "Department Director of Computing and Intelligence"
-  bio: "<p>Dr. Rick Goh is the Director of Computing & Intelligence Department at A*STAR’s Institute of High Performance Computing (IHPC), an Adj. Assoc. Professor at Duke-NUS Medical School, Adj. Senior Principal Investigator at Singapore Eye Research Institute (SERI), Co-Director of both A*STAR-EVYD Joint Lab and SERI-IHPC Joint Lab. He chaired the organising committee of HPC AI Innovation Challenge 2023-2024, organised by National Supercomputing Centre (NSCC), AI Singapore (AISG), and Infocomm Media Development Authority (IMDA).</p><p>Leading a team of 80 scientists and engineers, Dr. Goh focuses on world-leading scientific research, advancing technology commercialisation, and fostering industry collaborations. His dept specialises in Artificial Intelligence & Advanced Computing, including high performance computing using GPUs, FPGAs, quantum technologies, and decentralised computing like blockchain, secure multi-party computation and privacy-preserving federated learning. He has published 150+ peer-reviewed papers in prestigious healthcare journals including Nature Aging, Nature Genetics, The Lancet Digital Health, and top-tier AI journals and conferences such as Nature Machine Intelligence, Nature Comms, IEEE TPAMI, TNNLS, TPDS, Cybernetics, TMI, AAAI, CACM, CVPR, IJCAI, and MICCAI.</p><p>Under his leadership, his dept has won multiple highly competitive AI Singapore Tech Challenge and Grand Challenge grants, best paper awards, Global Challenge for Safe and Secure LLMs 2024, Singapore Blockchain Innovation Challenge 2024, RePSS Challenge 2024, and Singapore Healthcare Management Awards. His dept has secured over S$45M in industry cash and in-kind contributions, trained 150 researchers now working in academia or industry, spun off a startup that raised S$26M in investments and created 30 jobs, deployed a telehealth solution that saved 6,000 hospital bed days resulting in S$6M in cost savings, and was recognised with the Singapore National Award (COVID-19) Commendation Medal.</p>"
-  thumbnailUrl: RickGoh.png
-  cardThumbnailUrl: RickGoh2.png
-  rockstar: true
- # social: 
- #   - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
   id: 2
   name: "Tien Yin"
   surname: "Wong"
@@ -40,6 +28,18 @@
 #  social: 
 #    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
 #    - {name: "twitter", link: "https://twitter.com/mherych"}
+- 
+  id: 1
+  name: "Rick Siow Mong"
+  surname: "Goh"
+  company: "A*STAR Institute of High Performance Computing"
+  title: "Department Director of Computing and Intelligence"
+  bio: "<p>Dr. Rick Goh is the Director of Computing & Intelligence Department at A*STAR’s Institute of High Performance Computing (IHPC), an Adj. Assoc. Professor at Duke-NUS Medical School, Adj. Senior Principal Investigator at Singapore Eye Research Institute (SERI), Co-Director of both A*STAR-EVYD Joint Lab and SERI-IHPC Joint Lab. He chaired the organising committee of HPC AI Innovation Challenge 2023-2024, organised by National Supercomputing Centre (NSCC), AI Singapore (AISG), and Infocomm Media Development Authority (IMDA).</p><p>Leading a team of 80 scientists and engineers, Dr. Goh focuses on world-leading scientific research, advancing technology commercialisation, and fostering industry collaborations. His dept specialises in Artificial Intelligence & Advanced Computing, including high performance computing using GPUs, FPGAs, quantum technologies, and decentralised computing like blockchain, secure multi-party computation and privacy-preserving federated learning. He has published 150+ peer-reviewed papers in prestigious healthcare journals including Nature Aging, Nature Genetics, The Lancet Digital Health, and top-tier AI journals and conferences such as Nature Machine Intelligence, Nature Comms, IEEE TPAMI, TNNLS, TPDS, Cybernetics, TMI, AAAI, CACM, CVPR, IJCAI, and MICCAI.</p><p>Under his leadership, his dept has won multiple highly competitive AI Singapore Tech Challenge and Grand Challenge grants, best paper awards, Global Challenge for Safe and Secure LLMs 2024, Singapore Blockchain Innovation Challenge 2024, RePSS Challenge 2024, and Singapore Healthcare Management Awards. His dept has secured over S$45M in industry cash and in-kind contributions, trained 150 researchers now working in academia or industry, spun off a startup that raised S$26M in investments and created 30 jobs, deployed a telehealth solution that saved 6,000 hospital bed days resulting in S$6M in cost savings, and was recognised with the Singapore National Award (COVID-19) Commendation Medal.</p>"
+  thumbnailUrl: RickGoh.png
+  cardThumbnailUrl: RickGoh2.png
+  rockstar: true
+ # social: 
+ #   - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 -
   id: 4
   name: "Chwee Teck"

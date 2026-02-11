@@ -62,6 +62,11 @@ aboutBlock:
  - {title: "Gain", image: "gain.png", text: "practical skills in our full-day hands-on workshop." }
  - {title: "Showcase", image: "showcase.png", text: "your startup at the Healthcare Innovation Pitch Challenge!" }
 
+# 2025 highlights
+highlightsTitle: "Revisit HAI 2025"
+highlightsVideo: "HAI25highlights.mp4"
+highlightsDescription: "HAI 2025 brought together more than 250 healthcare innovators for a high-impact gathering featuring 20 expert speakers, 3 dynamic panel discussions, 19 cutting-edge tech showcases, and an inaugural Healthcare Innovation Pitch Challenge."
+
 # Statistic Block
 statisticTitle: "HAI 2026 Highlights"
 statisticBlockImage: "highlights.png"

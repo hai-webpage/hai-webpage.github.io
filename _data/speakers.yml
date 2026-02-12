@@ -204,3 +204,23 @@
 #  social: 
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 #    - {name: "site", link: "http://olostan.name/"}
+-
+  id: 15
+  name: "Wai Hoe"
+  surname: "Ng"
+  company: "SingHealth"
+  title: "Group Chief Executive Officer"
+  bio: "<p>Professor Ng Wai Hoe is currently the Group Chief Executive Officer (GCEO) at SingHealth and Senior Consultant with the Department of Neurosurgery at National Neuroscience Institute (NNI). He was previously Deputy Group CEO (Strategy & Planning) of SingHealth, CEO of Changi General Hospital, Medical Director of NNI, Academic Chair of the SingHealth Duke-NUS Neuroscience Academic Clinical Programme as well as Deputy Chairman of the SingHealth Medical Board.</p><p>Prof Ng is a neurosurgeon with clinical interests in neurosurgical oncology (brain tumours), stereotactic and functional neurosurgery and epilepsy surgery.</p><p>He was a Fellow of the Royal Australasian College of Surgeons (FRACS) and underwent residency training in Singapore (NNI) and Australia (Royal Melbourne Hospital and Royal Children's Hospital). He underwent subspecialty training at the Royal Melbourne and Royal Children's Hospital in Neuro-Oncology, Toronto Western Hospital in Stereotactic and Functional Neurosurgery and Hospital for Sick Children (Toronto) in Paediatric Neurosurgery. He was also a Sugita Fellow and Visiting Scholar at Nagoya University.</p>"
+  thumbnailUrl: NgWaiHoe.png
+  cardThumbnailUrl: NgWaiHoe2.png
+  rockstar: true
+-
+  id: 16
+  name: "Kee Yuan"
+  surname: "Ngiam"
+  company: "National University Health System"
+  title: "Head, Artificial Intelligence Office"
+  bio: "<p>Prof Ngiam Kee Yuan is Head of the Artificial Intelligence Office, National University Health System. He is also Adjunct Professor at the Department of Surgery, Yong Loo Lin School of Medicine, National University of Singapore. In his clinical role, he is Head and Senior Consultant at the Division of General Surgery (Thyroid & Endocrine Surgery) at the National University Hospital, specialising in Thyroid and Endocrine surgical disorders. His special interests are in thyroid and endocrine surgery, robotic thyroid surgery, AI and technology implementation in healthcare.</p>"
+  thumbnailUrl: NgiamKeeYuan.avif
+  cardThumbnailUrl: NgiamKeeYuan2.png
+  rockstar: true

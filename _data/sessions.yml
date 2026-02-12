@@ -100,7 +100,7 @@
   title: "Next Generation Systems for Care Coordination and Decision Support"
   description: "This session highlights how agentic systems and AI-driven decision-support tools are improving care coordination and clinical workflows. It explores real examples of intelligent automation, data-guided decisions, and safer, more connected models of care."
   subtype: presentation
-  speakers: [2, 10]
+  speakers: [2, 10, 15, 16]
   #language: uk
   #complexity: "Beginner"
   #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"

@@ -224,3 +224,43 @@
   thumbnailUrl: NgiamKeeYuan.avif
   cardThumbnailUrl: NgiamKeeYuan2.png
   rockstar: true
+-
+  id: 17
+  name: "Yong"
+  surname: "Liu"
+  company: "A*STAR Institute of High Performance Computing"
+  title: "Deputy Director of Computing and Intelligence"
+  bio: "<p>Dr Liu Yong is Deputy Department Director, Computing & Intelligence Department at Institute of High Performance Computing (IHPC), A*STAR, Singapore. He is also Adjunct Associate Professor at Duke-NUS Medical School, NUS and Adjunct Principal Investigator at Singapore Eye Research Institute (SERI).</p><p>Being passionate on the potential of AI on healthcare, he has led multiple research projects in multimodal machine learning, medical imaging analysis, especially AI for digital ophthalmology and other areas in healthcare. Together with clinicians, he has been awarded large scale programme and multiple grants as PI in the area of AI for healthcare. He and his team have been awarded multiple grants from AI SG, NMRC, IAF-PP, and NHIC. He and his team have also published top tier papers in New England Journal of Medicine, Lancet Digital Health, Nature Aging, Ophthalmology, Neurology, Annals of Neurology, and also top-tier AI papers (AAAI, CVPR, IJCAI, MICCAI). He has won the Nation Award (Covid-19) Commendation Medal. His papers received Best Paper Award at REMIA workshop with 2022 MICCAI, Best Paper Award at BeyondLabeler Workshop on International Joint Conference on Artificial Intelligence (IJCAI) 2016. He and his team has also won the 3rd Place GAMMA Challenge in MICCAI 2021, the NSCC Outstanding HPC Innovation Award 2017, and the first prize of Rakuten TV recommendation Challenge 2015.</p>"
+  thumbnailUrl: LiuYong.jpg
+  cardThumbnailUrl: LiuYong2.png
+  rockstar: true
+# -
+#   id: 18
+#   name: "Yang Tong"
+#   surname: "Foo"
+#   company: "Health Sciences Authority"
+#   title: "Director, Clinical Trials Branch"
+#   bio: "<p>Prof Ngiam Kee Yuan is Head of the Artificial Intelligence Office, National University Health System. He is also Adjunct Professor at the Department of Surgery, Yong Loo Lin School of Medicine, National University of Singapore. In his clinical role, he is Head and Senior Consultant at the Division of General Surgery (Thyroid & Endocrine Surgery) at the National University Hospital, specialising in Thyroid and Endocrine surgical disorders. His special interests are in thyroid and endocrine surgery, robotic thyroid surgery, AI and technology implementation in healthcare.</p>"
+#   thumbnailUrl: FooYangTong.png
+#   cardThumbnailUrl: FooYangTong2.png
+#   rockstar: true
+-
+  id: 19
+  name: "Cher Heng"
+  surname: "Tan"
+  company: "Woodlands Hospital"
+  title: "Co-Chair, AimSG and Chief Operating Officer (Designate)"
+  bio: "<p>With over 20 years of clinical and academic experience, Dr. Tan Cher Heng has served in various capacities, striving to transform healthcare through clinical care, research and innovation. In his current role as COO (Designate) Woodlands Hospital, he continues the pursuit of shaping healthcare through efficient use of resources, to optimise outcomes for patients, staff and our system.</p><p>In his concurrent role as Director, Academic Partnerships Office, he supports the establishment of the office that promotes the practice of academic medicine by deepening the partnership between NHG and LKCMedicine. His mission is to empower his teams and peers to create opportunities and solutions that will prepare our health system to better serve our patients and the population of tomorrow.</p>"
+  thumbnailUrl: TanCherHeng.jpg
+  cardThumbnailUrl: TanCherHeng2.png
+  rockstar: true
+-
+  id: 20
+  name: "Daria"
+  surname: "Lemann-Blumenthal"
+  company: "Nanodrops"
+  title: "Chief Executive Officer"
+  bio: "<p>Daria Lemann-Blumenthal is the CEO of NanoDrops, a MedTech company pioneering a breakthrough vision correction technology that eliminates the need for reading glasses. Prior to joining NanoDrops, Daria was the co-founder and CEO of BELKIN Vision, which was acquired by Alcon in 2024 for $466 million, after developing a laser-based glaucoma treatment. She previously served as the CEO of Ein Tal Eye Center, Israel's largest ophthalmic care facility, and led its acquisition. Daria has spent five years of her career in Canada and the USA. She holds an LLB from the Hebrew University of Jerusalem and an Executive MBA from Tel Aviv University, both awarded with Dean’s Honors. </p>"
+  thumbnailUrl: DariaLemannBlumenthal.png
+  cardThumbnailUrl: DariaLemannBlumenthal2.png
+  rockstar: true

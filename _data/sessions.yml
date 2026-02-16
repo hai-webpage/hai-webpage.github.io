@@ -16,6 +16,11 @@
   place: "Hall"
   service: true
 -
+  id: 004
+  title: "Networking Lunch"
+  place: "Hall"
+  service: true
+-
   id: 010
   title: "Opening Address and Welcome Remarks"
   description: ""
@@ -110,7 +115,7 @@
   title: "Intelligent Devices & Connected Diagnostics — Bridging MedTech and AI for Next-Gen Care"
   description: "Showcasing how sensor technologies, connected devices, and edge AI are transforming diagnostics and patient monitoring. The session highlights practical examples of AI-enabled MedTech innovations — from point-of-care diagnostics to continuous monitoring platforms — and explores challenges in validation, and scaling these solutions into clinical workflows."
   subtype: presentation
-  speakers: [11, 4, 12]
+  speakers: [11, 4, 12, 20]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -141,6 +146,76 @@
   description: ""
   subtype: workshop
   #speakers: [7]
+  #language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 901
+  title: "Opening Keynote - The End-to-End Journey of Healthcare AI - From Innovation to Impact"
+  description: "An introduction to the full lifecycle of healthcare AI innovation - from foundational technologies and model development to productisation, regulatory approval, and real-world deployment. This opening keynote sets the stage for the day, outlining how breakthrough algorithms become trusted clinical solutions and how technology, governance, and ecosystem partnerships must align to deliver meaningful healthcare impact."
+  subtype: workshop
+  speakers: [1]
+  #language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 902
+  title: "Modern AI for Healthcare – A Panoramic View"
+  description: "A practical and accessible overview of how modern AI is transforming healthcare - from classical machine learning to deep learning, transformers, foundation models, and clinical AI agents. This session explores how AI systems interpret medical images, clinical text, and physiological data across radiology, ophthalmology, ICU monitoring, and digital health. Participants gain clarity on core concepts, performance metrics, strengths and limitations, and what to consider when evaluating and deploying AI solutions in real clinical settings."
+  subtype: workshop
+  speakers: [17]
+  #language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 903
+  title: "Hands-on of Healthcare AI Development"
+  description: "A guided, hands-on session demonstrating how to rapidly build and deploy healthcare AI solutions using modern AI frameworks. Participants will work through secure data preparation, model fine-tuning, evaluation, and deployment workflows while leveraging pre-trained healthcare-relevant models. The session highlights best practices in security, governance, and operational readiness for regulated healthcare environments, culminating in the creation of a simple end-to-end healthcare AI prototype."
+  subtype: workshop
+  #speakers: [7]
+  #language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 904
+  title: "Clinical Decision Support: Interactive Hands-On Exploration"
+  description: "An experiential session where participants directly engage with AI-powered clinical decision support (CDS) systems. Through curated patient scenarios, attendees will observe how recommendations are generated, explore explainability features, and assess safety mechanisms such as uncertainty indicators and guardrails. The session emphasises practical understanding - where AI adds value, where caution is needed, and how usability and trust shape successful deployment."
+  subtype: workshop
+  #speakers: [7]
+  #language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 905
+  title: "Healthcare AI Productization"
+  description: "This interactive session guides participants through structured methods for identifying unmet clinical needs, filtering opportunities, and crafting impactful solutions. Attendees gain practical tools for translating ideas into viable, patient-centred products while considering industry and commercial realities."
+  subtype: workshop
+  #speakers: [7]
+  #language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 906
+  title: "Regulation, Safety, and Trust for Medical AI in Singapore"
+  description: "A rare deep dive into how Singapore’s national regulator evaluates, approves, and monitors medical AI. This session unpacks regulatory classifications (SaMD vs AI-CDSS), documentation requirements, evidence generation, and post-market surveillance expectations. Participants gain insight into adaptive AI regulation and learn how early engagement with HSA can accelerate safe productisation and clinical adoption."
+  subtype: workshop
+  #speakers: [18]
+  #language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 907
+  title: "Integrating AI Solutions into Singapore’s National Health Digital Infrastructure"
+  description: "The session will unpack how AimSG functions as Singapore’s coordinated national deployment backbone for medical AI — reducing fragmentation, accelerating time-to-implementation, enforcing shared interoperability and governance standards, and enabling seamless scale-out across healthcare clusters into real clinical workflows. Using AimSG as the central case study, participants will gain a step-by-step understanding of the national onboarding pathway: from positioning and validation of AI solutions, to integration on a common vendor-neutral platform, rigorous clinical evaluation, continuous safety and performance monitoring, and ultimately operationalisation at scale across institutions."
+  subtype: workshop
+  speakers: [19]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"

@@ -85,15 +85,16 @@
 #  social: 
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 #    - {name: "site", link: "http://olostan.name/"}
-#- 
-#  id: 6
-#  name: "Harsh"
-#  surname: "Dhand"
-#  company: "Google"
-#  title: "APAC Lead, GenAI, Google Research, HeathAI and Core Partnerships"
-#  bio: "<p>Harsh Dhand heads GenAI, Google Research, HeathAI and Core Partnerships for APAC. He has over 20+ years experience in various Research organizations like Philips Healthcare, IBM Research and briefly at Microsoft Azure team. He has a Bachelors and Masters in Computer Science from IIT-Delhi and has an MBA from Oxford University.</p><p>In his current role, Harsh is leading a team across APAC (India, Singapore, Japan and Australia) enabling partnerships for AI Technology development and adoption like GenAI, Gemma, MedGemma, International Languages, Health AI and other applied areas like Agriculture, Sustainability and Quantum. He leads several Google’s business engagements and partnerships with Governments, Academia, Startups and other corporations. He is driving the Health Partnerships for developing India Health Foundational models and also is part of the core committee of NHA, India drafting the Strategy for AI use in Healthcare in India.</p>"
-#  thumbnailUrl: ValentynShybanov.jpg
-#  rockstar: true
+- 
+ id: 6
+ name: "Harsh"
+ surname: "Dhand"
+ company: "Google"
+ title: "APAC Lead, GenAI, Google Research, HeathAI and Core Partnerships"
+ bio: "<p>Harsh Dhand heads GenAI, Google Research, HeathAI and Core Partnerships for APAC. He has over 20+ years experience in various Research organizations like Philips Healthcare, IBM Research and briefly at Microsoft Azure team. He has a Bachelors and Masters in Computer Science from IIT-Delhi and has an MBA from Oxford University.</p><p>In his current role, Harsh is leading a team across APAC (India, Singapore, Japan and Australia) enabling partnerships for AI Technology development and adoption like GenAI, Gemma, MedGemma, International Languages, Health AI and other applied areas like Agriculture, Sustainability and Quantum. He leads several Google’s business engagements and partnerships with Governments, Academia, Startups and other corporations. He is driving the Health Partnerships for developing India Health Foundational models and also is part of the core committee of NHA, India drafting the Strategy for AI use in Healthcare in India.</p>"
+ thumbnailUrl: HarshDhand.jpg
+ cardThumbnailUrl: HarshDhand2.png
+ rockstar: true
 #  ribbon:
 #    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
 #  social: 

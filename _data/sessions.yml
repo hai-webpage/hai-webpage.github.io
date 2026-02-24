@@ -77,7 +77,7 @@
   title: "Foundation Models in Healthcare - Building the Intelligent Core"
   description: "Exploring how large-scale foundation models are transforming clinical decision support — laying the groundwork for intelligent healthcare systems."
   subtype: presentation
-  speakers: [3, 5]
+  speakers: [3, 5, 6]
   #language: en
   #complexity: "Intermediate"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -125,7 +125,7 @@
   title: "Investing in the Future of Health AI"
   description: ""
   subtype: presentation
-  speakers: [14]
+  speakers: [14, 21]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"

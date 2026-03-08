@@ -55,6 +55,16 @@
 #  social: 
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 #    - {name: "site", link: "http://olostan.name/"}
+-
+  id: 22
+  name: "Nigam"
+  surname: "H. Shah"
+  company: "Stanford University"
+  title: "Chief Data Scientist, Stanford Health Care, and Professor of Medicine, and of Biomedical Data Science, Associate Dean (School of Medicine), Associate Director (Stanford Center for Biomedical Informatics Research)"
+  bio: "<p>Dr. Nigam Shah is Professor of Medicine at Stanford University and Chief Data Scientist for Stanford Health Care. He is a world-renowned scientist and entrepreneur with deep expertise in applying machine learning and artificial intelligence (AI) to analyze diverse health data, including electronic health records, claims, and wearables. In his Chief Data Scientist role, he oversees the responsible use of AI for advancing disease understanding and improving clinical care delivery across Stanford Health Care. In 2018, he created the USA's only bedside consultation service, to provide clinicians with on-demand patient outcome summaries. This service was cited in Congressional testimony and was spun out as the independent company Atropos Health in 2021.</p><p>Shah's research is highly influential, with over 350 publications (h-index 94) in journals such as JAMA and the New England Journal of Medicine, receiving over 43,000 citations. As an entrepreneur, he holds nine patents and co-founded three companies that collectively raised over $100 million. He is a dedicated educator, teaching in multiple graduate classes at Stanford University and in an AI in Healthcare Specialization to over 60,000 students online. He is a member of the National Academy of Medicine’s Digital Learning Collaborative as well as a cofounder of the coalition for health AI, which provides guidelines for the responsible use of AI in healthcare.</p>"
+  thumbnailUrl: NigamShah.jpg
+  cardThumbnailUrl: NigamShah2.png
+  rockstar: true
 - 
   id: 5
   name: "Martin"

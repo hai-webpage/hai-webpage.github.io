@@ -285,3 +285,13 @@
   thumbnailUrl: NavjeewanKhosla.png
   cardThumbnailUrl: NavjeewanKhosla2.png
   rockstar: true
+-
+  id: 23
+  name: "Lawrence"
+  surname: "Wee"
+  company: "Infocomm Media Development Authority"
+  title: "Director, Business and Ecosystems"
+  bio: "<p>Dr. Lawrence Wee is currently Director of the Business and Ecosystems division at IMDA. His team is responsible for driving strategic collaborations to catalyze the exploitation and adoption of AI and emerging technologies for enterprises.</p><p>He started his career in public sector research and development when he founded the Healthcare and Biomedical Analytics Laboratory at the Institute of Infocomm Research (I2R), which focused on building deep capabilities in machine learning for biomedicine and healthcare. After the stint at I2R, he moved on to Zuellig Pharma where he took on the role of Chief Data Scientist and led the development of institutional data science capabilities across APAC region. Following that, he joined Allianz Asia-Pacific, where he was responsible for building the regional APAC healthcare data science capabilities across life and health insurance business units. Thereafter, he returned to public service at the Ministry of Health where he had the opportunity to drive strategy and capability development in AI and emerging technologies for the public health sector.</p><p>He is an Associate Faculty at the Singapore University of Social Sciences, and was previously the President of the Association for Medical and Bio-informatics Singapore (AMBIS), and vice-chair of the Chinese-American Pharmaceutical Society (CABS) Singapore chapter.</p><p>He received his Ph.D. in Computational Biology from the National University of Singapore. </p>"
+  thumbnailUrl: LawrenceWee.jpg
+  cardThumbnailUrl: LawrenceWee2.png
+  rockstar: true

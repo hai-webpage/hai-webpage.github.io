@@ -115,7 +115,7 @@
   title: "Intelligent Devices & Connected Diagnostics — Bridging MedTech and AI for Next-Gen Care"
   description: "Showcasing how sensor technologies, connected devices, and edge AI are transforming diagnostics and patient monitoring. The session highlights practical examples of AI-enabled MedTech innovations — from point-of-care diagnostics to continuous monitoring platforms — and explores challenges in validation, and scaling these solutions into clinical workflows."
   subtype: presentation
-  speakers: [11, 4, 12, 20]
+  speakers: [11, 13, 4, 12, 20]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"

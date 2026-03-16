@@ -172,7 +172,7 @@ pitchNotesTitle: "Important Notes"
 pitchNotesRows:
  - {title: "Attractive cash prizes for the top 3 teams", image: "cashprizes.png"}
  - {title: "Global healthcare companies and startups are welcome to apply", image: "companiesstartups.png"}
- - {title: "Shortlisted teams will present onsite at the sysmposium", image: "presentonsite.png"}
+ - {title: "Shortlisted teams will present onsite at the symposium", image: "presentonsite.png"}
 
 # Pitch Challenge FAQ Block
 pitchFaqRows:

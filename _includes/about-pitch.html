@@ -30,10 +30,28 @@
             <p class="text-left">{{ site.whyApplyDescription }}</p>
         </div>
 
+        <!-- <div class="col-lg-8 col-lg-offset-2">
+            <h4>{{ site.pitchPrizesTitle }}</h4>
+
+            <div class="row about-details">
+                {% assign animationDelay = 0 %}
+                {% for prizes in site.pitchPrizesRows %}
+                {% assign colWidth = 12 | divided_by: forloop.length %}
+                <div class="col-md-{{ colWidth }} col-xs-12 same-height animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}""">  
+                        <p>{{ prizes.title }}</p>
+                        <h6><b>{{ prizes.prize }}</b></h6>
+                </div>
+                {% assign animationDelay = animationDelay | plus:500 %}
+                {% endfor %}
+            </div>
+
+        </div> -->
+
         <div class="col-lg-8 col-lg-offset-2">
             <br><br>
             <a href="{{ site.pitchUrl }}" class="btn btn-primary btn-lg waves-effect waves-button waves-light waves-float" target="_blank">{{ site.pitchButtonText }}</a>
         </div>
+
     </div>
 </section>
 <!-- End About Pitch Section -->

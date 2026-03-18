@@ -1,0 +1,19 @@
+<!-- Begin Pitch Prizes Section -->
+<section id="prizes-pitch" class="image-section parallax" style="background-image: url({{ site.baseurl }}/img/sections-background/{{ site.pitchPrizesBlockImage }});">
+    <div class="overlay solid-overlay"></div>
+    <div class="col-lg-8 col-lg-offset-2">
+        <h4><b>{{ site.pitchPrizesTitle }}</b></h4>
+            <div class="row about-details">
+                {% assign animationDelay = 0 %}
+                {% for prizes in site.pitchPrizesRows %}
+                {% assign colWidth = 12 | divided_by: forloop.length %}
+                <div class="col-md-{{ colWidth }} col-xs-12 same-height animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}""">  
+                        <h5>{{ prizes.title }}</h5>
+                        <h4><b>{{ prizes.prize }}</b></h4>
+                </div>
+                {% assign animationDelay = animationDelay | plus:500 %}
+                {% endfor %}
+            </div>
+    </div>
+</section>
+<!-- End Pitch Prizes Section -->

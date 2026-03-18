@@ -133,6 +133,14 @@ posterDatesRows:
  - {title: "Registration Deadline", date: "Monday, 15 June 2026"}
  - {title: "Poster Session", date: "Wednesday, 8 July 2026 & Thursday, 9 July 2026"}
 
+# Poster Prizes
+posterPrizesTitle: "Attractive Cash Prizes"
+posterPrizesBlockImage: "prizes.jpg"
+posterPrizesRows:
+- {title: "Grand Prize", prize: "$3,000 SGD"}
+- {title: "Second Place", prize: "$2,000 SGD"}
+- {title: "Third Place", prize: "$1,000 SGD"}
+
 # Poster FAQ Block
 posterFaqRows:
  - {title: "Eligibility", details: "Students from all backgrounds (engineering, computer science, biomedical sciences, public health, medicine, and related fields) are encouraged to submit. Collaborative or interdisciplinary work is welcomed."}
@@ -166,6 +174,14 @@ pitchDatesRows:
 # Pitch Challenge Why Apply Block
 whyApplyTitle: "Why Apply"
 whyApplyDescription: "Participants will have the opportunity to pitch their ideas and receive expert feedback from a panel of judges and industry leaders.<br><br>The top three teams will gain access to:<br>- Recognition during the symposium<br>- Exclusive networking opportunities with investors and strategic partners<br>- Potential follow-up discussions or funding introductions"
+
+# Pitch Challenge Prizes
+pitchPrizesTitle: "Attractive Cash Prizes"
+pitchPrizesBlockImage: "prizes.jpg"
+pitchPrizesRows:
+- {title: "Grand Prize", prize: "$10,000 SGD"}
+- {title: "Second Place", prize: "$5,000 SGD"}
+- {title: "Third Place", prize: "$3,000 SGD"}
 
 # Pitch Important Notes
 pitchNotesTitle: "Important Notes"

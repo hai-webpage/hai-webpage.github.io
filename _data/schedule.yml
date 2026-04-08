@@ -134,47 +134,47 @@
   timeslots: 
     - {
     	startTime: "8:00",
-    	endTime: "8:30",
+    	#endTime: "8:30",
     	sessionIds: [001]
     }
     - {
     	startTime: "8:30",
-    	endTime: "9:00",
+    	#endTime: "9:00",
     	sessionIds: [901]
     }
     - {
     	startTime: "9:00",
-    	endTime: "10:30",
+    	#endTime: "10:30",
     	sessionIds: [902]
     }
     - {
     	startTime: "10:30",
-    	endTime: "11:30",
+    	#endTime: "11:30",
     	sessionIds: [903]
     }
     - {
     	startTime: "11:30",
-    	endTime: "12:00",
+    	#endTime: "12:00",
     	sessionIds: [904]
     }
     - {
     	startTime: "12:00",
-    	endTime: "13:30",
+    	#endTime: "13:30",
     	sessionIds: [004]
     }
     - {
     	startTime: "13:30",
-    	endTime: "14:30",
+    	#endTime: "14:30",
     	sessionIds: [905]
     }
     - {
     	startTime: "14:30",
-    	endTime: "15:30",
+    	#endTime: "15:30",
     	sessionIds: [906]
     }
     - {
     	startTime: "15:30",
-    	endTime: "16:00",
+    	#endTime: "16:00",
     	sessionIds: [002]
     }
     - {

@@ -7,6 +7,73 @@
             equalheight('.same-height');
         });
 
+        var getVisibleTrackHeader = function() {
+            return $('.schedule-panel:visible .track-header').first();
+        };
+
+        var setActiveSchedulePanel = function(panelId, shouldFocus) {
+            var targetPanel = $('#' + panelId);
+            var targetTab = $('.schedule-tab[data-schedule-target="' + panelId + '"]');
+            if (!targetPanel.length || !targetTab.length) {
+                return;
+            }
+
+            $('.schedule-tab').removeClass('is-active').attr('aria-selected', 'false').attr('tabindex', '-1');
+            $('.schedule-panel').removeClass('is-active').attr('hidden', true);
+
+            targetTab.addClass('is-active').attr('aria-selected', 'true').removeAttr('tabindex');
+            targetPanel.addClass('is-active').removeAttr('hidden');
+
+            $(document.body).trigger('sticky_kit:recalc');
+
+            if (shouldFocus) {
+                targetTab.focus();
+            }
+        };
+
+        var openSchedulePanelForHash = function(hash) {
+            var target = $(hash);
+            if (!target.length) {
+                return;
+            }
+
+            var targetPanel = target.closest('.schedule-panel');
+            if (targetPanel.length) {
+                setActiveSchedulePanel(targetPanel.attr('id'));
+            }
+        };
+
+        $('.schedule-tab').each(function(index) {
+            if (!$(this).hasClass('is-active')) {
+                $(this).attr('tabindex', '-1');
+            }
+        });
+
+        $('.schedule-tab').click(function() {
+            setActiveSchedulePanel($(this).data('scheduleTarget'));
+        });
+
+        $('.schedule-tab').keydown(function(event) {
+            var tabs = $('.schedule-tab');
+            var currentIndex = tabs.index(this);
+            var nextIndex;
+
+            if (event.which === 37 || event.which === 38) {
+                nextIndex = currentIndex === 0 ? tabs.length - 1 : currentIndex - 1;
+            } else if (event.which === 39 || event.which === 40) {
+                nextIndex = currentIndex === tabs.length - 1 ? 0 : currentIndex + 1;
+            } else if (event.which === 36) {
+                nextIndex = 0;
+            } else if (event.which === 35) {
+                nextIndex = tabs.length - 1;
+            } else {
+                return;
+            }
+
+            event.preventDefault();
+            setActiveSchedulePanel($(tabs[nextIndex]).data('scheduleTarget'), true);
+        });
+
         if ($(window).width() > 1500) {
             $('.effect-wrapper').addClass('col-lg-3');
         }
@@ -28,7 +95,8 @@
             var header = $('#top-header');
             var logo = $('#logo-header .logo');
             var buyButton = $('.right-nav-button');
-            var topOffset = header.height() + $('.track-header').height();
+            var visibleTrackHeader = getVisibleTrackHeader();
+            var topOffset = header.height() + (visibleTrackHeader.length ? visibleTrackHeader.height() : 0);
 
             if (scroll >= 100) {
                 header.addClass('after-scroll');
@@ -99,10 +167,11 @@
             });
         });
         $(function() {
-            if(window.location.href.indexOf("schedule") > -1 && window.location.hash) {
+            if (window.location.hash) {
+                openSchedulePanelForHash(window.location.hash);
                 var hash = window.location.hash;
                 $(hash).click();
-            } 
+            }
         });
 
         $(function() {

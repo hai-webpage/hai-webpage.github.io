@@ -1,8 +1,22 @@
 <!-- Begin Schedule Section -->
 <section id="schedule" class="schedule">
     <div class="content-wrapper">
+        <div class="schedule-tabs-wrapper col-lg-8 col-md-10 col-md-offset-1">
+            <div class="schedule-tabs" role="tablist" aria-label="Programme days">
+                {% for day in site.data.schedule %}
+                {% assign tabId = "schedule-tab-" | append: forloop.index %}
+                {% assign panelId = "schedule-panel-" | append: forloop.index %}
+                <button class="schedule-tab{% if forloop.first %} is-active{% endif %}" type="button" role="tab" id="{{ tabId }}" aria-controls="{{ panelId }}" aria-selected="{% if forloop.first %}true{% else %}false{% endif %}" data-schedule-target="{{ panelId }}">
+                    <span class="schedule-tab-day">{{ day.dateTitle }}</span>
+                    <span class="schedule-tab-date">{{ day.dateReadable }}</span>
+                </button>
+                {% endfor %}
+            </div>
+        </div>
         {% for day in site.data.schedule %}
-        <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
+        {% assign tabId = "schedule-tab-" | append: forloop.index %}
+        {% assign panelId = "schedule-panel-" | append: forloop.index %}
+        <div id="{{ panelId }}" class="schedule-table schedule-panel col-lg-8 col-md-10 col-md-offset-1{% if forloop.first %} is-active{% endif %}" role="tabpanel" aria-labelledby="{{ tabId }}"{% unless forloop.first %} hidden{% endunless %}>
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
             <div class="timeslot track-header stick-header">
                 <div class="track-header-label">Day {{ forloop.index }}</div>

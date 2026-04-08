@@ -4593,6 +4593,68 @@ nav li a.current,nav li a:hover {
   margin-bottom: 90px
 }
 
+.schedule-tabs-wrapper {
+  margin-bottom: 30px;
+  padding: 0
+}
+
+.schedule-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px
+}
+
+.schedule-tab {
+  -webkit-appearance: none;
+  appearance: none;
+  background: #f5f8fa;
+  border: 1px solid #d4dde3;
+  border-radius: 0;
+  color: #1a3440;
+  cursor: pointer;
+  flex: 1 1 180px;
+  margin: 0;
+  min-width: 0;
+  padding: 16px 20px;
+  text-align: left;
+  -webkit-transition: background 0.3s,border-color 0.3s,color 0.3s,box-shadow 0.3s;
+  transition: background 0.3s,border-color 0.3s,color 0.3s,box-shadow 0.3s
+}
+
+.schedule-tab:hover,.schedule-tab:focus {
+  border-color: #206a87;
+  box-shadow: 0 8px 20px rgba(32,106,135,0.12);
+  outline: none
+}
+
+.schedule-tab.is-active {
+  background: #206a87;
+  border-color: #206a87;
+  color: #fff
+}
+
+.schedule-tab-day,.schedule-tab-date {
+  display: block
+}
+
+.schedule-tab-day {
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  margin-bottom: 6px;
+  text-transform: uppercase
+}
+
+.schedule-tab-date {
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 1.2
+}
+
+.schedule-panel[hidden] {
+  display: none !important
+}
+
 .schedule-table-heading {
   margin: 10px 0 20px;
   text-align: left
@@ -6198,6 +6260,27 @@ nav li a.current,nav li a:hover {
   .schedule-table {
     margin-bottom: 60px;
     padding: 0
+  }
+
+  .schedule-tabs-wrapper {
+    margin-bottom: 20px
+  }
+
+  .schedule-tabs {
+    gap: 10px
+  }
+
+  .schedule-tab {
+    flex-basis: 100%;
+    padding: 14px 16px
+  }
+
+  .schedule-tab-day {
+    font-size: 11px
+  }
+
+  .schedule-tab-date {
+    font-size: 17px
   }
 
   .schedule-table-heading {

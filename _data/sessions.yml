@@ -73,6 +73,18 @@
   place: "Ballroom"
   service: true
 -
+  id: 080
+  title: "Sponsorship Showcase"
+  description: ""
+  place: "Ballroom"
+  service: true
+-
+  id: 090
+  title: "Hackathon"
+  description: ""
+  place: "Ballroom"
+  service: true
+-
   id: 100
   title: "Foundation Models in Healthcare - Building the Intelligent Core"
   description: "Exploring how large-scale foundation models are transforming clinical decision support — laying the groundwork for intelligent healthcare systems."
@@ -102,7 +114,7 @@
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 400
-  title: "Next Generation Systems for Care Coordination and Decision Support"
+  title: "Agentic and Next Generation Systems for Care Coordination and Decision Support"
   description: "This session highlights how agentic systems and AI-driven decision-support tools are improving care coordination and clinical workflows. It explores real examples of intelligent automation, data-guided decisions, and safer, more connected models of care."
   subtype: presentation
   speakers: [2, 10, 15, 16]

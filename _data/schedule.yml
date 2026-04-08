@@ -1,5 +1,6 @@
 - 
   date: "2026-07-08"
+  dateTitle: "HAI Day 1"
   dateReadable: "Wed, July 8"
   tracks: 
     - {title: "Session", color: "#206a87"}
@@ -17,22 +18,22 @@
         sessionIds: [010]
     }
     - {
-        startTime: "9:10",
-        #endTime: "11:45",
-        sessionIds: [020]
-    }
-    - {
-        startTime: "9:40",
-        #endTime: "11:45",
-        sessionIds: [030]
-    }
-    - {
-        startTime: "10:00",
+        startTime: "9:20",
         #endTime: "11:45",
         sessionIds: [040]
     }
     - {
-        startTime: "10:20",
+        startTime: "9:40",
+        #endTime: "11:45",
+        sessionIds: [020]
+    }
+    - {
+        startTime: "10:10",
+        #endTime: "11:45",
+        sessionIds: [030]
+    }
+    - {
+        startTime: "10:40",
         #endTime: "11:45",
         sessionIds: [002]
     }
@@ -68,6 +69,7 @@
     }
 - 
   date: "2026-07-09"
+  dateTitle: "HAI Day 2"
   dateReadable: "Thu, July 9"
   tracks: 
     - {title: "Session", color: "#206a87"}
@@ -104,22 +106,27 @@
     	sessionIds: [003]
     }
     - {
-    	startTime: "13:00",
+        startTime: "13:00",
+        sessionIds: [080]
+    }
+    - {
+    	startTime: "15:00",
     	#endTime: "15:00",
     	sessionIds: [700]
     }
     - {
-    	startTime: "14:30",
-    	endTime: "16:00",
+    	startTime: "16:30",
+    	endTime: "15:30",
     	sessionIds: [600]
     }
     - {
-    	startTime: "18:00",
+    	startTime: "19:00",
     	endTime: "22:00",
     	sessionIds: [070]
     }
 - 
   date: "2026-07-10"
+  dateTitle: "Masterclass Day 3"
   dateReadable: "Fri, July 10"
   tracks: 
     - {title: "Masterclass", color: "#90be4e"}

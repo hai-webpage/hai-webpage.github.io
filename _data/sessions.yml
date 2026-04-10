@@ -98,7 +98,7 @@
   title: "Digital Phenotyping - The New Frontier of Personalised Care"
   description: "Leveraging behavioural, physiological, and digital biomarkers to enable real-time, personalized health insights and proactive care delivery."
   subtype: presentation
-  speakers: [7, 8]
+  speakers: [7, 8, 26, 27]
   #language: en
   #complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -108,7 +108,7 @@
   title: "AI for Healthy Ageing — Empowering Longevity and Quality of Life"
   description: "Exploring how AI and digital health innovations can enable healthy ageing through early risk detection, personalised care pathways, cognitive and mobility support, and continuous monitoring — advancing longevity, independence, and quality of life for ageing populations."
   subtype: presentation
-  speakers: [9]
+  speakers: [9, 2, 25, 28]
   #language: en
   #complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -117,7 +117,7 @@
   title: "Agentic and Next Generation Systems for Care Coordination and Decision Support"
   description: "This session highlights how agentic systems and AI-driven decision-support tools are improving care coordination and clinical workflows. It explores real examples of intelligent automation, data-guided decisions, and safer, more connected models of care."
   subtype: presentation
-  speakers: [2, 10, 15, 16]
+  speakers: [22, 10, 15, 16, 29]
   #language: uk
   #complexity: "Beginner"
   #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
@@ -137,7 +137,7 @@
   title: "Investing in the Future of Health AI"
   description: ""
   subtype: presentation
-  speakers: [14, 21]
+  speakers: [14, 21, 1]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -167,7 +167,7 @@
   title: "Opening Keynote - The End-to-End Journey of Healthcare AI - From Innovation to Impact"
   description: "An introduction to the full lifecycle of healthcare AI innovation - from foundational technologies and model development to productisation, regulatory approval, and real-world deployment. This opening keynote sets the stage for the day, outlining how breakthrough algorithms become trusted clinical solutions and how technology, governance, and ecosystem partnerships must align to deliver meaningful healthcare impact."
   subtype: workshop
-  speakers: [1]
+  #speakers: [1]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"

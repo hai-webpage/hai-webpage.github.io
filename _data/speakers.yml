@@ -358,3 +358,13 @@
   thumbnailUrl: 
   cardThumbnailUrl: 
   rockstar: true
+-
+  id: 30
+  name: "Colin"
+  surname: "Lim"
+  company: "Ministry of Health (MOH)"
+  title: "Chief Information and Chief Data Officer"
+  bio: "<p>Colin is the Chief Information and Chief Data Officer at the Singapore Ministry of Health. He is concurrently Chief, Planning and National Community Programmes at Synapxe, Singapore’s national health technology agency. His experience spans the private (mobilityX, a startup funded by SMRT and Toyota Tsusho, SMRT and IBM UK) and public (Singapore Administrative Service - Ministries of Home Affairs, Manpower and Transport as well as the Land Transport Authority) sectors. He graduated from the London School of Economics and Oxford University.</p>"
+  thumbnailUrl: 
+  cardThumbnailUrl: 
+  rockstar: true

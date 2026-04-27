@@ -81,6 +81,21 @@
   thumbnailUrl: 
   cardThumbnailUrl: 
   rockstar: true
+- 
+  id: 32
+  name: "Creighton"
+  surname: "Heaukulani"
+  company: "MOH Office for Healthcare Transformation"
+  title: "Deputy Director and Principal Data Scientist"
+  presentation: 
+  bio: "<p>Dr. Creighton Heaukulani is Deputy Director and Principal Data Scientist at the MOH Office for Healthcare Transformation (MOHT) under the Ministry of Health in Singapore, where he leads the Digital Health Applications Team in the Data, Science & Technology Division, driving initiatives that transform care delivery and health promotion across the health system and in the community, with current focus on mental health and the management of chronic diseases.</p><p>He is also Adjunct Senior Lecturer in the Department of Statistics and Data Science at the National University of Singapore (NUS) where he lectures courses on machine learning.</p"
+  thumbnailUrl: CreightonHeaukulani.jpg
+  cardThumbnailUrl: CreightonHeaukulani2.png
+  rockstar: true
+ # social: 
+ #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+ #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+ #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
   id: 21
   name: "Navjeewan"

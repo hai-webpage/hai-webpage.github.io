@@ -65,7 +65,7 @@ aboutBlock:
 # Speaker Highlight Block
 rockstarSpeakersImage: "prizes.jpg"
 rockstarSpeakersCount: 6
-rockstarSpeakersTitle: "Speakers"
+rockstarSpeakersTitle: "Speaker Highlight"
 rockstarSpeakersButtonText: "See all speakers"
 
 # 2025 highlights
@@ -134,7 +134,7 @@ posterTopicsRows:
 posterDatesTitle: "Important Dates"
 posterDatesBlockImage: "important-dates.jpg"
 posterDatesRows:
- - {title: "Abstract Submission Deadline", date: "<s>Tuesday, 31 March 2026</s><br>Thursday, 15 May 2026"}
+ - {title: "Abstract Submission Deadline", date: "<s>Tuesday, 31 March 2026</s><br>Friday, 15 May 2026"}
  - {title: "Notification of Acceptance", date: "Friday, 29 May 2026"}
  - {title: "Registration Deadline", date: "Monday, 15 June 2026"}
  - {title: "Poster Session", date: "Wednesday, 8 July 2026 & Thursday, 9 July 2026"}
@@ -173,7 +173,7 @@ pitchBenefitCards:
 pitchDatesTitle: "Important Dates"
 pitchDatesBlockImage: "important-dates.jpg"
 pitchDatesRows:
- - {title: "Application Deadline", date: "<s>Tuesday, 31 March 2026</s><br>Thursday, 15 May 2026"}
+ - {title: "Application Deadline", date: "<s>Tuesday, 31 March 2026</s><br>Friday, 15 May 2026"}
  - {title: "Notification of Acceptance", date: "Sunday, 31 May 2026"}
  - {title: "Pitch Date", date: "Thursday, 9 July 2026"}
 

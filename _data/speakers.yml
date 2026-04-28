@@ -85,17 +85,6 @@
   rockstar: true
  # social: 
  #   - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
--
-  id: 26
-  name: "Andy Hau Yan"
-  surname: "Ho"
-  company: "Nanyang Technological University (NTU)"
-  title: "Provost’s Chair Professor in Psychology, Professor of Psychology & Medicine"
-  presentation: "Harnessing Digital Phenotyping to Advance Mental Health on Campus: From Passing Sensing to Precision Psychotherapeutics"
-  bio: "<p>Professor Andy Hau Yan Ho, PhD, EdD, MFT a multi-award-winning psychologist, social scientist, and educator who specializes in thanatology, gerontology, psychotherapy, digital health, and community empowerment. He is Head of Psychology at Nanyang Technological University (NTU), President of the International End of Life Doula Association (INELDA), Past President of the Association for Death Education and Counseling (ADEC), and Fellow of the prestigious International Work Group on Death, Dying, and Bereavement (IWGDDB). A clinical innovator, Prof Ho has founded 15 acclaimed psycho-socio-spiritual interventions for health and mental health promotion, some of which include Mindful Compassion Art-based Therapy, Family Dignity Intervention, the WellFeet mHealth App, and the CADENCE Digital Personal Health Assistant. A prolific writer, he has authored over 180 top-tier research publications and 300 keynote and plenary presentations. His social and scholarly contributions are recognised with distinctions around the world.</p>"
-  thumbnailUrl: 
-  cardThumbnailUrl: 
-  rockstar: false
 - 
   id: 32
   name: "Creighton"
@@ -111,6 +100,17 @@
  #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 26
+  name: "Andy Hau Yan"
+  surname: "Ho"
+  company: "Nanyang Technological University (NTU)"
+  title: "Provost’s Chair Professor in Psychology, Professor of Psychology & Medicine"
+  presentation: "Harnessing Digital Phenotyping to Advance Mental Health on Campus: From Passing Sensing to Precision Psychotherapeutics"
+  bio: "<p>Professor Andy Hau Yan Ho, PhD, EdD, MFT a multi-award-winning psychologist, social scientist, and educator who specializes in thanatology, gerontology, psychotherapy, digital health, and community empowerment. He is Head of Psychology at Nanyang Technological University (NTU), President of the International End of Life Doula Association (INELDA), Past President of the Association for Death Education and Counseling (ADEC), and Fellow of the prestigious International Work Group on Death, Dying, and Bereavement (IWGDDB). A clinical innovator, Prof Ho has founded 15 acclaimed psycho-socio-spiritual interventions for health and mental health promotion, some of which include Mindful Compassion Art-based Therapy, Family Dignity Intervention, the WellFeet mHealth App, and the CADENCE Digital Personal Health Assistant. A prolific writer, he has authored over 180 top-tier research publications and 300 keynote and plenary presentations. His social and scholarly contributions are recognised with distinctions around the world.</p>"
+  thumbnailUrl: 
+  cardThumbnailUrl: 
+  rockstar: false
 -
   id: 21
   name: "Navjeewan"

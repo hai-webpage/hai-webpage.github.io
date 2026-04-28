@@ -85,6 +85,12 @@
   place: "Ballroom"
   service: true
 -
+  id: 099
+  title: "End of Day 3"
+  description: ""
+  place: "Ballroom"
+  service: true
+-
   id: 100
   title: "Foundation Models in Healthcare - Building the Intelligent Core"
   description: "Exploring how large-scale foundation models are transforming clinical decision support — laying the groundwork for intelligent healthcare systems."
@@ -164,10 +170,10 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 901
-  title: "Opening Keynote - The End-to-End Journey of Healthcare AI - From Innovation to Impact"
-  description: "An introduction to the full lifecycle of healthcare AI innovation - from foundational technologies and model development to productisation, regulatory approval, and real-world deployment. This opening keynote sets the stage for the day, outlining how breakthrough algorithms become trusted clinical solutions and how technology, governance, and ecosystem partnerships must align to deliver meaningful healthcare impact."
+  title: "Opening Remarks"
+  description: ""
   subtype: workshop
-  #speakers: [1]
+  speakers: [1]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -184,8 +190,8 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 903
-  title: "Hands-on of Healthcare AI Development"
-  description: "A guided, hands-on session demonstrating how to rapidly build and deploy healthcare AI solutions using modern AI frameworks. Participants will work through secure data preparation, model fine-tuning, evaluation, and deployment workflows while leveraging pre-trained healthcare-relevant models. The session highlights best practices in security, governance, and operational readiness for regulated healthcare environments, culminating in the creation of a simple end-to-end healthcare AI prototype."
+  title: "AWS Hands-on: Amazon Quick Suite"
+  description: "A guided, hands-on workshop on Amazon Quick Suite, an AI-powered agentic workspace designed to accelerate research, data analysis, and workflow automation. It combines features such as Amazon Quick Index — a unified search repository that connects disparate data sources into a single, intelligent knowledge base — with Amazon Quick Research, an AI agent that conducts comprehensive research by analyzing multiple data sources and generating detailed reports."
   subtype: workshop
   #speakers: [7]
   #language: en
@@ -194,40 +200,50 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 904
-  title: "Clinical Decision Support: Interactive Hands-On Exploration"
-  description: "An experiential session where participants directly engage with AI-powered clinical decision support (CDS) systems. Through curated patient scenarios, attendees will observe how recommendations are generated, explore explainability features, and assess safety mechanisms such as uncertainty indicators and guardrails. The session emphasises practical understanding - where AI adds value, where caution is needed, and how usability and trust shape successful deployment."
+  title: "Design Thinking for Healthcare Innovation"
+  description: "An introduction to the Biodesign innovation framework and its application to medtech and healthcare AI development. This interactive workshop guides participants through structured methods for identifying unmet clinical needs, filtering opportunities, and crafting impactful solutions. Attendees gain practical tools for translating ideas into viable, patient-centred products while considering industry and commercial realities."
   subtype: workshop
-  #speakers: [7]
+  speakers: [33]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 905
-  title: "Healthcare AI Productization"
-  description: "This interactive session guides participants through structured methods for identifying unmet clinical needs, filtering opportunities, and crafting impactful solutions. Attendees gain practical tools for translating ideas into viable, patient-centred products while considering industry and commercial realities."
+  title: "Lighting Talks – Experience from China"
+  description:
   subtype: workshop
-  #speakers: [7]
+  #speakers: [34, 35]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 906
-  title: "Regulation, Safety, and Trust for Medical AI in Singapore"
+  title: "Health Sciences Authority (HSA) Inside - Regulation, Safety, and Trust for Medical AI in Singapore"
   description: "A rare deep dive into how Singapore’s national regulator evaluates, approves, and monitors medical AI. This session unpacks regulatory classifications (SaMD vs AI-CDSS), documentation requirements, evidence generation, and post-market surveillance expectations. Participants gain insight into adaptive AI regulation and learn how early engagement with HSA can accelerate safe productisation and clinical adoption."
   subtype: workshop
-  #speakers: [18]
+  speakers: [36]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 907
-  title: "Integrating AI Solutions into Singapore’s National Health Digital Infrastructure"
+  title: "Synapxe Inside - Integrating AI Solutions into Singapore’s National Health Digital Infrastructure"
   description: "The session will unpack how AimSG functions as Singapore’s coordinated national deployment backbone for medical AI — reducing fragmentation, accelerating time-to-implementation, enforcing shared interoperability and governance standards, and enabling seamless scale-out across healthcare clusters into real clinical workflows. Using AimSG as the central case study, participants will gain a step-by-step understanding of the national onboarding pathway: from positioning and validation of AI solutions, to integration on a common vendor-neutral platform, rigorous clinical evaluation, continuous safety and performance monitoring, and ultimately operationalisation at scale across institutions."
   subtype: workshop
   speakers: [19]
+  #language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 908
+  title: "OpenClaw for Healthcare"
+  description: ""
+  subtype: workshop
+  #speakers: [19]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"

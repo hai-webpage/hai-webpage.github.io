@@ -242,6 +242,21 @@
 #  social: 
 #    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
 #    - {name: "twitter", link: "https://twitter.com/mherych"}
+- 
+  id: 38
+  name: "Kah Yean"
+  surname: "Neo"
+  company: "Agency for Science, Technology and Research"
+  title: "Senior Director, Tech-Biz at A*STAR Innovation & Enterprise Group"
+  presentation: 
+  bio: "<p>Kah Yean is Senior Director, Tech-Biz at A*STAR Innovation & Enterprise Group, leading the industry engagement, technology development and commercialization of therapeutics assets and platforms, biotech and bioprocessing technologies in A*STAR, and supports Market Access at A*STAR Medtech Sector.</p><p>Kah Yean’s career spans the breadth of the healthcare industry, having spent time in pharmaceuticals, diagnostics and consumer healthcare.  She spent most of her time in general management, commercial and strategic roles in Asia-Pacific and Global markets with a strong track record for successful business turnaround and people development.</p><p>Kah Yean is the former President of the Singapore Association of Pharmaceutical Industries and is actively engaged in advising companies and mentoring startups.  She holds a Bachelor of Science for Biochemistry and Chemistry and an MBA for University of Hull, U.K, and is an alumna of Smith College, Massachusetts and University of Notre-Dame, Indiana, through various executive leadership programs.</p>"
+  thumbnailUrl: NeoKahYean.jpg
+  cardThumbnailUrl: NeoKahYean2.png
+  rockstar: false
+ # social: 
+ #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+ #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+ #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
   id: 15
   name: "Wai Hoe"

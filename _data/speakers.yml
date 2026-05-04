@@ -257,6 +257,21 @@
  #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
+# - 
+#   id: 39
+#   name: "Odie"
+#   surname: "Ng"
+#   company: "EC5 Capital"
+#   title: "Chief Investment Officer"
+#   presentation: 
+#   bio: "<p></p>"
+#   thumbnailUrl: OdieNg.jpg
+#   cardThumbnailUrl: OdieNg2.png
+#   rockstar: false
+#  # social: 
+#  #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+#  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
   id: 15
   name: "Wai Hoe"

@@ -377,6 +377,21 @@
   thumbnailUrl: TanCherHeng.jpg
   cardThumbnailUrl: TanCherHeng2.png
   rockstar: false
+# - 
+#   id: 40
+#   name: "Kiat How"
+#   surname: "Tan"
+#   company: "Ministry of Digital Development and Information & Ministry of Health"
+#   title: "Senior Minister of State"
+#   presentation: 
+#   bio: "<p></p>"
+#   thumbnailUrl: TanKiatHow.jpg
+#   cardThumbnailUrl: TanKiatHow2.png
+#   rockstar: false
+#  # social: 
+#  #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+#  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 37
   name: "Sze Wee"

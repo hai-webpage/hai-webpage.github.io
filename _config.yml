@@ -62,6 +62,13 @@ aboutBlock:
  - {title: "Gain", image: "gain.png", text: "practical skills in our full-day hands-on workshop." }
  - {title: "Showcase", image: "showcase.png", text: "your startup at the Healthcare Innovation Pitch Challenge!" }
 
+# GOH Block
+gohImage: "goh.jpg"
+gohTitle: "HAI 2026 Guest of Honor"
+gohName: "Tan Kiat How"
+gohPhoto: "TanKiatHow.jpg"
+gohDesignation: "<b>Senior Minister of State</b><br>Ministry of Digital Development and Information<br>Ministry of Health"
+
 # Speaker Highlight Block
 rockstarSpeakersImage: "prizes.jpg"
 rockstarSpeakersCount: 6
@@ -224,3 +231,25 @@ sponsorEnquirySubtitle: "Shape the Future of Healthcare AI"
 sponsorEnquiryDescription: "Connect with innovators driving healthcare transformation"
 sponsorEnquiryButton: "Request sponsorship details"
 sponsorEnquiryImage: "highlights.png"
+
+# Our Sponsors
+ourSponsorsTitle: 
+ourSponsorsDescription: 
+
+diamondSponsorsTitle: "HAI 2026 Diamond Sponsors"
+diamondSponsorsRows:
+ - {title: "Amazon Web Services", image: "aws.png", details: "Amazon Web Services (AWS) is guided by customer obsession, pace of innovation, commitment to operational excellence, and long-term thinking. By democratizing technology for nearly two decades and making cloud computing and generative AI accessible to organizations of every size and industry, AWS has built one of the fastest-growing enterprise technology businesses in history. Millions of customers trust AWS to accelerate innovation, transform their businesses, and shape the future. With the most comprehensive AI capabilities and global infrastructure footprint, AWS empowers builders to turn big ideas into reality. Learn more at aws.amazon.com and follow @AWSNewsroom."}
+# - {title: "Moonplay", image: "", details: ""}
+# - {title: "NTT DATA", image: "ntt.png", details: "NTT DATA is a global leader in digital business and technology services, helping organisations innovate, transform and thrive in an increasingly connected world. Operating in over 70 countries and regions, NTT DATA combines deep industry expertise with advanced capabilities in cloud, data, AI, cybersecurity and managed services to deliver transformative outcomes at scale. In healthcare, NTT DATA partners with providers and public sector institutions to reimagine care delivery, improve patient experiences, optimise operations, and enable data driven innovation. Through secure and intelligent technology solutions, NTT DATA is committed to shaping a more resilient, efficient, and patient centric healthcare ecosystem."}
+
+platinumSponsorsTitle: "HAI 2026 Platinum Sponsors"
+platinumSponsorsRows: 
+ - {title: "EVYD Technology", image: "evyd.png", details: "EVYD is a Southeast Asia-based healthcare technology company with a vision to build a future where everyone can access better health. We leverage our deep expertise in healthcare data processing and AI to enable our partners to gain insights for informed decision making in healthcare and implement personalized health promotion, risk assessment and chronic disease management programmes at scale to improve population health outcomes. "}
+# - {title: "SIP Science & Tech", image: "", details: ""}
+
+########## Gold sponsors do not get detailed profile in webpage
+# goldSponsorsTitle:
+# goldSponsorsRows:
+#  - {title: "NVIDIA", image: "", details: ""}
+#  - {title: "", image: "", details: ""}
+#  - {title: "", image: "", details: ""}

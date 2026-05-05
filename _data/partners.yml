@@ -5,5 +5,5 @@
     #- {name: "Danone", description: "", link: "", imageUrl: "https://www.danone.com", imageUrl: ""}
     - {name: "EVYD", description: "EVYD Technology", link: "https://www.evydtech.com", imageUrl: "evyd.png"}
     #- {name: "Moonplay", description: "", link: "", imageUrl: "moonplay.png"}
-    - {name: "NTT", description: "NTT DATA", link: "https://www.global.ntt", imageUrl: "ntt.png"}
+    #- {name: "NTT", description: "NTT DATA", link: "https://www.global.ntt", imageUrl: "ntt.png"}
     #- {name: "NVIDIA", description: "NVIDIA", link: "", imageUrl: ""}

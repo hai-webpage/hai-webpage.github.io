@@ -22,10 +22,17 @@
   service: true
 -
   id: 010
-  title: "Opening Address and Welcome Remarks"
+  title: "Welcome Remarks"
   description: ""
   subtype: keynote
   speakers: 
+  language: en
+-
+  id: 011
+  title: "Guest of Honor Address"
+  description: ""
+  subtype: keynote
+  #speakers: [40]
   language: en
 -
   id: 020
@@ -163,7 +170,7 @@
   title: "Masterclass in Healthcare AI"
   description: ""
   subtype: workshop
-  #speakers: [7]
+  speakers: [37, 38, 23, ] #6 - Harsh, 39 - Odie
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"

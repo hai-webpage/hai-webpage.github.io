@@ -28,6 +28,21 @@
 #  social: 
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 #    - {name: "site", link: "http://olostan.name/"}
+# - 
+#   id: 42
+#   name: "Leni"
+#   surname: "Chan"
+#   company: "Agency for Science, Technology and Research"
+#   title: "Director, Innovation & Enterprise"
+#   presentation: 
+#   bio: "<p></p>"
+#   thumbnailUrl: LeniChan.jpg
+#   cardThumbnailUrl: LeniChan2.png
+#   rockstar: false
+#  # social: 
+#  #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+#  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
   id: 7
   name: "Michael"
@@ -303,6 +318,21 @@
 #   thumbnailUrl: LvQiong.jpg
 #   cardThumbnailUrl: LvQiong2.png
 #   rockstar: false
+ # social: 
+ #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+ #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+ #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
+- 
+  id: 41
+  name: "Rajeev"
+  surname: "Rikhye"
+  company: "Google DeepMind"
+  title: "Research Scientist"
+  presentation: "Towards zero health misinformation in Gemini"
+  bio: "<p>Dr. Rajeev Rikhye is a Research Scientist at Google DeepMind, where he leads post-training efforts dedicated to scientific factuality. At GDM, he leads initiatives to ensure that Gemini models responsibly source and cite the most relevant and accurate information for complex health, science, and educational queries. His experience in health AI includes spearheading significant consumer health features. During his tenure at Google Research, he directed the successful launch of a novel dermatology experience on Google Lens and developed a new LLM-based health data analysis agent for Fitbit. Originally from Singapore, Rajeev trained in Biomedical Engineering at Imperial College London before earning his Ph.D. in Computational Neuroscience from MIT. He remains an active contributor to the scientific community, having published numerous papers that bridge the intersection of health, neuroscience, and artificial intelligence. In his spare time, he enjoys spending time with his two young boys and his overgrown dog.</p>"
+  thumbnailUrl: RajeevRikhye.jpg
+  cardThumbnailUrl: RajeevRikhye2.png
+  rockstar: false
  # social: 
  #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}

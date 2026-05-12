@@ -29,6 +29,21 @@
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 #    - {name: "site", link: "http://olostan.name/"}
 # - 
+#   id: 43
+#   name: "Lawrence"
+#   surname: "Carin"
+#   company: "Agency for Science, Technology and Research"
+#   title: "Director of AI for Health & Distinguished Principal Scientist"
+#   presentation: "Real-world view of AI-driven health system transformation"
+#   bio: "<p>Larry Carin was a Distinguished Professor of AI at Duke University from 1995-2026, where he was also the founder of two AI startups, both of which were acquired. He has published widely in the most competitive AI forums. In addition to his academic, research and entrepreneurial activities, he also served in leadership roles at Duke, for example as the Vice President for Research for 7 years. He is now a Distinguished Scientist at A*STAR, where he is responsible for developing an A*STAR-wide strategy for AI for Health, in partnership with the key stakeholders in Singapore.</p>"
+#   thumbnailUrl: LawrenceCarin.jpg
+#   cardThumbnailUrl: LawrenceCarin2.png
+#   rockstar: false
+#  # social: 
+#  #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+#  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
+# - 
 #   id: 42
 #   name: "Leni"
 #   surname: "Chan"
@@ -272,21 +287,21 @@
  #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
-# - 
-#   id: 39
-#   name: "Odie"
-#   surname: "Ng"
-#   company: "EC5 Capital"
-#   title: "Chief Investment Officer"
-#   presentation: 
-#   bio: "<p></p>"
-#   thumbnailUrl: OdieNg.jpg
-#   cardThumbnailUrl: OdieNg2.png
-#   rockstar: false
-#  # social: 
-#  #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-#  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-#  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
+- 
+  id: 39
+  name: "Odie"
+  surname: "Ng"
+  company: "EC5 Capital"
+  title: "Chief Investment Officer"
+  presentation: 
+  bio: "<p>Odie is the Chief Investment Oﬃcer of EC5 Capital, a single family oﬃce, with more than 25 years of experience spanning investments, strategic consultancy, fundraising, and portfolio management across multiple industries. In his role at EC5 Capital, he has access to proprietary deal flow and has deployed investments into healthcare innovation companies across Singapore and the region. He also actively manages and supports the family oﬃce’s portfolio companies, working closely with founders on growth strategy, capital planning, and business execution.<p></p>Previously, Odie served as Chief Financial Oﬃcer of a Singapore-based esports and gaming startup, where he led financial strategy, fundraising, and corporate structuring initiatives, gaining deep operational insight into startup scaling and growth financing.<p></p>Actively engaged in the MedTech startup ecosystem, Odie brings a strong understanding of both investor expectations and startup execution. With hands-on experience evaluating emerging ventures, deploying capital, and supporting portfolio growth, he oﬀers a practical, commercially driven, and strategic perspective on healthcare, technology, and innovation-focused businesses.</p>"
+  thumbnailUrl: OdieNg.jpg
+  cardThumbnailUrl: OdieNg2.png
+  rockstar: false
+ # social: 
+ #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+ #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+ #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
   id: 15
   name: "Wai Hoe"
@@ -521,7 +536,7 @@
 
 
 
-# COUNT: 37
+# COUNT: 42
 
 
 

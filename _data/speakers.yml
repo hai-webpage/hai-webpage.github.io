@@ -28,21 +28,21 @@
 #  social: 
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 #    - {name: "site", link: "http://olostan.name/"}
-# - 
-#   id: 43
-#   name: "Lawrence"
-#   surname: "Carin"
-#   company: "Agency for Science, Technology and Research"
-#   title: "Director of AI for Health & Distinguished Principal Scientist"
-#   presentation: "Real-world view of AI-driven health system transformation"
-#   bio: "<p>Larry Carin was a Distinguished Professor of AI at Duke University from 1995-2026, where he was also the founder of two AI startups, both of which were acquired. He has published widely in the most competitive AI forums. In addition to his academic, research and entrepreneurial activities, he also served in leadership roles at Duke, for example as the Vice President for Research for 7 years. He is now a Distinguished Scientist at A*STAR, where he is responsible for developing an A*STAR-wide strategy for AI for Health, in partnership with the key stakeholders in Singapore.</p>"
-#   thumbnailUrl: LawrenceCarin.jpg
-#   cardThumbnailUrl: LawrenceCarin2.png
-#   rockstar: false
-#  # social: 
-#  #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-#  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-#  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
+- 
+  id: 43
+  name: "Lawrence"
+  surname: "Carin"
+  company: "Agency for Science, Technology and Research"
+  title: "Director of AI for Health & Distinguished Principal Scientist"
+  presentation: "Real-world view of AI-driven health system transformation"
+  bio: "<p>Larry Carin was a Distinguished Professor of AI at Duke University from 1995-2026, where he was also the founder of two AI startups, both of which were acquired. He has published widely in the most competitive AI forums. In addition to his academic, research and entrepreneurial activities, he also served in leadership roles at Duke, for example as the Vice President for Research for 7 years. He is now a Distinguished Scientist at A*STAR, where he is responsible for developing an A*STAR-wide strategy for AI for Health, in partnership with the key stakeholders in Singapore.</p>"
+  thumbnailUrl: LawrenceCarin.jpg
+  cardThumbnailUrl: LawrenceCarin2.png
+  rockstar: false
+ # social: 
+ #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+ #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+ #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 # - 
 #   id: 42
 #   name: "Leni"
@@ -167,6 +167,7 @@
   surname: "Lee"
   company: "Ministry of Health"
   title: "Group Director (Ageing Planning Office)"
+  presentation: "Singapore's approach to successful ageing"
   bio: "<p>Mr. Lee Kwok Ming was appointed Group Director of the Ageing Planning Office in the Ministry of Health on 9 October 2023. He oversees the development and implementation of the national ageing agenda, to bring about the national vision of opportunities, communities and a city for all ages. This whole-of-government work spans a wide range of areas including Age Well SG, aged care services, senior housing, seniors health & wellness and ageing research & development.</p><p>Kwok Ming’s public service career started in 2008 at the Income Security Policy Division in the Ministry of Manpower. He was responsible for formulating policies, including those related to the Central Provident Fund (CPF), to enhance the retirement adequacy of Singaporeans. Following that he served in a succession of portfolios, including Reserves and Investment at the Ministry of Finance, Land Transport at the Ministry of Transport. In 2019, he returned to the Ministry of Manpower as the Director (Retirement Systems) at the Income Security Policy Division where he was driving projects such as strengthening basic work protections for Platform Workers as well as the development of the Majulah Package.</p><p>Kwok Ming graduated from Carnegie Mellon University with a B. Sci. Electrical & Computer Engineering with Additional Major in Economics. He also holds a M. Sci. in Management Science & Engineering from Stanford University and an MBA from INSEAD. Kwok Ming is married with a son and a daughter.</p>"
   thumbnailUrl: LeeKwokMing.jpg
   cardThumbnailUrl: LeeKwokMing2.png
@@ -237,6 +238,7 @@
   surname: "Maier"
   company: "NUS Yong Loo Lin School of Medicine"
   title: "Oon Chiew Seng Professor in Medicine, Healthy Ageing and Dementia Research"
+  presentation: "The beauty of human complexity: Healthy Longevity Medicine"
   bio: "<p>Andrea Maier (1978), a Fellow of the Royal Australasian College of Physicians (FRACP), graduated in Medicine (MD) 2003 from the University of Lübeck (Germany), was registered 2009 in The Netherlands as Specialist in Internal Medicine-Geriatrics and was appointed Full Professor of Gerontology at Vrije Universiteit Amsterdam (The Netherlands) in 2013. She was the head of Geriatrics at the Vrije Universiteit Medical Center from 2012 to 2016. From 2016 to early 2021 Professor Maier served as Divisional Director of Medicine and Community Care at the Royal Melbourne Hospital, Australia, and as Professor of Medicine and Aged Care at the University of Melbourne, Australia.</p>"
   thumbnailUrl: AndreaMaier.jpg
   cardThumbnailUrl: AndreaMaier2.png
@@ -308,6 +310,7 @@
   surname: "Ng"
   company: "SingHealth"
   title: "Group Chief Executive Officer"
+  presentation: ## NOT PRESENTING
   bio: "<p>Professor Ng Wai Hoe is the Group Chief Executive Officer of SingHealth and Professor at Duke-NUS Medical School. He was previously Deputy Group Chief Executive Officer (Strategy & Planning) of SingHealth, Chief Executive Officer of Changi General Hospital (CGH), Medical Director/Chief Executive Officer of the National Neuroscience Institute (NNI), Academic Chair of the SingHealth Duke-NUS Neuroscience Academic Clinical Programme and Deputy Chair of the SingHealth Medical Board.</p><p>He has present and past administrative responsibilities as Member of the Duke-NUS Governing Board, Executive Committee Member of the National Medical Research Council (NMRC), Member of the Human Health Potential (HHP) Executive Committee of the National Research Foundation (NRF), Member of the Medical Device Advisory Committee (MDAC) with the Health Sciences Authority (HSA) Singapore, Member of the Medical Technology Advisory Council (MTAC) of the Ministry of Health (MOH), Co-Chairperson of the Workgroup to Review the Taking of Informed Consent and Singapore Medical Council Disciplinary Process with the MOH and Panel of Chairmen of Disciplinary Tribunal with the Singapore Medical Council (SMC).</p><p>His clinical practice focuses on neurosurgical oncology, epilepsy surgery and stereotactic and functional neurosurgery. He was past Chairman of the Neurosurgery Residency Advisory Committee (RAC) and past Chairman of the Chapter of Neurosurgeons (Singapore).</p>"
   thumbnailUrl: NgWaiHoe.png
   cardThumbnailUrl: NgWaiHoe2.png
@@ -358,6 +361,7 @@
   surname: "Rodriguez"
   company: "NUS Yong Loo Lin School of Medicine"
   title: "Professor of Psychological Medicine"
+  presentation: "Adolescents in the Information Age and co-occurring Mental Health Decline: Can we use technology for good?"
   bio: "<p>An active multidisciplinary scientist and educator for over two decades, Rodriguez embeds evidence-base into teaching at all university levels, supervising students to PhD completion, and mentoring post-docs. Spanning four countries, her research includes maternal and child health, mental health, neurodevelopment, and obesity. She is one of the leads for the Integrative Adolescence Research Programme (IARP) at A*STAR IHDP, which was developed to identify causal risk factors impacting adolescent mental health and to investigate the interplay between mental and physical health. The ultimate goal is to design and implement targeted prevention and intervention programmes.</p><p>Rodriguez earned her PhD from Uppsala University Sweden in psychology. She then trained extensively in public health and epidemiology at Imperial College London as a recipient of the prestigious fellowship from the Swedish Governmental Agency for Innovation Systems. Her unique background enables her to carry out international level research in pregnancy and life course development, disease risk from a socio-behavioural perspective, and contribute to the understanding of the crossover between mental and physical health.</p><p>Besides receiving the Knut & Alice Wallenberg Foundation for Promising Young Women in Research, Rodriguez is also a chartered member of the British Psychological Society, including the Division of Neuropsychology, Division of Academics, Researchers & Teachers in Psychology, Division of Clinical Psychology and the Faculty for Children, Young People and their Families; and currently serves on the Scientific and Medical Advisory Committee of Unlocking ADHD in Singapore.</p>"
   thumbnailUrl: AlinaRodriguez.jpg
   cardThumbnailUrl: AlinaRodriguez2.png

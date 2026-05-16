@@ -4594,9 +4594,48 @@ nav li a.current,nav li a:hover {
   margin-bottom: 90px
 }
 
+.schedule .content-wrapper {
+  height: auto
+}
+
+.schedule .content-wrapper:before,.schedule .content-wrapper:after {
+  content: " ";
+  display: table
+}
+
+.schedule .content-wrapper:after {
+  clear: both
+}
+
 .schedule-tabs-wrapper {
+  background: #fff;
   margin-bottom: 30px;
+  padding: 12px 0;
+  position: relative;
+  z-index: 450
+}
+
+.schedule-tabs-wrapper.is-fixed {
+  float: none;
+  margin-bottom: 0;
+  margin-left: 0;
+  position: fixed
+}
+
+.schedule-tabs-wrapper.is-anchored {
+  float: none;
+  margin-bottom: 0;
+  margin-left: 0;
+  position: absolute
+}
+
+.schedule-tabs-placeholder {
+  display: none;
   padding: 0
+}
+
+.schedule-tabs-placeholder.is-active {
+  display: block
 }
 
 .schedule-tabs {
@@ -6264,7 +6303,8 @@ nav li a.current,nav li a:hover {
   }
 
   .schedule-tabs-wrapper {
-    margin-bottom: 20px
+    margin-bottom: 20px;
+    padding: 10px 0
   }
 
   .schedule-tabs {
@@ -6272,8 +6312,9 @@ nav li a.current,nav li a:hover {
   }
 
   .schedule-tab {
-    flex-basis: 100%;
-    padding: 14px 16px
+    flex-basis: calc(33.333% - 7px);
+    padding: 10px 8px;
+    text-align: center
   }
 
   .schedule-tab-day {

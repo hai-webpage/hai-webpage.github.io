@@ -13,6 +13,7 @@
                 {% endfor %}
             </div>
         </div>
+        <div class="schedule-tabs-placeholder col-lg-8 col-md-10 col-md-offset-1"></div>
         {% for day in site.data.schedule %}
         {% assign tabId = "schedule-tab-" | append: forloop.index %}
         {% assign panelId = "schedule-panel-" | append: forloop.index %}

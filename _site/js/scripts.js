@@ -5,10 +5,60 @@
             $('#loading-animation').fadeOut();
             $('#preloader').delay(350).fadeOut(800);
             equalheight('.same-height');
+            updateScheduleTabsPosition();
         });
 
         var getVisibleTrackHeader = function() {
             return $('.schedule-panel:visible .track-header').first();
+        };
+
+        var scheduleTabs = $('.schedule-tabs-wrapper');
+        var scheduleTabsPlaceholder = $('.schedule-tabs-placeholder');
+
+        var resetScheduleTabsPosition = function() {
+            scheduleTabs.removeClass('is-fixed is-anchored').css({
+                top: '',
+                left: '',
+                width: ''
+            });
+            scheduleTabsPlaceholder.removeClass('is-active').css('height', '');
+        };
+
+        var updateScheduleTabsPosition = function() {
+            var schedule = $('#schedule');
+            var scheduleContent = schedule.find('.content-wrapper');
+            if (!schedule.length || !scheduleTabs.length || !scheduleTabsPlaceholder.length) {
+                return;
+            }
+
+            var scrollTop = $(window).scrollTop();
+            var headerOffset = $('#top-header').outerHeight() || 0;
+            var tabsHeight = scheduleTabs.outerHeight(true);
+            var tabsNaturalTop = scheduleTabsPlaceholder.hasClass('is-active') ? scheduleTabsPlaceholder.offset().top : scheduleTabs.offset().top;
+            var scheduleTop = schedule.offset().top;
+            var scheduleBottom = scheduleTop + schedule.outerHeight();
+
+            if (scrollTop + headerOffset <= tabsNaturalTop) {
+                resetScheduleTabsPosition();
+                return;
+            }
+
+            scheduleTabsPlaceholder.addClass('is-active').height(tabsHeight);
+
+            if (scrollTop + headerOffset + tabsHeight >= scheduleBottom) {
+                scheduleTabs.removeClass('is-fixed').addClass('is-anchored').css({
+                    top: scheduleBottom - scheduleContent.offset().top - tabsHeight,
+                    left: scheduleTabsPlaceholder.offset().left - scheduleContent.offset().left,
+                    width: scheduleTabsPlaceholder.outerWidth()
+                });
+                return;
+            }
+
+            scheduleTabs.removeClass('is-anchored').addClass('is-fixed').css({
+                top: headerOffset,
+                left: scheduleTabsPlaceholder.offset().left - $(window).scrollLeft(),
+                width: scheduleTabsPlaceholder.outerWidth()
+            });
         };
 
         var setActiveSchedulePanel = function(panelId, shouldFocus) {
@@ -25,6 +75,7 @@
             targetPanel.addClass('is-active').removeAttr('hidden');
 
             $(document.body).trigger('sticky_kit:recalc');
+            updateScheduleTabsPosition();
 
             if (shouldFocus) {
                 targetTab.focus();
@@ -105,6 +156,7 @@
                 header.removeClass('after-scroll');
                 logo.removeClass('logo-light').addClass('logo-white');
             }
+            updateScheduleTabsPosition();
 
             if (scroll >= $('.top-section').height() && $(window).width() > 767) {
                 buyButton.removeClass('right-nav-button-hidden');
@@ -145,6 +197,7 @@
                 $('.st-menu').removeClass('scrollable');
                 $('#bottom-navlinks').removeClass('bottom-navlinks-small').addClass('bottom-navlinks');
             }
+            updateScheduleTabsPosition();
         });
 
         $(function() {

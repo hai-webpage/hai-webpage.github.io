@@ -162,6 +162,21 @@
   cardThumbnailUrl: RobKorom2.png
   rockstar: false
 - 
+  id: 46
+  name: "Panicos"
+  surname: "Kyriacou"
+  company: "City St George’s University of London"
+  title: "Director, Biomedical Engineering Research Centre"
+  presentation: "Advancing Wearable Healthcare Through Spectroscopy for Biomarker Monitoring"
+  bio: "<p>Professor Panicos Kyriacou is Professor of Biomedical Engineering at City St George’s University of London, where he founded and directs the Biomedical Engineering Research Centre. He is internationally recognised as a leading authority in photoplethysmography (PPG), pulse oximetry, and wearable health technologies. His research has advanced understanding of how optical signals relate to haemodynamics, vascular mechanics, and blood properties, while also exploring spectrophotometry for non-invasive biomarker monitoring. His main motivation is the utilisation of PPG and other optical based modalities for the innovation of new disruptive sensor technologies for the early diagnosis of disease and the facilitation of unobtrusive health and fitness monitoring. With over 30 years of experience, he has led major research programmes funded by UK research councils, the European Union, and industry, focusing on the development and clinical translation of innovative healthcare technologies. He has authored more than 300 peer-reviewed publications and holds multiple patents in medical optical sensing. Professor Kyriacou has held senior leadership roles in various National and International organisations and serves as a consultant to global healthcare companies. He holds several honorary academic appointments and is a Fellow of leading professional institutions.</p>"
+  thumbnailUrl: PanicosKyriacou.jpg
+  cardThumbnailUrl: PanicosKyriacou2.png
+  rockstar: false
+ # social: 
+ #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+ #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+ #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
+- 
   id: 44
   name: "Shi Ying"
   surname: "Lau"
@@ -570,7 +585,7 @@
 
 
 
-# COUNT: 45
+# COUNT: 46
 
 
 

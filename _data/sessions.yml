@@ -150,7 +150,7 @@
   title: "Investing in the Future of Health AI"
   description: ""
   subtype: presentation
-  speakers: [14, 21, 1] # 14 - Joseph Mocanu, 21 - Navjeewan, 1 - Rick
+  speakers: [14, 21, 1, 44] # 14 - Joseph Mocanu, 21 - Navjeewan, 1 - Rick, 44 - Shi Ying
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"

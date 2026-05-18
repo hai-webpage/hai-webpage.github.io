@@ -161,6 +161,21 @@
   thumbnailUrl: RobKorom.jpg
   cardThumbnailUrl: RobKorom2.png
   rockstar: false
+- 
+  id: 44
+  name: "Shi Ying"
+  surname: "Lau"
+  company: "Adaptive Capital Partners Pte. Ltd."
+  title: "Managing Partner"
+  presentation: 
+  bio: "<p>Shi Ying is the Managing Partner at Adaptive Capital Partners, a MAS-regulated early- to growth-stage venture capital firm. Adaptive invests in high conviction and disruptive technology startups with a predominant focus on (i) Healthtech / Medtech and (ii) Deeptech, while working with founders in many of their defining challenges with the partners’ deep operator background.</p><p>Shi Ying, formerly Head of GrabCar Malaysia, scaled the ride-hailing business to market leadership within a short span of two years, and she brings over 18 years of experience across tech and management consulting, including a start at Google, Mountain View and consulting projects spanning multiple industries across Indonesia, Hong Kong and Singapore.</p>"
+  thumbnailUrl: LauShiYing.png
+  cardThumbnailUrl: LauShiYing2.png
+  rockstar: false
+ # social: 
+ #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+ #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+ #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
   id: 25
   name: "Kwok Ming"
@@ -540,7 +555,7 @@
 
 
 
-# COUNT: 42
+# COUNT: 44
 
 
 

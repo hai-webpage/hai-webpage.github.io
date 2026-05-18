@@ -537,6 +537,21 @@
  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
+  id: 45
+  name: "Hongfei"
+  surname: "Xia"
+  company: "January Capital"
+  title: "Investor"
+  presentation: 
+  bio: "<p>Hongfei is an Investor at January Capital. Hongfei is a senior member of January Capital’s venture capital investment team, and is responsible for sourcing new opportunities, with a particular focus on software. He is also responsible for developing self-directed liquidity opportunities for the firm’s limited partners and has a leading role in assessing growth-stage investment opportunities.</p><p>Prior to joining January Capital, Hongfei worked at Google as the Corporate Development Lead (Asia), overseeing M&A and growth investments across the broader Asia-Pacific region. Prior to Google, Hongfei was a Principal at Silver Lake in Hong Kong, one of the world’s leading investment firms focused on late-stage technology investing. Hongfei began his career at Bank of America in Chicago, working as part of the firm’s industrials investment banking team.</p><p>Hongfei holds a Bachelor of Science in Economics and Mathematical Methods in the Social Sciences from Northwestern University.</p>"
+  thumbnailUrl: XiaHongfei.png
+  cardThumbnailUrl: XiaHongfei2.png
+  rockstar: false
+ # social: 
+ #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+ #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+ #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
+- 
   id: 31
   name: "Shuicheng"
   surname: "Yan"
@@ -555,7 +570,7 @@
 
 
 
-# COUNT: 44
+# COUNT: 45
 
 
 

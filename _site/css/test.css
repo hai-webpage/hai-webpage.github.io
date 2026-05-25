@@ -4820,6 +4820,47 @@ nav li a.current,nav li a:hover {
   padding-right: 28px
 }
 
+.slot-session-label,.slot-section-label,.modal-session-label {
+  color: #206a87;
+  display: block;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  line-height: 1.2;
+  margin-bottom: 9px;
+  text-transform: uppercase
+}
+
+.slot-section-label {
+  color: #5d717a;
+  margin: 22px 0 12px
+}
+
+.slot-presentations {
+  margin-top: 4px
+}
+
+.slot-panelists {
+  margin-top: 4px
+}
+
+.slot-presentation-speakers {
+  margin-top: 0
+}
+
+.slot-presentation-speakers .speaker-name {
+  font-weight: 300;
+  font-size: 12px;
+}
+
+.slot-presentation-speakers .speaker-position {
+  color: #1a3440;
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 1;
+  margin-top: 1px
+}
+
 .track-header-slot,.slot {
   padding: 0 8px 0 0;
   text-align: left;
@@ -4898,6 +4939,65 @@ nav li a.current,nav li a:hover {
 .service-description {
   color: #5d717a;
   margin-top: 12px
+}
+
+.modal-session-label {
+  margin-bottom: 8px
+}
+
+.modal-presentations {
+  background: #f4f8f9;
+  border: 1px solid #dbe8ed;
+  border-radius: 8px;
+  margin-top: 24px;
+  padding: 22px 24px
+}
+
+.modal-presentations h5 {
+  color: #1a3440;
+  font-size: 20px;
+  font-weight: 400;
+  margin: 0 0 18px
+}
+
+.modal-presentations ul {
+  list-style: none;
+  margin: 0;
+  padding: 0
+}
+
+.modal-presentations li {
+  margin-bottom: 18px;
+  min-height: 48px;
+  position: relative
+}
+
+.modal-presentations li:last-child {
+  margin-bottom: 0
+}
+
+.modal-presentation-img {
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 42px
+}
+
+.modal-presentation-copy {
+  color: #1a3440;
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 1;
+  margin: 0 0 0 56px
+}
+
+.modal-presentation-copy span {
+  color: #5d717a;
+  display: block;
+  font-size: 17px;
+  font-weight: 500;
+  margin-top: 5px
 }
 
 .hackathon-row {
@@ -6474,6 +6574,22 @@ nav li a.current,nav li a:hover {
 
   .schedule .speaker-name {
     font-size: 14px
+  }
+
+  .slot-session-label,.slot-section-label,.modal-session-label {
+    font-size: 11px
+  }
+
+  .slot-section-label {
+    margin-top: 18px
+  }
+
+  .slot-presentation-speakers .speaker-position {
+    font-size: 13px
+  }
+
+  .modal-presentations {
+    padding: 18px
   }
 
   .slot-content {

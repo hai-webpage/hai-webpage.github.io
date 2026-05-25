@@ -11,7 +11,25 @@
 							</svg>
 							<div class="close-mask" data-dismiss="modal"></div>
 						</div>
+						{% assign featured_presentation_title = session.presentationTitle %}
+						{% if session.subtype != "panel" and featured_presentation_title == nil %}
+							{% for session_speaker in session.speakers %}
+								{% for speaker in site.data.speakers %}
+									{% if session_speaker == speaker.id and speaker.presentation %}
+										{% assign featured_presentation_title = speaker.presentation %}
+									{% endif %}
+								{% endfor %}
+							{% endfor %}
+						{% endif %}
+						{% if featured_presentation_title %}
+						<span class="modal-session-label">{{ session.title }}</span>
+						<h4>{{ featured_presentation_title }}</h4>
+						{% elsif session.subtype == "panel" %}
+						<span class="modal-session-label">Panel Session</span>
 						<h4>{{ session.title }}</h4>
+						{% else %}
+						<h4>{{ session.title }}</h4>
+						{% endif %}
 						{% if session.language != null %}
 						<span class="theme-metadata"><span class="caption">Language: </span>{{ session.language }}</span>
 						{% endif %}
@@ -26,6 +44,35 @@
 						<p class="theme-description">{{ session.description }}</p>
 						{% if session.presentation %}
 						<a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">View presentation</a>
+						{% endif %}
+						{% if session.subtype == "panel" %}
+						{% assign has_panel_presentations = false %}
+						{% for session_speaker in session.speakers %}
+							{% for speaker in site.data.speakers %}
+								{% if session_speaker == speaker.id and speaker.presentation %}
+									{% assign has_panel_presentations = true %}
+								{% endif %}
+							{% endfor %}
+						{% endfor %}
+						{% if has_panel_presentations %}
+						<div class="modal-presentations">
+							<h5>Short presentations</h5>
+							<ul>
+								{% for session_speaker in session.speakers %}
+									{% for speaker in site.data.speakers %}
+										{% if session_speaker == speaker.id and speaker.presentation %}
+										<li>
+											<div class="flow-img img-circle modal-presentation-img" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
+											<p class="modal-presentation-copy">{{ speaker.name }} {{ speaker.surname }}
+												<span>{{ speaker.presentation }}</span>
+											</p>
+										</li>
+										{% endif %}
+									{% endfor %}
+								{% endfor %}
+							</ul>
+						</div>
+						{% endif %}
 						{% endif %}
 						<hr>
 						<div class="people-details">

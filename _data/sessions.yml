@@ -36,13 +36,24 @@
   #language: en
 -
   id: 020
-  title: "Keynote Address: Designing the Future of Intelligent Health: From Innovation to Integration"
+  title: "Keynote Address"
   description: ""
+  presentationTitle: "Designing the Future of Intelligent Health: From Innovation to Integration"
   subtype: keynote
   speakers: [22]
   #language: en
   #complexity: "Intermediate"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 021
+  title: "Keynote Address"
+  description: 
+  presentationTitle: 
+  subtype: keynote
+#   speakers: [3]
+#   #language: en
+#   #complexity: "Intermediate"
+#   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 030
   title: "Plenary Talk"
@@ -60,8 +71,47 @@
   #speakers: 
   #language: en
 -
+  id: 041
+  title: "Sponsorship Showcase"
+  presentationTitle: "Session 1"
+  description: ""
+  subtype: presentation
+  #speakers: 
+  #language: en
+-
+  id: 042
+  title: "Sponsorship Showcase"
+  presentationTitle: "Session 2"
+  description: ""
+  subtype: presentation
+  #speakers: 
+  #language: en
+-
+  id: 043
+  title: "Sponsorship Showcase"
+  presentationTitle: "Session 3"
+  description: ""
+  subtype: presentation
+  #speakers: 
+  #language: en
+-
+  id: 044
+  title: "Sponsorship Showcase"
+  presentationTitle: "Session 4"
+  description: ""
+  subtype: presentation
+  #speakers: 
+  #language: en
+-
   id: 050
-  title: "Day 1 Closing Remarks"
+  title: "End of Day 1"
+  description: ""
+  subtype: presentation
+  #speakers: 
+  #language: en
+-
+  id: 051
+  title: "End of Day 2"
   description: ""
   subtype: presentation
   #speakers: 
@@ -75,7 +125,7 @@
   #language: en
 -
   id: 070
-  title: "Event Dinner and Awards Ceremony"
+  title: "Awards Ceremony"
   description: ""
   place: "Ballroom"
   service: true
@@ -101,7 +151,8 @@
   id: 100
   title: "Foundation Models in Healthcare - Building the Intelligent Core"
   description: "Exploring how large-scale foundation models are transforming clinical decision support — laying the groundwork for intelligent healthcare systems."
-  subtype: presentation
+  subtype: panel
+  moderator: 3
   speakers: [3, 5, 30, 31, 41] # - 3 - Robert Morris, 5 - Martin, 30 - Colin Lim, 31 - Yan Shuicheng, 41 - Rajeev
   #language: en
   #complexity: "Intermediate"
@@ -110,7 +161,8 @@
   id: 200
   title: "Digital Phenotyping - The New Frontier of Personalised Care"
   description: "Leveraging behavioural, physiological, and digital biomarkers to enable real-time, personalized health insights and proactive care delivery."
-  subtype: presentation
+  subtype: panel
+  moderator: 32
   speakers: [7, 8, 26, 27, 32, 46] # 7 - Michael Chee, 8 - Tay Choon Hong, 26 - Andy Ho, 27 - Alina Rodriguez, 32 - Koa, 46 - Panicos
   #language: en
   #complexity: "Intermediate" 
@@ -120,7 +172,8 @@
   id: 300
   title: "AI for Healthy Ageing — Empowering Longevity and Quality of Life"
   description: "Exploring how AI and digital health innovations can enable healthy ageing through early risk detection, personalised care pathways, cognitive and mobility support, and continuous monitoring — advancing longevity, independence, and quality of life for ageing populations."
-  subtype: presentation
+  subtype: panel
+  moderator: 
   speakers: [9, 2, 25, 28] # 2 - Wong TIen Yin, 9 - Au Wing Lok, 25 - Lee Kwok Ming, 28 - Andrea Maier
   #language: en
   #complexity: "Intermediate" 
@@ -129,7 +182,8 @@
   id: 400
   title: "Agentic and Next Generation Systems for Care Coordination and Decision Support"
   description: "This session highlights how agentic systems and AI-driven decision-support tools are improving care coordination and clinical workflows. It explores real examples of intelligent automation, data-guided decisions, and safer, more connected models of care."
-  subtype: presentation
+  subtype: panel
+  moderator: 
   speakers: [22, 10, 15, 16, 29, 24] # 10 - Joe Sim, 15 - Wai Hoe Ng, 16 - Ngiam, 22 - Nigam, 14 - Rob Korom, 29 - Tom Smoot
   #language: uk
   #complexity: "Beginner"
@@ -139,8 +193,9 @@
   id: 500
   title: "Intelligent Devices & Connected Diagnostics — Bridging MedTech and AI for Next-Gen Care"
   description: "Showcasing how sensor technologies, connected devices, and edge AI are transforming diagnostics and patient monitoring. The session highlights practical examples of AI-enabled MedTech innovations — from point-of-care diagnostics to continuous monitoring platforms — and explores challenges in validation, and scaling these solutions into clinical workflows."
-  subtype: presentation
-  speakers: [11, 13, 4, 12, 20, 43] # 4 - CT Lim, 11 - Irene, 12 - Abel Ang, 13 - Vy Tran, 20 - Daria, 43 - Lawrence Carin
+  subtype: panel
+  moderator: 11
+  speakers: [13, 4, 20, 11, 43] # 4 - CT Lim, 11 - Irene, 13 - Vy Tran, 20 - Daria, 43 - Lawrence Carin # Removed: 12 - Abel Ang
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -149,7 +204,8 @@
   id: 600
   title: "Investing in the Future of Health AI"
   description: ""
-  subtype: presentation
+  subtype: panel
+  moderator: 1
   speakers: [14, 21, 1, 44, 45] # 14 - Joseph Mocanu, 21 - Navjeewan, 1 - Rick, 44 - Lau Shi Ying, 45 - Hongfei Xia
   #language: en
   #complexity: "Expert"
@@ -161,6 +217,17 @@
   description: "Early-stage startups and research teams present innovations in AI, MedTech, and digital health to investors and clinicians."
   subtype: presentation
   speakers: [37, 23, 42, 39, 38] # 37 - Sze Wee, 42 - Leni, 39 - Odie, 23 - Lawrence Wee, 38 - Kah Yean
+  #language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 701
+  title: "Hackathon"
+  presentationTitle: "Codex for Healthcare: From Prototype to Production"
+  description: "Early-stage startups and research teams present innovations in AI, MedTech, and digital health to investors and clinicians."
+  subtype: presentation
+  speakers: #[37, 23, 42, 39, 38] # 37 - Sze Wee, 42 - Leni, 39 - Odie, 23 - Lawrence Wee, 38 - Kah Yean
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"

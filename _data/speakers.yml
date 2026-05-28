@@ -219,16 +219,16 @@
  #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
--
-  id: 20
-  name: "Daria"
-  surname: "Lemann-Blumenthal"
-  company: "Nanodrops"
-  title: "Chief Executive Officer"
-  bio: "<p>Daria Lemann-Blumenthal is the CEO of NanoDrops, a MedTech company pioneering a breakthrough vision correction technology that eliminates the need for reading glasses. Prior to joining NanoDrops, Daria was the co-founder and CEO of BELKIN Vision, which was acquired by Alcon in 2024 for $466 million, after developing a laser-based glaucoma treatment. She previously served as the CEO of Ein Tal Eye Center, Israel's largest ophthalmic care facility, and led its acquisition. Daria has spent five years of her career in Canada and the USA. She holds an LLB from the Hebrew University of Jerusalem and an Executive MBA from Tel Aviv University, both awarded with Dean’s Honors. </p>"
-  thumbnailUrl: DariaLemannBlumenthal.png
-  cardThumbnailUrl: DariaLemannBlumenthal2.png
-  rockstar: false
+# -
+#   id: 20
+#   name: "Daria"
+#   surname: "Lemann-Blumenthal"
+#   company: "Nanodrops"
+#   title: "Chief Executive Officer"
+#   bio: "<p>Daria Lemann-Blumenthal is the CEO of NanoDrops, a MedTech company pioneering a breakthrough vision correction technology that eliminates the need for reading glasses. Prior to joining NanoDrops, Daria was the co-founder and CEO of BELKIN Vision, which was acquired by Alcon in 2024 for $466 million, after developing a laser-based glaucoma treatment. She previously served as the CEO of Ein Tal Eye Center, Israel's largest ophthalmic care facility, and led its acquisition. Daria has spent five years of her career in Canada and the USA. She holds an LLB from the Hebrew University of Jerusalem and an Executive MBA from Tel Aviv University, both awarded with Dean’s Honors. </p>"
+#   thumbnailUrl: DariaLemannBlumenthal.png
+#   cardThumbnailUrl: DariaLemannBlumenthal2.png
+#   rockstar: false
 -
   id: 4
   name: "Chwee Teck"

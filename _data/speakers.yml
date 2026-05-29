@@ -44,21 +44,21 @@
  #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
-# - 
-#   id: 42
-#   name: "Leni"
-#   surname: "Chan"
-#   company: "Agency for Science, Technology and Research"
-#   title: "Tech-Biz Director, Medtech Sector"
-#   presentation: 
-#   bio: "<p>Leni is an accomplished professional with over 17 years of experience in the healthcare and wellness industry, following the completion of his Bachelor's degree in Bioengineering from the National University of Singapore (NUS). Starting his journey at Singapore's largest tech transfer office, Leni was entrusted with the vital responsibility of commercializing an extensive portfolio of medical technology products, which included diagnostic software, surgical intervention tools, and devices for clinical and wellness applications.</p><p>Over the course of his career, Leni has demonstrated acumen in various areas, including business development, product management, and strategic M&A. He has effectively managed offshore teams and regional customers, establishing himself as a skilled leader with excellent communication and interpersonal abilities.</p><p>At present, Leni is once again with A*STAR, where he is dedicated to bringing innovative technologies to the market. He leads Technology-Business Development for the MedTech Sector and is focused on delivering impactful outcomes. He is also passionate about advocating proper governance and responsible use of healthcare data for collaboration.</p>"
-#   thumbnailUrl: LeniChan.jpg
-#   cardThumbnailUrl: LeniChan2.png
-#   rockstar: false
-#  # social: 
-#  #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-#  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-#  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
+- 
+  id: 42
+  name: "Leni"
+  surname: "Chan"
+  company: "Agency for Science, Technology and Research"
+  title: "Tech-Biz Director, Medtech Sector"
+  presentation: 
+  bio: "<p>Leni is an accomplished professional with over 17 years of experience in the healthcare and wellness industry, following the completion of his Bachelor's degree in Bioengineering from the National University of Singapore (NUS). Starting his journey at Singapore's largest tech transfer office, Leni was entrusted with the vital responsibility of commercializing an extensive portfolio of medical technology products, which included diagnostic software, surgical intervention tools, and devices for clinical and wellness applications.</p><p>Over the course of his career, Leni has demonstrated acumen in various areas, including business development, product management, and strategic M&A. He has effectively managed offshore teams and regional customers, establishing himself as a skilled leader with excellent communication and interpersonal abilities.</p><p>At present, Leni is once again with A*STAR, where he is dedicated to bringing innovative technologies to the market. He leads Technology-Business Development for the MedTech Sector and is focused on delivering impactful outcomes. He is also passionate about advocating proper governance and responsible use of healthcare data for collaboration.</p>"
+  thumbnailUrl: LeniChan.jpg
+  cardThumbnailUrl: LeniChan2.png
+  rockstar: false
+ # social: 
+ #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+ #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+ #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
   id: 7
   name: "Michael"

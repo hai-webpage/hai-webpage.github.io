@@ -76,7 +76,7 @@
   presentationTitle: "Session 1"
   description: ""
   subtype: presentation
-  #speakers: 
+  #speakers: [47] # 47 - Richard Goh AWS,
   #language: en
 -
   id: 042
@@ -92,7 +92,7 @@
   presentationTitle: "Session 3"
   description: ""
   subtype: presentation
-  #speakers: 
+  #speakers: []
   #language: en
 -
   id: 044

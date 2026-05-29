@@ -49,9 +49,9 @@
 #   name: "Leni"
 #   surname: "Chan"
 #   company: "Agency for Science, Technology and Research"
-#   title: "Director, Innovation & Enterprise"
+#   title: "Tech-Biz Director, Medtech Sector"
 #   presentation: 
-#   bio: "<p></p>"
+#   bio: "<p>Leni is an accomplished professional with over 17 years of experience in the healthcare and wellness industry, following the completion of his Bachelor's degree in Bioengineering from the National University of Singapore (NUS). Starting his journey at Singapore's largest tech transfer office, Leni was entrusted with the vital responsibility of commercializing an extensive portfolio of medical technology products, which included diagnostic software, surgical intervention tools, and devices for clinical and wellness applications.</p><p>Over the course of his career, Leni has demonstrated acumen in various areas, including business development, product management, and strategic M&A. He has effectively managed offshore teams and regional customers, establishing himself as a skilled leader with excellent communication and interpersonal abilities.</p><p>At present, Leni is once again with A*STAR, where he is dedicated to bringing innovative technologies to the market. He leads Technology-Business Development for the MedTech Sector and is focused on delivering impactful outcomes. He is also passionate about advocating proper governance and responsible use of healthcare data for collaboration.</p>"
 #   thumbnailUrl: LeniChan.jpg
 #   cardThumbnailUrl: LeniChan2.png
 #   rockstar: false
@@ -100,6 +100,21 @@
 #   thumbnailUrl: VivianDing.jpg
 #   cardThumbnailUrl: VivianDing2.png
 #   rockstar: true
+ # social: 
+ #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+ #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+ #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
+- 
+  id: 47
+  name: "Richard"
+  surname: "Goh"
+  company: "AWS"
+  title: "Head of AI & Strategic Initiatives"
+  presentation: "AI for Healthcare"
+  bio: "<p>Richard Goh is the head of AI & strategic initiatives for Singapore public sector business at Amazon Web Services (AWS). He is a certified Amazon’s Culture of Innovation speaker, a global initiative that shares Amazon’s innovation mechanisms. He is also a member of the AWS ASEAN AI acceleration team supporting strategic AI adoption across AWS ASEAN customers.</p><p>Outside of AWS, Richard is an active member of the AI and Robotics chapter of Singapore Computer Society (SCS). Prior to joining AWS, he spent 6 years in SkillsFuture Singapore working on utilizing technology to augment and support the national SkillsFuture movement. He lead technical teams in moving systems to the cloud, modernising systems and pioneered the use of AI, machine learning and blockchain technologies for fraud prevention, skills and training discovery and automation of processes. He started his career as a researcher in AI before spending more than 15 years in management and tech consulting, helping various MNCs, government and financial organisations with AI, automation and technology strategies.</p>"
+  thumbnailUrl: RichardGoh.jpg
+  cardThumbnailUrl: RichardGoh2.png
+  rockstar: false
  # social: 
  #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
@@ -589,7 +604,7 @@
 
 
 
-# COUNT: 46
+# COUNT: 47
 
 
 

@@ -337,6 +337,21 @@
  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
+  id: 48
+  name: "Bernard"
+  surname: "Ng"
+  company: "Singapore General Hospital"
+  title: "Director of Innovation and Strategy"
+  presentation: 
+  bio: "<p>Dr Bernard Ng is Director of Innovation and Strategy at Singapore General Hospital, where he leads the development and Innovation, Enterprise & Commercialisation strategy. His remit focuses on medtech, digital health, data and artificial intelligence to build future-ready healthcare systems and translate promising technologies into clinical impact.</p><p>He brings extensive global leadership experience across the United States, Europe and Asia, and has led multidisciplinary teams through the full product lifecycle from preclinical research to regulatory registration. An active proponent of digital transformation, Dr Ng has led enterprise-wide digital initiatives and conducted diligence for healthtech startups to identify solutions that deliver disproportionate value to clinicians and patients.</p><p>Dr Ng earned his medical degree from the National University of Malaysia and holds an Executive MBA from the University of Melbourne. He also completed a Diploma in Digital Transformation at IMD, Lausanne.</p>"
+  thumbnailUrl: BernardNg.jpg
+  cardThumbnailUrl: BernardNg2.png
+  rockstar: false
+ # social: 
+ #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+ #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+ #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
+- 
   id: 39
   name: "Odie"
   surname: "Ng"
@@ -604,7 +619,7 @@
 
 
 
-# COUNT: 47
+# COUNT: 48
 
 
 

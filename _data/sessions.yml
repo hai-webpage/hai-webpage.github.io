@@ -216,7 +216,7 @@
   title: "Healthcare Innovation Pitch Challenge"
   description: "Early-stage startups and research teams present innovations in AI, MedTech, and digital health to investors and clinicians."
   subtype: presentation
-  speakers: [37, 23, 42, 39, 38] # 37 - Sze Wee, 42 - Leni, 39 - Odie, 23 - Lawrence Wee, 38 - Kah Yean
+  speakers: [37, 23, 42, 39, 38, 48] # 37 - Sze Wee, 42 - Leni, 39 - Odie, 23 - Lawrence Wee, 38 - Kah Yean, 48 - Bernard Ng
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"

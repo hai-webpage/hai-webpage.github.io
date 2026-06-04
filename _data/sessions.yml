@@ -32,7 +32,7 @@
   title: "Guest of Honour Address"
   description: ""
   subtype: keynote
-  #speakers: [40]
+  speakers: [40]
   #language: en
 -
   id: 020

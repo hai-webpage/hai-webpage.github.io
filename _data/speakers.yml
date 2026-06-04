@@ -479,6 +479,21 @@
   thumbnailUrl: TomSmoot.jpg
   cardThumbnailUrl: TomSmoot2.png
   rockstar: false
+- 
+  id: 49
+  name: "Andy"
+  surname: "Ta"
+  company: "Synapxe"
+  title: "Chief Data Officer and Director for Data Analytics & AI"
+  presentation: 
+  bio: "<p>Andy is responsible for the visioning, planning and implementation of system-wide and institution-level data, analytical & AI capabilities/ programmes across the care continuum for effective enablement of analytics and data science across public health organisations in alignment to Ministry of Health’s Healthcare Masterplan. Andy’s efforts include building a strong AI & data science community in healthcare, encouraging collaborations among public health institutions to implement innovative or transformative approaches to healthcare services, patient care delivery and population health through use of big data and advanced analytics.</p>"
+  thumbnailUrl: AndyTa.jpg
+  cardThumbnailUrl: AndyTa2.png
+  rockstar: false
+ # social: 
+ #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+ #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+ #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
   id: 19
   name: "Cher Heng"
@@ -619,7 +634,7 @@
 
 
 
-# COUNT: 48
+# COUNT: 49
 
 
 

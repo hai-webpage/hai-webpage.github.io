@@ -307,7 +307,7 @@
   title: "Synapxe Inside - Integrating AI Solutions into Singapore’s National Health Digital Infrastructure"
   description: "The session will unpack how AimSG functions as Singapore’s coordinated national deployment backbone for medical AI — reducing fragmentation, accelerating time-to-implementation, enforcing shared interoperability and governance standards, and enabling seamless scale-out across healthcare clusters into real clinical workflows. Using AimSG as the central case study, participants will gain a step-by-step understanding of the national onboarding pathway: from positioning and validation of AI solutions, to integration on a common vendor-neutral platform, rigorous clinical evaluation, continuous safety and performance monitoring, and ultimately operationalisation at scale across institutions."
   subtype: workshop
-  speakers: [19]
+  speakers: [19, 49]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"

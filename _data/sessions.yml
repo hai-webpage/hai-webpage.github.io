@@ -305,7 +305,7 @@
 -
   id: 907
   title: "Synapxe Inside - Integrating AI Solutions into Singapore’s National Health Digital Infrastructure"
-  description: "The session will unpack how AimSG functions as Singapore’s coordinated national deployment backbone for medical AI — reducing fragmentation, accelerating time-to-implementation, enforcing shared interoperability and governance standards, and enabling seamless scale-out across healthcare clusters into real clinical workflows. Using AimSG as the central case study, participants will gain a step-by-step understanding of the national onboarding pathway: from positioning and validation of AI solutions, to integration on a common vendor-neutral platform, rigorous clinical evaluation, continuous safety and performance monitoring, and ultimately operationalisation at scale across institutions."
+  description: "The session will unpack Synapxe's role as Singapore's national HealthTech agency — the platforms, data foundations, and governance frameworks underpinning AI deployment across the public healthcare system. Using AimSG as the central case study, participants will then understand Singapore's coordinated national deployment backbone for medical AI, which reduces fragmentation, accelerates time-to-implementation, and enforces shared interoperability and governance standards. The session walks through the national onboarding pathway: from validation of AI solutions, to integration on a common vendor-neutral platform, clinical evaluation, continuous monitoring, and operationalisation at scale across institutions."
   subtype: workshop
   speakers: [19, 49]
   #language: en

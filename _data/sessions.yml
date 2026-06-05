@@ -48,9 +48,9 @@
   id: 021
   title: "Keynote Address"
   description: 
-  presentationTitle: 
+  presentationTitle: "Role of AI and Medical Foundation Models in Singapore"
   subtype: keynote
-#   speakers: [3]
+  speakers: [3]
 #   #language: en
 #   #complexity: "Intermediate"
 #   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"

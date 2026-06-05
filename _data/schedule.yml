@@ -45,40 +45,45 @@
     - {
         startTime: "11:10",
         #endTime: "12:20",
+        sessionIds: [030]
+    }
+    - {
+        startTime: "11:30",
+        #endTime: "12:20",
         sessionIds: [100]
     }
     - {
-    	startTime: "12:20",
+    	startTime: "12:40",
     	#endTime: "13:20",
     	sessionIds: [003]
     }
     - {
-    	startTime: "13:20",
+    	startTime: "14:10",
     	#endTime: "13:40",
     	sessionIds: [041]
     }
     - {
-        startTime: "13:40",
+        startTime: "14:30",
         #endTime: "14:50",
         sessionIds: [200]
     }
     - {
-        startTime: "14:50",
+        startTime: "15:40",
         #endTime: "15:20",
         sessionIds: [002]
     }
     - {
-        startTime: "15:20",
+        startTime: "16:10",
         #endTime: "15:40",
         sessionIds: [042]
     }
     - {
-        startTime: "15:40",
+        startTime: "16:30",
         #endTime: "17:00",
         sessionIds: [300]
     }
     - {
-        startTime: "17:00",
+        startTime: "17:40",
         #endTime: "11:45",
         sessionIds: [050]
     }

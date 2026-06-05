@@ -173,8 +173,8 @@
   title: "AI for Healthy Ageing — Empowering Longevity and Quality of Life"
   description: "Exploring how AI and digital health innovations can enable healthy ageing through early risk detection, personalised care pathways, cognitive and mobility support, and continuous monitoring — advancing longevity, independence, and quality of life for ageing populations."
   subtype: panel
-  moderator: 
-  speakers: [9, 2, 25, 28] # 2 - Wong TIen Yin, 9 - Au Wing Lok, 25 - Lee Kwok Ming, 28 - Andrea Maier
+  moderator: 50
+  speakers: [9, 2, 25, 28, 50] # 2 - Wong TIen Yin, 9 - Au Wing Lok, 25 - Lee Kwok Ming, 28 - Andrea Maier, 50 - Zhou Jun
   #language: en
   #complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -183,7 +183,7 @@
   title: "Agentic and Next Generation Systems for Care Coordination and Decision Support"
   description: "This session highlights how agentic systems and AI-driven decision-support tools are improving care coordination and clinical workflows. It explores real examples of intelligent automation, data-guided decisions, and safer, more connected models of care."
   subtype: panel
-  moderator: 
+  moderator: 16
   speakers: [22, 10, 15, 16, 29, 24] # 10 - Joe Sim, 15 - Wai Hoe Ng, 16 - Ngiam, 22 - Nigam, 14 - Rob Korom, 29 - Tom Smoot
   #language: uk
   #complexity: "Beginner"

@@ -174,7 +174,7 @@
   description: "Exploring how AI and digital health innovations can enable healthy ageing through early risk detection, personalised care pathways, cognitive and mobility support, and continuous monitoring — advancing longevity, independence, and quality of life for ageing populations."
   subtype: panel
   moderator: 50
-  speakers: [9, 2, 25, 28, 50] # 2 - Wong TIen Yin, 9 - Au Wing Lok, 25 - Lee Kwok Ming, 28 - Andrea Maier, 50 - Zhou Jun
+  speakers: [9, 2, 25, 28, 51, 50] # 2 - Wong Tien Yin, 9 - Au Wing Lok, 25 - Lee Kwok Ming, 28 - Andrea Maier, 51 - Tan Hiang Khoon, 50 - Zhou Jun
   #language: en
   #complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -195,7 +195,7 @@
   description: "Showcasing how sensor technologies, connected devices, and edge AI are transforming diagnostics and patient monitoring. The session highlights practical examples of AI-enabled MedTech innovations — from point-of-care diagnostics to continuous monitoring platforms — and explores challenges in validation, and scaling these solutions into clinical workflows."
   subtype: panel
   moderator: 11
-  speakers: [13, 4, 11, 43, 51] # 4 - CT Lim, 11 - Irene, 13 - Vy Tran, 43 - Lawrence Carin, 51 - Tan Hiang Khoon # Removed: 12 - Abel Ang, 20 - Daria
+  speakers: [13, 4, 11, 43] # 4 - CT Lim, 11 - Irene, 13 - Vy Tran, 43 - Lawrence Carin, 49 - Andy Ta # Removed: 12 - Abel Ang, 20 - Daria
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"

@@ -520,6 +520,21 @@
  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
+  id: 51
+  name: "Hiang Khoon"
+  surname: "Tan"
+  company: "Singapore General Hospital"
+  title: "Chief Executive Officer"
+  presentation: 
+  bio: "<p>Clin A/Prof Tan Hiang Khoon is Chief Executive Officer at Singapore General Hospital. He is also Senior Consultant at the National Cancer Centre Singapore & SingHealth Duke-NUS Head & Neck Centre.</p><p>Clin A/Prof Tan received his medical degree from the National University Singapore School of Medicine in 1991 and specialist training in the Department of General Surgery at SGH.</p><p>He joined the Head and Neck Service at NCCS in 2005 and subsequently underwent his Advanced Training in Head and Neck Surgical Oncology in Institute Gustave Roussy, Paris. He is one of the pioneers in the development of endoscopic and robotic Head and Neck surgery in Singapore.</p><p>His research interests are in head and neck squamous cell carcinoma and the use of cancer biomarkers in clinical algorithms. His work in methylation profiling of resection margins was awarded the Best Early Detection Paper in the 7th International Conference on Head and Neck Cancer. Dr Tan was also awarded the Singapore National Youth Award for his role as the founding chairman of Children’s Cancer Foundation (Singapore). He is currently the Academic Vice-Chair (Research) for ACP Surgery.</p>"
+  thumbnailUrl: TanHiangKhoon.jpg
+  cardThumbnailUrl: TanHiangKhoon2.png
+  rockstar: false
+ # social: 
+ #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+ #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+ #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
+- 
   id: 37
   name: "Sze Wee"
   surname: "Tan"

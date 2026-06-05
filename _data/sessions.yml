@@ -195,7 +195,7 @@
   description: "Showcasing how sensor technologies, connected devices, and edge AI are transforming diagnostics and patient monitoring. The session highlights practical examples of AI-enabled MedTech innovations — from point-of-care diagnostics to continuous monitoring platforms — and explores challenges in validation, and scaling these solutions into clinical workflows."
   subtype: panel
   moderator: 11
-  speakers: [13, 4, 11, 43] # 4 - CT Lim, 11 - Irene, 13 - Vy Tran, 43 - Lawrence Carin # Removed: 12 - Abel Ang, 20 - Daria
+  speakers: [13, 4, 11, 43, 51] # 4 - CT Lim, 11 - Irene, 13 - Vy Tran, 43 - Lawrence Carin, 51 - Tan Hiang Khoon # Removed: 12 - Abel Ang, 20 - Daria
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"

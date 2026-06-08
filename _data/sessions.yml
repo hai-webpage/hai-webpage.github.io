@@ -73,10 +73,18 @@
 -
   id: 041
   title: "Sponsorship Showcase"
-  presentationTitle: "Session 1"
+  presentationTitle: "AWS"
   description: ""
   subtype: presentation
-  #speakers: [47] # 47 - Richard Goh AWS,
+  speakers: [47] # 47 - Richard Goh AWS
+  #language: en
+-
+  id: 045
+  title: "Sponsorship Showcase"
+  presentationTitle: "Workato"
+  description: ""
+  subtype: presentation
+  speakers: [52] # 52 - Ee Shan
   #language: en
 -
   id: 042

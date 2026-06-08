@@ -63,6 +63,11 @@
     	sessionIds: [041]
     }
     - {
+    	startTime: "14:20",
+    	#endTime: "13:40",
+    	sessionIds: [045]
+    }
+    - {
         startTime: "14:30",
         #endTime: "14:50",
         sessionIds: [200]

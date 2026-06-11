@@ -40,7 +40,9 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/poster/", text: "Posters"}
  - {permalink: "/pitch/", text: "Pitch"}
+ - {link: "https://luma.com/6s8sbqep", text: "Codex Hackathon"}
  - {permalink: "/sponsor/", text: "Sponsor"}
+ #- {permalink: "/codexhackathon/", text: "Hackathon"}
  - {link: "https://yimingqian889.wixsite.com/ai-health-innovation", text: "HAI 2025"}
 bottomNavigationLinks:
  - {permalink: "/sponsor/", text: "Become a sponsor"}

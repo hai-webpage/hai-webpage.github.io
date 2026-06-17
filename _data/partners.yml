@@ -7,4 +7,4 @@
     - {name: "Moonplay", description: "Moonplay", link: "https://moonplay.xyz", imageUrl: "moonplay.png", imgWidth: "140"}
     #- {name: "NTT", description: "NTT DATA", link: "https://www.global.ntt", imageUrl: "ntt.png"}
     - {name: "NVIDIA", description: "NVIDIA", link: "https://www.nvidia.com/en-sg/", imageUrl: "nvidia.png", imgWidth: "120"}
-    - {name: "PTC System", description: "PTC System", link: "https://ptcsys.com", imageUrl: "ptc.png", imgWidth: "150"}
+    - {name: "PTC System", description: "PTC System", link: "https://ptcsys.com", imageUrl: "PTC.png", imgWidth: "150"}

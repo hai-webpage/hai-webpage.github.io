@@ -73,7 +73,7 @@
 -
   id: 041
   title: "Sponsorship Showcase"
-  presentationTitle: "AWS"
+  presentationTitle: "Amazon Web Services (AWS)"
   description: ""
   subtype: presentation
   speakers: [47] # 47 - Richard Goh AWS
@@ -112,7 +112,7 @@
   #language: en
 -
   id: 050
-  title: "End of Day 1"
+  title: "End of Day 1 Main Stage"
   description: ""
   subtype: presentation
   #speakers: 
@@ -145,10 +145,11 @@
   service: true
 -
   id: 090
-  title: "Hackathon"
+  title: "Codex Night Hackathon"
+  presentationTitle: "Codex for Healthcare: From Prototype to Production"
   description: ""
-  place: "Ballroom"
-  service: true
+  subtype: presentation
+  speakers: [48, 56, 57, 58] # 48 - Bernard Ng, 56 - Adam Chee, 57 - Tan Jen Hong, 58 - Geoffrey Gui
 -
   id: 099
   title: "End of Day 3"
@@ -161,7 +162,7 @@
   description: "Exploring how large-scale foundation models are transforming clinical decision support — laying the groundwork for intelligent healthcare systems."
   subtype: panel
   moderator: 3
-  speakers: [3, 5, 30, 31, 41] # - 3 - Robert Morris, 5 - Martin, 30 - Colin Lim, 31 - Yan Shuicheng, 41 - Rajeev
+  speakers: [3, 5, 30, 31, 41] # 3 - Robert Morris, 5 - Martin, 30 - Colin Lim, 31 - Yan Shuicheng, 41 - Rajeev
   #language: en
   #complexity: "Intermediate"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -275,7 +276,7 @@
   title: "AWS Hands-on: Amazon Quick Suite"
   description: "A guided, hands-on workshop on Amazon Quick Suite, an AI-powered agentic workspace designed to accelerate research, data analysis, and workflow automation. It combines features such as Amazon Quick Index — a unified search repository that connects disparate data sources into a single, intelligent knowledge base — with Amazon Quick Research, an AI agent that conducts comprehensive research by analyzing multiple data sources and generating detailed reports."
   subtype: workshop
-  #speakers: [7]
+  speakers: [53, 54, 55]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"

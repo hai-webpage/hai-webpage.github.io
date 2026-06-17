@@ -84,13 +84,18 @@
     }
     - {
         startTime: "16:30",
-        #endTime: "17:00",
+        #endTime: "17:40",
         sessionIds: [300]
     }
     - {
         startTime: "17:40",
         #endTime: "11:45",
         sessionIds: [050]
+    }
+    - {
+        startTime: "18:30",
+        endTime: "00:00",
+        sessionIds: [090]
     }
 - 
   date: "2026-07-09"

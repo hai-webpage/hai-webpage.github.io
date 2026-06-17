@@ -59,6 +59,21 @@
  #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
+- 
+  id: 56
+  name: "Adam"
+  surname: "Chee"
+  company: "Singapore General Hospital"
+  title: "Director, AI Development Office"
+  presentation: 
+  bio: "<p>A/Prof. Adam CHEE is a digital health and health informatics leader, currently serving as Director of the AI Development Office (AIDO) at Singapore General Hospital.</p><p>He brings deep expertise across healthcare, technology, innovation, and business transformation, with experience spanning clinical information systems, strategic consulting, standards development, AI-enabled health, and health systems transformation.</p><p>Adam has worked across Asia Pacific and the Middle East, supporting the adoption of evidence-based, technology-enabled healthcare solutions.</p><p>He also serves in multiple regional and international leadership roles, including HL7 Singapore, ISO TC215, WHO, APEC, and universities in the region.</p><p>Further details: www.GoBeyondNoise.com</p>"
+  thumbnailUrl: AdamChee.jpg
+  cardThumbnailUrl: AdamChee2.png
+  rockstar: false
+ # social: 
+ #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+ #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+ #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
   id: 7
   name: "Michael"
@@ -108,7 +123,7 @@
   id: 47
   name: "Richard"
   surname: "Goh"
-  company: "AWS"
+  company: "Amazon Web Services"
   title: "Head of AI & Strategic Initiatives"
   presentation: "AI for Healthcare"
   bio: "<p>Richard Goh is the head of AI & strategic initiatives for Singapore public sector business at Amazon Web Services (AWS). He is a certified Amazon’s Culture of Innovation speaker, a global initiative that shares Amazon’s innovation mechanisms. He is also a member of the AWS ASEAN AI acceleration team supporting strategic AI adoption across AWS ASEAN customers.</p><p>Outside of AWS, Richard is an active member of the AI and Robotics chapter of Singapore Computer Society (SCS). Prior to joining AWS, he spent 6 years in SkillsFuture Singapore working on utilizing technology to augment and support the national SkillsFuture movement. He lead technical teams in moving systems to the cloud, modernising systems and pioneered the use of AI, machine learning and blockchain technologies for fraud prevention, skills and training discovery and automation of processes. He started his career as a researcher in AI before spending more than 15 years in management and tech consulting, helping various MNCs, government and financial organisations with AI, automation and technology strategies.</p>"
@@ -132,13 +147,28 @@
  # social: 
  #   - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
+  id: 58
+  name: "Geoffrey"
+  surname: "Gui"
+  company: "Singapore General Hospital"
+  title: "Director, Digital Health Transformation Office"
+  presentation: 
+  bio: "<p>Geoffrey is a healthcare operations leader and digital transformation champion with extensive experience in driving innovation and process improvement across complex clinical environments. As Chief Operating Officer, he focuses on translating ideas into practical, scalable solutions that deliver measurable impact. With a strong interest in digital health, AI, and workflow redesign, Geoffrey supports teams in simplifying complex problems, sharpening their value propositions, and building solutions that can work in real-world settings. He is passionate about continuous improvement and empowering teams to think boldly while staying grounded in operational realities. Geoffrey brings a pragmatic, user-centric perspective—helping teams move from concept to execution, and from innovation to meaningful impact.</p>"
+  thumbnailUrl: GeoffreyGui.jpg
+  cardThumbnailUrl: GeoffreyGui2.png
+  rockstar: false
+ # social: 
+ #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+ #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+ #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
+- 
   id: 32
   name: "Creighton"
   surname: "Heaukulani"
   company: "MOH Office for Healthcare Transformation"
   title: "Deputy Director and Principal Data Scientist"
   presentation: 
-  bio: "<p>Dr. Creighton Heaukulani is Deputy Director and Principal Data Scientist at the MOH Office for Healthcare Transformation (MOHT) under the Ministry of Health in Singapore, where he leads the Digital Health Applications Team in the Data, Science & Technology Division, driving initiatives that transform care delivery and health promotion across the health system and in the community, with current focus on mental health and the management of chronic diseases.</p><p>He is also Adjunct Senior Lecturer in the Department of Statistics and Data Science at the National University of Singapore (NUS) where he lectures courses on machine learning.</p"
+  bio: "<p>Dr. Creighton Heaukulani is Deputy Director and Principal Data Scientist at the MOH Office for Healthcare Transformation (MOHT) under the Ministry of Health in Singapore, where he leads the Digital Health Applications Team in the Data, Science & Technology Division, driving initiatives that transform care delivery and health promotion across the health system and in the community, with current focus on mental health and the management of chronic diseases.</p><p>He is also Adjunct Senior Lecturer in the Department of Statistics and Data Science at the National University of Singapore (NUS) where he lectures courses on machine learning.</p>"
   thumbnailUrl: CreightonHeaukulani.jpg
   cardThumbnailUrl: CreightonHeaukulani2.png
   rockstar: false
@@ -157,6 +187,21 @@
   thumbnailUrl: AndyHo.jpg
   cardThumbnailUrl: AndyHo2.png
   rockstar: false
+- 
+  id: 53
+  name: "Noor"
+  surname: "Khan"
+  company: "Amazon Web Services"
+  title: "Solutions Architect"
+  presentation: 
+  bio: "<p>Noor Khan is a Solutions Architect at Amazon Web Services, supporting Singapore's public sector education and research landscape. She works closely with academic and research institutions—leading technical engagements and designing secure, scalable architectures that drive innovation. Noor is passionate about AI/ML, generative AI, and web development, and is a strong advocate for empowering women in tech.</p>"
+  thumbnailUrl: NoorKhan.jpg
+  cardThumbnailUrl: NoorKhan2.png
+  rockstar: false
+ # social: 
+ #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+ #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+ #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
   id: 21
   name: "Navjeewan"
@@ -226,7 +271,7 @@
   company: "Singapore Biodesign"
   title: "Acting Program Director"
   presentation: 
-  bio: "<p>Dr. Lee Phin Peng is currently serving as the Programme Director for Singapore Biodesign, which is the national platform for health and medtech innovation talent development, and the Lead for MedTech at A*STAR. Dr. Lee also holds an adjunct Assistant Professor position at the Duke-NUS Medical School.</p><p>Dr. Lee is passionate about health and medtech innovation and has been building national-level programmes and initiatives related to talent development, sustaining project pipelines, and accelerating startups. Dr. Lee has been directly involved with raising more than $110M in funding for national programmes. He is also actively involved in mentoring programmes for various accelerators and venture building programmes. Dr. Lee is a certified adult educator who has trained researchers, healthcare professionals, and corporates in Design Thinking and the Biodesign methodology.</p><p>Dr. Lee holds a PhD in Bioengineering from the University of California, San Francisco – Berkeley and a BSc in Biomedical Engineering from Brown University. He completed his post-doctoral training at the Stanford School of Medicine under the Singapore-Stanford Biodesign Innovation Fellowship.</p"
+  bio: "<p>Dr. Lee Phin Peng is currently serving as the Programme Director for Singapore Biodesign, which is the national platform for health and medtech innovation talent development, and the Lead for MedTech at A*STAR. Dr. Lee also holds an adjunct Assistant Professor position at the Duke-NUS Medical School.</p><p>Dr. Lee is passionate about health and medtech innovation and has been building national-level programmes and initiatives related to talent development, sustaining project pipelines, and accelerating startups. Dr. Lee has been directly involved with raising more than $110M in funding for national programmes. He is also actively involved in mentoring programmes for various accelerators and venture building programmes. Dr. Lee is a certified adult educator who has trained researchers, healthcare professionals, and corporates in Design Thinking and the Biodesign methodology.</p><p>Dr. Lee holds a PhD in Bioengineering from the University of California, San Francisco – Berkeley and a BSc in Biomedical Engineering from Brown University. He completed his post-doctoral training at the Stanford School of Medicine under the Singapore-Stanford Biodesign Innovation Fellowship.</p>"
   thumbnailUrl: LeePhinPeng.jpg
   cardThumbnailUrl: LeePhinPeng2.png
   rockstar: false
@@ -352,6 +397,21 @@
  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
+  id: 55
+  name: "Nathaniel"
+  surname: "Ng"
+  company: "Amazon Web Services"
+  title: "Senior Solutions Architect"
+  presentation: 
+  bio: "<p>Nathaniel Ng, PhD, is a Senior Solutions Architect at Amazon Web Services. He leads initiatives to accelerate GenAI adoption, working with organisations to leverage the most advanced capabilities in AI to bring their workloads to production and deploy secure, scalable, and resilient solutions on AWS cloud. During his more than 5 years at AWS, he has been involved in engagements across government, healthcare, educational, and research industry verticals in Singapore and ASEAN. Prior to his time at AWS, Nathaniel spent more than 10 years as a scientist, working on algorithms in the HPC-AI space for materials science and engineering use cases.</p>"
+  thumbnailUrl: NathanielNg.jpg
+  cardThumbnailUrl: NathanielNg2.png
+  rockstar: false
+ # social: 
+ #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+ #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+ #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
+- 
   id: 39
   name: "Odie"
   surname: "Ng"
@@ -428,6 +488,21 @@
   thumbnailUrl: AlinaRodriguez.jpg
   cardThumbnailUrl: AlinaRodriguez2.png
   rockstar: false
+- 
+  id: 54
+  name: "Evangeline"
+  surname: "Rose"
+  company: "Amazon Web Services"
+  title: "Senior Solutions Architect"
+  presentation: 
+  bio: "<p>Evangeline Rose is a Senior Solutions Architect at Amazon Web Services (AWS), based in Singapore, where she supports education customers specifically  polytechnics and ITE. With over six years at AWS, Evangeline specializes in designing cloud solutions that help education and public sector organizations modernize and innovate. She is passionate about leveraging emerging technologies—including generative AI—to drive meaningful outcomes for customers. Outside of work, Evangeline is an avid board sports enthusiast who enjoys surfing, snowboarding, and surf-skating, and draws inspiration from travel and continuous learning.</p>"
+  thumbnailUrl: EvangelineRose.jpg
+  cardThumbnailUrl: EvangelineRose2.png
+  rockstar: false
+ # social: 
+ #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+ #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+ #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 5
   name: "Martin"
@@ -519,6 +594,21 @@
   thumbnailUrl: TanCherHeng.jpg
   cardThumbnailUrl: TanCherHeng2.png
   rockstar: false
+- 
+  id: 57
+  name: "Jen Hong"
+  surname: "Tan"
+  company: "Singapore General Hospital"
+  title: "Head of AI Research & Innovation, AI Development Office"
+  presentation: 
+  bio: "<p>Adj. Assistant Prof. Tan Jen Hong is a prominent researcher specializing in healthcare artificial intelligence and medical image processing. He serves as the Principal Investigator of the AI Development Office (AIDO) at Singapore General Hospital, where he develops computer-assisted diagnosis systems and user-centered medical algorithms.</p><p>Dr. Tan earned his Bachelor of Engineering and a Ph.D. in Biosignal Processing from Nanyang Technological University (NTU). In addition to his hospital leadership, he holds an appointment as an Adjunct Assistant Professor at the Duke-NUS Medical School.</p><p>Throughout his career, Dr. Tan has driven innovations in deep learning for clinical workflows, spanning medical signal extraction to imaging analysis. His previous academic appointments include serving as a Senior Lecturer and Consultant at the National University of Singapore (NUS-ISS). He was also recognized globally by Clarivate as a Highly Cited Researcher in Computer Science.</p>"
+  thumbnailUrl: TanJenHong.jpg
+  cardThumbnailUrl: TanJenHong2.png
+  rockstar: false
+ # social: 
+ #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+ #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+ #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 40
   name: "Kiat How"
@@ -622,7 +712,7 @@
   company: "Tsinghua University"
   title: "Professor & Senior Vice Chancellor, Tsinghua Medicine and Vice Provost"
   presentation: "The AI-augmented hospital: Lessons and Challenges"
-  bio: "<p>Professor Tien Yin Wong is a physician-scientist-innovator and the Senior Vice-Chancellor of Tsinghua Medicine and Vice-Provost of Tsinghua University, China. He has worked and held senior leadership roles in Singapore and Australia, including at the National University of Singapore, SingHealth Duke-NUS Medical School, Singapore National Eye Centre, and University of Melbourne.</p><p>Prof Wong is a practicing retinal specialist, with a research portfolio on retinal diseases, ocular imaging, AI and digital technology. He has published >1,600 peer-reviewed papers (H-index >200, highly cited researcher 2020-2025), given >600 invited named, plenary and symposium lectures, and received >US$100 million in grant funding. Prof Wong has been recognized with multiple international awards, including Arnall Patz Medal (Macula Society), Jose Rizal Medal (Asia Pacific Academy of Ophthalmology) and Friedenwald Award (ARVO). He has received Singapore’s President’s Science and Technology Award. He is an elected international (foreign) member of the US National Academy of Medicine and the Australian Academy of Health and Medical Sciences. He is also an elected fellow of the UK Royal Society.</p"
+  bio: "<p>Professor Tien Yin Wong is a physician-scientist-innovator and the Senior Vice-Chancellor of Tsinghua Medicine and Vice-Provost of Tsinghua University, China. He has worked and held senior leadership roles in Singapore and Australia, including at the National University of Singapore, SingHealth Duke-NUS Medical School, Singapore National Eye Centre, and University of Melbourne.</p><p>Prof Wong is a practicing retinal specialist, with a research portfolio on retinal diseases, ocular imaging, AI and digital technology. He has published >1,600 peer-reviewed papers (H-index >200, highly cited researcher 2020-2025), given >600 invited named, plenary and symposium lectures, and received >US$100 million in grant funding. Prof Wong has been recognized with multiple international awards, including Arnall Patz Medal (Macula Society), Jose Rizal Medal (Asia Pacific Academy of Ophthalmology) and Friedenwald Award (ARVO). He has received Singapore’s President’s Science and Technology Award. He is an elected international (foreign) member of the US National Academy of Medicine and the Australian Academy of Health and Medical Sciences. He is also an elected fellow of the UK Royal Society.</p>"
   thumbnailUrl: WongTienYin.jpg
   cardThumbnailUrl: WongTienYin2.png
   rockstar: true
@@ -652,7 +742,7 @@
   company: "National University of Singapore"
   title: "Distinguished Professor (Practice) at the School of Computing"
   presentation: "Agent-nex: Inference Efficiency and Generative Memory"
-  bio: "<p>Prof. Yan Shuicheng is currently a Distinguished Professor (Practice) at the School of Computing, National University of Singapore. He previously served as the Group Chief Scientist at Sea Group and has held several other notable industry positions. Prof. Yan is a Fellow of the Singapore Academy of Engineering, AAAI, ACM, IEEE, and IAPR. His research focuses on computer vision, machine learning, and multimedia analysis. He has also been recognised as one of the World's Highly Cited Researchers for ten years. Under Prof. Yan's leadership, his team has secured ten first-place or honorable-mention accolades in two flagship competitions: Pascal VOC and ImageNet (ILSVRC). Additionally, his team has earned more than ten best paper and best student paper awards, including a remarkable grand slam at ACM Multimedia, a premier conference in multimedia research, with three Best Paper Awards, two Best Student Paper Awards, and one Best Demo Award.</p"
+  bio: "<p>Prof. Yan Shuicheng is currently a Distinguished Professor (Practice) at the School of Computing, National University of Singapore. He previously served as the Group Chief Scientist at Sea Group and has held several other notable industry positions. Prof. Yan is a Fellow of the Singapore Academy of Engineering, AAAI, ACM, IEEE, and IAPR. His research focuses on computer vision, machine learning, and multimedia analysis. He has also been recognised as one of the World's Highly Cited Researchers for ten years. Under Prof. Yan's leadership, his team has secured ten first-place or honorable-mention accolades in two flagship competitions: Pascal VOC and ImageNet (ILSVRC). Additionally, his team has earned more than ten best paper and best student paper awards, including a remarkable grand slam at ACM Multimedia, a premier conference in multimedia research, with three Best Paper Awards, two Best Student Paper Awards, and one Best Demo Award.</p>"
   thumbnailUrl: YanShuicheng.jpg
   cardThumbnailUrl: YanShuicheng2.png
   rockstar: false
@@ -667,7 +757,7 @@
   company: "A*STAR Institute of High Performance Computing"
   title: "Senior Scientist"
   presentation: 
-  bio: "<p></p"
+  bio: "<p></p>"
   thumbnailUrl: ZhouJun.jpg
   cardThumbnailUrl: ZhouJun2.png
   rockstar: false
@@ -677,7 +767,7 @@
  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 
 
-# COUNT: 52
+# COUNT: 58
 
 
 

@@ -1,17 +1,17 @@
 - 
   group: "Main organiser"
   elements: 
-    - {name: "A*STAR IHPC", description: "Institute of High Performance Computing, A*STAR", link: "https://www.a-star.edu.sg/ihpc", imageUrl: "ASTAR_IHPC_Horizontal_Logo_RGB.png"}
+    - {name: "A*STAR IHPC", description: "Institute of High Performance Computing, A*STAR", link: "https://www.a-star.edu.sg/ihpc", imageUrl: "ASTAR_IHPC_Horizontal_Logo_RGB.png", imgWidth: "200"}
 - 
   group: "Co-organisers"
   elements: 
-    - {name: "IMDA", description: "Infocomm Media Development Authority", link: "https://www.imda.gov.sg", imageUrl: "Infocomm_Media_Development_Authority_logo.svg"}
-    - {name: "MOHT", description: "MOH Office for Healthcare Transformation (MOHT)", link: "https://www.moht.com.sg", imageUrl: "moht-logo-colored-new.webp"}
+    - {name: "IMDA", description: "Infocomm Media Development Authority", link: "https://www.imda.gov.sg", imageUrl: "Infocomm_Media_Development_Authority_logo.svg", imgWidth: "200"}
+    - {name: "MOHT", description: "MOH Office for Healthcare Transformation (MOHT)", link: "https://www.moht.com.sg", imageUrl: "moht-logo-colored-new.webp", imgWidth: "120"}
 - 
   group: "Supported by"
   elements: 
-    - {name: "MOH", description: "Ministry of Health, Singapore", link: "https://www.moh.gov.sg", imageUrl: "Ministry_of_Health_(Singapore)_(logo).svg"}
+    - {name: "MOH", description: "Ministry of Health, Singapore", link: "https://www.moh.gov.sg", imageUrl: "Ministry_of_Health_(Singapore)_(logo).svg", imgWidth: "130"}
 -
   group: "HPC Partner"
   elements:
-    - {name: "NSCC", description: "National Supercomputing Centre (NSCC) Singapore", link: "https://www.nscc.sg", imageUrl: "NSCC_Logo_Colour.png"}
+    - {name: "NSCC", description: "National Supercomputing Centre (NSCC) Singapore", link: "https://www.nscc.sg", imageUrl: "NSCC_Logo_Colour.png", imgWidth: "150"}

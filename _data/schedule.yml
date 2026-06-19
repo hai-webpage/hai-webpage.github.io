@@ -2,6 +2,7 @@
   date: "2026-07-08"
   dateTitle: "HAI Day 1"
   dateReadable: "Wed, July 8"
+  dateVenue: "Grand Ballroom, One Farrer Hotel"
   tracks: 
     - {title: "Session", color: "#206a87"}
 #    - {title: "Web & Cloud", color: "#03a9f4"}
@@ -101,6 +102,7 @@
   date: "2026-07-09"
   dateTitle: "HAI Day 2"
   dateReadable: "Thu, July 9"
+  dateVenue: "Grand Ballroom, One Farrer Hotel"
   tracks: 
     - {title: "Session", color: "#206a87"}
     #- {title: "Web & Cloud", color: "#03a9f4"}
@@ -184,6 +186,7 @@
   date: "2026-07-10"
   dateTitle: "Masterclass Day 3"
   dateReadable: "Fri, July 10"
+  dateVenue: "Multi-Purpose Hall 1&2, Innovis, Fusionopolis Two"
   tracks: 
     - {title: "Masterclass", color: "#90be4e"}
 #    - {title: "Web & Cloud", color: "#03a9f4"}

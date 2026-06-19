@@ -8,6 +8,7 @@
                 {% assign panelId = "schedule-panel-" | append: forloop.index %}
                 <button class="schedule-tab{% if forloop.first %} is-active{% endif %}" type="button" role="tab" id="{{ tabId }}" aria-controls="{{ panelId }}" aria-selected="{% if forloop.first %}true{% else %}false{% endif %}" data-schedule-target="{{ panelId }}">
                     <span class="schedule-tab-day">{{ day.dateTitle }}</span>
+                    <span class="schedule-tab-venue">{{ day.dateVenue }}</span>
                     <span class="schedule-tab-date">{{ day.dateReadable }}</span>
                 </button>
                 {% endfor %}

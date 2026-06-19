@@ -4683,7 +4683,7 @@ nav li a.current,nav li a:hover {
   box-shadow: 0 10px 20px rgba(32,106,135,0.22)
 }
 
-.schedule-tab-day,.schedule-tab-date {
+.schedule-tab-day,.schedule-tab-date,.schedule-tab-venue {
   display: block
 }
 
@@ -4699,6 +4699,14 @@ nav li a.current,nav li a:hover {
   font-size: 20px;
   font-weight: 300;
   line-height: 1.2
+}
+
+.schedule-tab-venue {
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0.04em;
+  margin-bottom: 6px;
+  text-transform: uppercase
 }
 
 .schedule-panel[hidden] {
@@ -6492,7 +6500,7 @@ nav li a.current,nav li a:hover {
     text-align: center
   }
 
-  .schedule-tab-day {
+  .schedule-tab-day,.schedule-tab-venue {
     font-size: 11px
   }
 

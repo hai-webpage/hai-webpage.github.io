@@ -162,7 +162,7 @@
   description: "Exploring how large-scale foundation models are transforming clinical decision support — laying the groundwork for intelligent healthcare systems."
   subtype: panel
   moderator: 3
-  speakers: [3, 5, 30, 31, 41] # 3 - Robert Morris, 5 - Martin, 30 - Colin Lim, 31 - Yan Shuicheng, 41 - Rajeev
+  speakers: [3, 2, 5, 30, 31, 41] # 3 - Robert Morris, 2 - Wong Tien Yin, 5 - Martin, 30 - Colin Lim, 31 - Yan Shuicheng, 41 - Rajeev
   #language: en
   #complexity: "Intermediate"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -183,7 +183,7 @@
   description: "Exploring how AI and digital health innovations can enable healthy ageing through early risk detection, personalised care pathways, cognitive and mobility support, and continuous monitoring — advancing longevity, independence, and quality of life for ageing populations."
   subtype: panel
   moderator: 50
-  speakers: [9, 2, 25, 28, 51, 50] # 2 - Wong Tien Yin, 9 - Au Wing Lok, 25 - Lee Kwok Ming, 28 - Andrea Maier, 51 - Tan Hiang Khoon, 50 - Zhou Jun
+  speakers: [9, 25, 28, 51, 50] # 9 - Au Wing Lok, 25 - Lee Kwok Ming, 28 - Andrea Maier, 51 - Tan Hiang Khoon, 50 - Zhou Jun
   #language: en
   #complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"

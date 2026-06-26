@@ -352,10 +352,10 @@
 #    - {name: "site", link: "http://olostan.name/"}
 - 
   id: 3
-  name: "Robert"
+  name: "Robert JT"
   surname: "Morris"
   company: "MOH Office for Healthcare Transformation"
-  title: "Chief Technology Strategist and Head (Data, Science & Technology)"
+  title: "Executive Director, SIMFONI, CRIS; CTS/CDO MOHT; Professor YLL School of Medicine, NUS"
   bio: "<p>Robert is the Chief Technology Strategist at MOHT, where he anchors the Data and Technology Enablers. He concurrently serves as Professor at the Yong Loo Lin School of Medicine, National University of Singapore, and as Executive Director of the SIngapore Medical FOundation AI model (SIMFONI) Programme under the Consortium for Clinical Research and Innovation, Singapore.</p><p>His current focus is on the application of computer and information sciences, including AI, to transform healthcare.</p><p>Until 2017, Robert led all of IBM Research’s Global Laboratories. Prior to that, Robert was also head of the IBM Almaden Research Center (Silicon Valley), where relational database technology and the disk drive were invented. During this time he led the creation of Services Science, research for IBM’s ThinkPad, and Storage Systems. Earlier he also led advanced systems research at TJ Watson Center (New York), including the Deep Blue chess machine, which defeated world champion Garry Kasparov in 1997.</p><p>He completed his PhD in Computer Science at the University of California, Los Angeles.</p>"
   thumbnailUrl: RobertMorris.png
   cardThumbnailUrl: RobertMorris2.png

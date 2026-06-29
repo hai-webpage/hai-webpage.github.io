@@ -249,6 +249,14 @@ platinumSponsorsTitle: "Platinum Sponsors"
 platinumSponsorsRows: 
  - {title: "EVYD Technology", image: "evyd.png", details: "EVYD is a Southeast Asia-based healthcare technology company with a vision to build a future where everyone can access better health. We leverage our deep expertise in healthcare data processing and AI to enable our partners to gain insights for informed decision making in healthcare and implement personalized health promotion, risk assessment and chronic disease management programmes at scale to improve population health outcomes. "}
 # - {title: "SIP Science & Tech", image: "", details: ""}
+ - {title: "Workato", image: "workato.png", details: "Workato delivers enterprise infrastructure for the agentic era, redefining iPaaS and helping enterprises unify data, applications, processes, and AI into a single, governed platform. A leader in Enterprise MCP and orchestration, and trusted by half of the Fortune 500, Workato’s cloud-native architecture connects every application, data source, and process to power real-time orchestration at scale. With enterprise-grade security and continuous innovation at its core, Workato provides the trusted foundation for organizations to automate with confidence and operationalize AI across the business. To learn more, visit www.workato.com."}
+# - {title: "Sin Iron", image: "", details: ""}
+
+goldSponsorsTitle: "Gold Sponsors"
+goldSponsorsRows:
+ - {title: "BDH", image: "bdh.png", details: "<p>The Biomedical Data Hub (BDH) is a national platform funded by Singapore’s National Research Foundation and hosted at A*STAR (the Agency for Science, Technology and Research).</p><p>BDH unlocks the value of biomedical data through trusted curation, data discovery, secure access, and responsible analytics infrastructure, enabling cutting-edge research, AI development, and digital health innovation in Singapore and beyond.</p>"}
+ #- {title: "Danone", image: "", details: ""}
+ #- {title: "NVIDIA | PTC", image: "", details: "" }
 
 ########## Gold sponsors do not get detailed profile in webpage
 # goldSponsorsTitle:

@@ -2,9 +2,13 @@
   group: ""
   elements:
     - {name: "AWS", description: "Amazon Web Services", link: "https://aws.amazon.com", imageUrl: "aws.png", imgWidth: "100"}
+    - {name: "BDH", description: "Biomedical Data Hub", link: "https://www.bdh.sg", imageUrl: "bdh.png", imgWidth: "170"}
+    - {name: "Cisco Systems", description: "Cisco Systems (USA)", link: "https://www.cisco.com/site/sg/en/index.html", imageUrl: "cisco.png", imgWidth: "100"}
     #- {name: "Danone", description: "", link: "", imageUrl: "https://www.danone.com", imageUrl: ""}
     - {name: "EVYD", description: "EVYD Technology", link: "https://www.evydtech.com", imageUrl: "evyd.png", imgWidth: "140"}
     - {name: "Moonplay", description: "Moonplay", link: "https://moonplay.xyz", imageUrl: "moonplay.png", imgWidth: "140"}
-    #- {name: "NTT", description: "NTT DATA", link: "https://www.global.ntt", imageUrl: "ntt.png"}
+    - {name: "NTT", description: "NTT DATA", link: "https://www.global.ntt", imageUrl: "ntt.png", imgWidth: "150"}
     - {name: "NVIDIA", description: "NVIDIA", link: "https://www.nvidia.com/en-sg/", imageUrl: "nvidia.png", imgWidth: "120"}
     - {name: "PTC System", description: "PTC System", link: "https://ptcsys.com", imageUrl: "PTC.png", imgWidth: "150"}
+    #- {name: "Sin-Iron", description: "", link: "", imageUrl: "", imgWidth: ""}
+    #- {name: "Workato", description: "", link: "", imageUrl: "", imgWidth: ""}

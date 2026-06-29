@@ -549,7 +549,7 @@
   bio: "<p>Ee Shan spent more than a decade inside the engine room of enterprise automation, close enough to see why most initiatives stall before they start. As the leader of Workato's global product organisation, he shaped a platform to tackle the messy, unglamorous work of connecting systems, and earning trust from people surrounded by these automation. Today, as Head of Workato's AI Lab, he leads research and development of agentic governance and autonomous systems, focusing particularly on making AI deployable in high-stakes environments like healthcare.</p>"
   thumbnailUrl: SimEeShan.jpg
   cardThumbnailUrl: SimEeShan2.png
-  rockstar: true
+  rockstar: false
 #  ribbon:
 #    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
 #  social: 
@@ -645,7 +645,7 @@
   bio: "<p>Clinical Associate Professor Tan Hiang Khoon is the CEO of Singapore General Hospital (SGH) and recently appointed as the Assistant GCEO, Future Health Systems, SingHealth. He previously served as Group Director for International Collaboration Office and Director of the SingHealth Duke-NUS Global Health Institute (2021–2024). From 2015 to 2022, he was Chair of Surgery in Singapore General Hospital and SingHealth.</p><p>A distinguished head and neck surgeon and surgical oncologist, Dr Tan led the establishment of the SingHealth Duke-NUS Head and Neck Disease Centre and drove the integration of surgical services to improve patient care. During the COVID-19 pandemic, he played a key role in maintaining healthcare capacity by establishing a 3,700-bed Community Care Facility.</p><p>Committed to global health equity, Dr Tan founded the Global Surgery Programme in SingHealth and Singapore General Hospital. His cost-conscious innovation work includes developing a low-cost portable nasopharyngoscope with Duke University.</p><p>He holds an MBBS and EMBA from NUS, a PhD from the University of Bristol, and Surgical Specialty Certification in Singapore and Paris.</p>"
   thumbnailUrl: TanHiangKhoon.jpg
   cardThumbnailUrl: TanHiangKhoon2.png
-  rockstar: false
+  rockstar: true
  # social: 
  #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}

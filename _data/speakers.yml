@@ -187,6 +187,17 @@
   thumbnailUrl: AndyHo.jpg
   cardThumbnailUrl: AndyHo2.png
   rockstar: false
+-
+  id: 59
+  name: "Angie"
+  surname: "Huang"
+  company: "National Supercompuing Centre (NSCC) Singapore"
+  title: "Deputy Director, Planning, Development & Business"
+  #presentation: ""
+  bio: "<p>Angie Huang is the Deputy Director, Planning, Development and Business at the National Supercomputing Centre (NSCC) Singapore, under A*STAR. She leads strategic planning, resource allocation, and research community engagement to support Singapore's national high-performance computing (HPC) ecosystem. Her work focuses on developing funding strategies and policies, planning national HPC capacity, and enabling researchers to leverage HPC to accelerate scientific discovery and innovation.</p><p>Angie works closely with government agencies, research institutions, and universities to ensure that NSCC's HPC infrastructure and services support Singapore's national research priorities and accelerate scientific discovery across diverse domains, including AI, healthcare, advanced manufacturing, and sustainability.</p><p>Prior to joining NSCC, Angie held regional communications roles across the Asia Pacific region and brings extensive experience in strategic stakeholder engagement and ecosystem development. She is passionate about building collaborative innovation ecosystems and advancing the adoption of digital technologies to enable research excellence.</p>"
+  thumbnailUrl: AngieHuang.jpg
+  cardThumbnailUrl: AngieHuang2.png
+  rockstar: false
 - 
   id: 53
   name: "Noor"
@@ -768,7 +779,7 @@
  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 
 
-# COUNT: 58
+# COUNT: 59
 
 
 

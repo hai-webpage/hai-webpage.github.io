@@ -10,5 +10,5 @@
     - {name: "NTT", description: "NTT DATA", link: "https://www.global.ntt", imageUrl: "ntt.png", imgWidth: "150"}
     - {name: "NVIDIA", description: "NVIDIA", link: "https://www.nvidia.com/en-sg/", imageUrl: "nvidia.png", imgWidth: "120"}
     - {name: "PTC System", description: "PTC System", link: "https://ptcsys.com", imageUrl: "PTC.png", imgWidth: "150"}
-    #- {name: "Sin-Iron", description: "", link: "", imageUrl: "", imgWidth: ""}
+    - {name: "Sin-Iron", description: "Sin-Iron Innovation Technology", link: "https://www.sin-iron.sg", imageUrl: "siniron.png", imgWidth: "150"}
     - {name: "Workato", description: "Workato", link: "https://www.workato.com/ipaas-home", imageUrl: "workato.png", imgWidth: "150"}

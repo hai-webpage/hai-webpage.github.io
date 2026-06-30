@@ -248,19 +248,13 @@ diamondSponsorsRows:
 platinumSponsorsTitle: "Platinum Sponsors"
 platinumSponsorsRows: 
  - {title: "EVYD Technology", image: "evyd.png", details: "EVYD is a Southeast Asia-based healthcare technology company with a vision to build a future where everyone can access better health. We leverage our deep expertise in healthcare data processing and AI to enable our partners to gain insights for informed decision making in healthcare and implement personalized health promotion, risk assessment and chronic disease management programmes at scale to improve population health outcomes. "}
-# - {title: "SIP Science & Tech", image: "", details: ""}
+ - {title: "Sin-Iron Innovation Technology", image: "siniron.png", details: "<p>Sin-Iron is a Singapore-based healthcare technology innovator. The company collaborates with A*STAR on AI-driven healthcare research and aligns with Singapore’s national healthcare transformation agenda and the EDB’s Singapore+ innovation strategy.</p><p>Rooted in Singapore’s innovation ecosystem, Sin-Iron brings together cross-border technological strengths to address long-term healthcare development needs. The company is focused on building scalable, intelligent healthcare infrastructure and advancing sustainable digital healthcare innovation, with strong emphasis on real-world clinical application and ecosystem collaboration across both public and private healthcare sectors.</p><p>By enabling more efficient and connected healthcare operations, Sin-Iron supports institutions in easing workforce pressure, improving operational efficiency, enhancing medication safety, and ultimately delivering better patient care experiences.</p>"}
  - {title: "Workato", image: "workato.png", details: "Workato delivers enterprise infrastructure for the agentic era, redefining iPaaS and helping enterprises unify data, applications, processes, and AI into a single, governed platform. A leader in Enterprise MCP and orchestration, and trusted by half of the Fortune 500, Workato’s cloud-native architecture connects every application, data source, and process to power real-time orchestration at scale. With enterprise-grade security and continuous innovation at its core, Workato provides the trusted foundation for organizations to automate with confidence and operationalize AI across the business. To learn more, visit www.workato.com."}
-# - {title: "Sin Iron", image: "", details: ""}
+ # - {title: "SIP Science & Tech", image: "", details: ""}
 
-goldSponsorsTitle: "Gold Sponsors"
-goldSponsorsRows:
- - {title: "BDH", image: "bdh.png", details: "<p>The Biomedical Data Hub (BDH) is a national platform funded by Singapore’s National Research Foundation and hosted at A*STAR (the Agency for Science, Technology and Research).</p><p>BDH unlocks the value of biomedical data through trusted curation, data discovery, secure access, and responsible analytics infrastructure, enabling cutting-edge research, AI development, and digital health innovation in Singapore and beyond.</p>"}
- #- {title: "Danone", image: "", details: ""}
- #- {title: "NVIDIA | PTC", image: "", details: "" }
-
-########## Gold sponsors do not get detailed profile in webpage
-# goldSponsorsTitle:
-# goldSponsorsRows:
-#  - {title: "NVIDIA", image: "", details: ""}
-#  - {title: "", image: "", details: ""}
-#  - {title: "", image: "", details: ""}
+########## >>>>>>>>>>>>>>>>  GOLD SPONSORS DO NOT GET DETAILED PROFILE IN WEBPAGE!!!!!!!!!!!
+### goldSponsorsTitle:
+### goldSponsorsRows:
+###  - {title: "BDH", image: "bdh.png", details: "<p>The Biomedical Data Hub (BDH) is a national platform funded by Singapore’s National Research Foundation and hosted at A*STAR (the Agency for Science, Technology and Research).</p><p>BDH unlocks the value of biomedical data through trusted curation, data discovery, secure access, and responsible analytics infrastructure, enabling cutting-edge research, AI development, and digital health innovation in Singapore and beyond.</p>"}
+###  - {title: "Danone", image: "", details: ""}
+###  - {title: "NVIDIA | PTC", image: "", details: "" }

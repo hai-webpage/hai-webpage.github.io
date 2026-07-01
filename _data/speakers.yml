@@ -19,7 +19,7 @@
   surname: "Au"
   company: "National Neuroscience Institute"
   title: "Chief Executive Officer and Senior Consultant Neurologist"
-  presentation: "Harnessing the power of AI to improve Brain Health"
+  #presentation: "Harnessing the power of AI to improve Brain Health"
   bio: "<p>Professor Au Wing Lok is the Chief Executive Officer of Singapore's National Neuroscience Institute (NNI) and a Senior Consultant Neurologist. After graduating from the National University of Singapore, he completed his specialist training at NNI before advancing his expertise through a two-year Movement Disorders Fellowship at Canada's Pacific Parkinson's Research Centre. He also received specialised training in electrophysiology (the study of electrical activity in the nervous system) at Toronto Western Hospital, Canada.</p><p>Assoc Prof Au sees patients at NNI@TTSH and specialises in treating patients with Parkinson's disease and various movement disorders. He is trained in administering botulinum toxin injections (medication injections that help relax overactive muscles) for conditions such as:</p><p>- Hemifacial spasm (involuntary twitching or contractions of facial muscles)</p><p>- Blepharospasm (uncontrollable blinking or closure of the eyes)</p><p>- Dystonia (sustained muscle contractions causing unusual postures or repetitive movements)</p><p>- Spasticity (continuous muscle stiffness and tightness)</p><p>His research focuses on functional neuroimaging (advanced brain scanning techniques) and electrophysiology in Parkinson's disease, working to better understand how the brain functions in patients with movement disorders.</p><p>As the leader of NNI, A/Prof Au believes that employee wellness is key so that staff can give their best to their patients. He received the WorkWell Leaders Wellbeing CEO Award 2025 for prioritising staff mental wellbeing and creating a more resilient and supportive workplace at NNI.</p>"
   thumbnailUrl: AuWingLok.webp
   cardThumbnailUrl: AuWingLok2.png
@@ -443,7 +443,7 @@
   surname: "Ng"
   company: "SingHealth"
   title: "Group Chief Executive Officer"
-  presentation: "AI in Healthcare – balancing vision and reality"
+  #presentation: "AI in Healthcare – balancing vision and reality"
   bio: "<p>Professor Ng Wai Hoe is the Group Chief Executive Officer of SingHealth and Professor at Duke-NUS Medical School. He was previously Deputy Group Chief Executive Officer (Strategy & Planning) of SingHealth, Chief Executive Officer of Changi General Hospital (CGH), Medical Director/Chief Executive Officer of the National Neuroscience Institute (NNI), Academic Chair of the SingHealth Duke-NUS Neuroscience Academic Clinical Programme and Deputy Chair of the SingHealth Medical Board.</p><p>He has present and past administrative responsibilities as Member of the Duke-NUS Governing Board, Executive Committee Member of the National Medical Research Council (NMRC), Member of the Human Health Potential (HHP) Executive Committee of the National Research Foundation (NRF), Member of the Medical Device Advisory Committee (MDAC) with the Health Sciences Authority (HSA) Singapore, Member of the Medical Technology Advisory Council (MTAC) of the Ministry of Health (MOH), Co-Chairperson of the Workgroup to Review the Taking of Informed Consent and Singapore Medical Council Disciplinary Process with the MOH and Panel of Chairmen of Disciplinary Tribunal with the Singapore Medical Council (SMC).</p><p>His clinical practice focuses on neurosurgical oncology, epilepsy surgery and stereotactic and functional neurosurgery. He was past Chairman of the Neurosurgery Residency Advisory Committee (RAC) and past Chairman of the Chapter of Neurosurgeons (Singapore).</p>"
   thumbnailUrl: NgWaiHoe.png
   cardThumbnailUrl: NgWaiHoe2.png
@@ -561,7 +561,7 @@
   surname: "Sim"
   company: "NHG Health"
   title: "Group Chief Executive Officer"
-  presentation: "From Decision Support to System Orchestration"
+  #presentation: "From Decision Support to System Orchestration"
   bio: "<p>Prof Joe Sim is the Group Chief Executive Officer (GCEO) of NHG Health, one of Singapore’s three public healthcare clusters comprising an integrated system of polyclinics, acute care and tertiary hospitals, and national specialty centres. Prof Sim oversees NHG Health’s strategies to improve access to and equity in healthcare through innovation, evidence-based research, technology and meaningful collaborations.</p><p>Before joining NHG Health, Prof Sim was the Group Chief Operating Officer and Acting GCEO of IHH Healthcare Berhad (listed in both Singapore Exchange and Bursa Malaysia) where he was responsible for its integrated healthcare businesses comprising more than 80 hospitals and multiple business units across 10 countries. He joined IHH in 2017 as the CEO of Malaysia Operations Division, overseeing operations and management for IHH’s business units in Malaysia covering a network of 15 Gleneagles and Pantai hospitals and ancillary services such as Pantai Integrated Rehab and Pantai Premier Pathology.</p><p>Prior to IHH, Prof Sim was Deputy Chief Executive of the National University Health System (NUHS), another public healthcare cluster in Singapore. Prof Sim graduated with First Class Honours in Bachelor of Arts in Electronic and Information Science from Cambridge University, and holds a Master in Public Administration from Harvard University.</p>"
   thumbnailUrl: JoeSim.jpg
   cardThumbnailUrl: JoeSim2.png
@@ -596,6 +596,21 @@
  #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
+# - 
+#   id: 60
+#   name: "Bryan"
+#   surname: "Tan Yijia"
+#   company: "Woodlands Hospital"
+#   title: "Consultant in Orthopaedic Surgery"
+#   presentation: 
+#   bio: "<p>Dr Bryan Tan is a Consultant in Orthopaedic Surgery, Woodlands Hospital, NHG. He has experience practicing locally and overseas having done fellowships in the United States and New Zealand.</p><p>He completed his PhD post specialist training with a focus on health service research, implementation science and health economics in knee osteoarthritis. He has been awarded several NMRC talent awards including HPHSR Clinician Scientist Award in 2025.</p><p>He has more than 60 publications, presented at multiple international conferences, and holds grants exceeding S$10 million as PI. He was awarded the Health Services Research (Gold) in 2019, INEX-OSCAR by the College of Clinician-Scientist in 2022, Public Sector Transformation Exemplary Innovator Award in 2023 and NHG Young Achiever Award in 2024.</p><p>He is currently a Deputy Director at the NTU RRIS spearheading the Musculoskeletal Pillar and sits on several hospital and national workgroups to deliver new models of care for musculoskeletal health.</p>"
+#   thumbnailUrl: BryanTan.jpg
+#   cardThumbnailUrl: BryanTan2.png
+#   rockstar: false
+#  # social: 
+#  #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+#  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
   id: 19
   name: "Cher Heng"
@@ -642,7 +657,7 @@
   surname: "Tan"
   company: "Singapore General Hospital"
   title: "Chief Executive Officer"
-  presentation: "Beyond Healthcare to Health: Ageing care in the age of AI"
+  #presentation: "Beyond Healthcare to Health: Ageing care in the age of AI"
   bio: "<p>Clinical Associate Professor Tan Hiang Khoon is the CEO of Singapore General Hospital (SGH) and recently appointed as the Assistant GCEO, Future Health Systems, SingHealth. He previously served as Group Director for International Collaboration Office and Director of the SingHealth Duke-NUS Global Health Institute (2021–2024). From 2015 to 2022, he was Chair of Surgery in Singapore General Hospital and SingHealth.</p><p>A distinguished head and neck surgeon and surgical oncologist, Dr Tan led the establishment of the SingHealth Duke-NUS Head and Neck Disease Centre and drove the integration of surgical services to improve patient care. During the COVID-19 pandemic, he played a key role in maintaining healthcare capacity by establishing a 3,700-bed Community Care Facility.</p><p>Committed to global health equity, Dr Tan founded the Global Surgery Programme in SingHealth and Singapore General Hospital. His cost-conscious innovation work includes developing a low-cost portable nasopharyngoscope with Duke University.</p><p>He holds an MBBS and EMBA from NUS, a PhD from the University of Bristol, and Surgical Specialty Certification in Singapore and Paris.</p>"
   thumbnailUrl: TanHiangKhoon.jpg
   cardThumbnailUrl: TanHiangKhoon2.png
@@ -682,7 +697,7 @@
   surname: "Tay"
   company: "Health Promotion Board"
   title: "Chief Executive Officer"
-  presentation: "Building a Trusted Ecosystem for Personalised Prevention"
+  #presentation: "Building a Trusted Ecosystem for Personalised Prevention"
   bio: "<p>Mr Tay Choon Hong is the Chief Executive of the Health Promotion Board (HPB), which is part of the Ministry of Health in Singapore. HPB’s role is to empower individuals to take ownership of their health, towards its vision of a nation of healthy people. To achieve this, HPB works with a wide spectrum of 3P partners and stakeholders to build a supportive ecosystem that enables Singaporeans to engage in healthy lifestyle activities, and lead healthier lives.</p><p>Prior to this, Mr Tay was the Senior Director (Youth) in the Ministry of Culture, Community & Youth, and concurrently Deputy Chief Executive of the National Youth Council. He led the review of policies and programmes aimed at developing youths to be future-ready and committed to the nation. Mr Tay also served in the Public Service Division, where he oversaw the Public Sector Transformation change movement aimed at strengthening capabilities in innovation, collaboration, service delivery, employee engagement and citizen engagement.</p><p>Mr Tay previously served in the National Population and Talent Division, the Ministry of Manpower, and the Ministry of Home Affairs.</p><p>Mr Tay graduated from Carnegie Mellon University with dual Bachelor’s in Electrical and Computer Engineering, and Economics. He also holds a Master of Science in Management from the Stanford Graduate School of Business.</p>"
   thumbnailUrl: TayChoonHong.jpg
   cardThumbnailUrl: TayChoonHong2.png
@@ -724,7 +739,7 @@
   surname: "Wong"
   company: "Tsinghua University"
   title: "Professor & Senior Vice Chancellor, Tsinghua Medicine and Vice Provost"
-  presentation: "The AI-augmented hospital: Lessons and Challenges"
+  #presentation: "The AI-augmented hospital: Lessons and Challenges"
   bio: "<p>Professor Tien Yin Wong is a physician-scientist-innovator and the Senior Vice-Chancellor of Tsinghua Medicine and Vice-Provost of Tsinghua University, China. He has worked and held senior leadership roles in Singapore and Australia, including at the National University of Singapore, SingHealth Duke-NUS Medical School, Singapore National Eye Centre, and University of Melbourne.</p><p>Prof Wong is a practicing retinal specialist, with a research portfolio on retinal diseases, ocular imaging, AI and digital technology. He has published >1,600 peer-reviewed papers (H-index >200, highly cited researcher 2020-2025), given >600 invited named, plenary and symposium lectures, and received >US$100 million in grant funding. Prof Wong has been recognized with multiple international awards, including Arnall Patz Medal (Macula Society), Jose Rizal Medal (Asia Pacific Academy of Ophthalmology) and Friedenwald Award (ARVO). He has received Singapore’s President’s Science and Technology Award. He is an elected international (foreign) member of the US National Academy of Medicine and the Australian Academy of Health and Medical Sciences. He is also an elected fellow of the UK Royal Society.</p>"
   thumbnailUrl: WongTienYin.jpg
   cardThumbnailUrl: WongTienYin2.png
@@ -780,7 +795,7 @@
  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 
 
-# COUNT: 59
+# COUNT: 60
 
 
 

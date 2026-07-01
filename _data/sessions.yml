@@ -55,6 +55,66 @@
 #   #complexity: "Intermediate"
 #   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
+  id: 022
+  title: "Keynote Address"
+  description: 
+  presentationTitle: "The AI-augmented hospital: Lessons and Challenges"
+  subtype: keynote
+  speakers: [2]
+#   #language: en
+#   #complexity: "Intermediate"
+#   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 023
+  title: "Keynote Address"
+  description: 
+  presentationTitle: "Building a Trusted Ecosystem for Personalised Prevention"
+  subtype: keynote
+  speakers: [8]
+#   #language: en
+#   #complexity: "Intermediate"
+#   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 024
+  title: "Keynote Address"
+  description: 
+  presentationTitle: "AI in Healthcare – balancing vision and reality"
+  subtype: keynote
+  speakers: [15]
+#   #language: en
+#   #complexity: "Intermediate"
+#   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 025
+  title: "Keynote Address"
+  description: 
+  presentationTitle: "From Decision Support to System Orchestration"
+  subtype: keynote
+  speakers: [10]
+#   #language: en
+#   #complexity: "Intermediate"
+#   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 026
+  title: "Keynote Address"
+  description: 
+  presentationTitle: "Beyond Healthcare to Health: Ageing care in the age of AI"
+  subtype: keynote
+  speakers: [51]
+#   #language: en
+#   #complexity: "Intermediate"
+#   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 027
+  title: "Keynote Address"
+  description: 
+  presentationTitle: "Harnessing the power of AI to improve Brain Health"
+  subtype: keynote
+  speakers: [9]
+#   #language: en
+#   #complexity: "Intermediate"
+#   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
   id: 030
   title: "Plenary Talk"
   description: ""
@@ -183,7 +243,7 @@
   description: "Exploring how AI and digital health innovations can enable healthy ageing through early risk detection, personalised care pathways, cognitive and mobility support, and continuous monitoring — advancing longevity, independence, and quality of life for ageing populations."
   subtype: panel
   moderator: 50
-  speakers: [9, 25, 28, 51, 50] # 9 - Au Wing Lok, 25 - Lee Kwok Ming, 28 - Andrea Maier, 51 - Tan Hiang Khoon, 50 - Zhou Jun
+  speakers: [9, 25, 28, 51, 60] # 9 - Au Wing Lok, 25 - Lee Kwok Ming, 28 - Andrea Maier, 51 - Tan Hiang Khoon, 60 - Bryan Tan# removed: 50 - Zhou Jun
   #language: en
   #complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"

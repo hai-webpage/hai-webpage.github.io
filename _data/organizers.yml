@@ -1,7 +1,8 @@
 - 
   group: "Main organiser"
   elements: 
-    - {name: "A*STAR IHPC", description: "Institute of High Performance Computing, A*STAR", link: "https://www.a-star.edu.sg/ihpc", imageUrl: "ASTAR_IHPC_Horizontal_Logo_RGB.png", imgWidth: "200"}
+    - {name: "A*STAR IAIC", description: "Institute of Advanced Intelligence and Computing, A*STAR", link: "https://www.a-star.edu.sg/iaic", imageUrl: "ASTAR_IAIC_Horizontal_Logo_RGB.png", imgWidth: "200"}
+    #- {name: "A*STAR IHPC", description: "Institute of High Performance Computing, A*STAR", link: "https://www.a-star.edu.sg/ihpc", imageUrl: "ASTAR_IHPC_Horizontal_Logo_RGB.png", imgWidth: "200"}
 - 
   group: "Co-organisers"
   elements: 

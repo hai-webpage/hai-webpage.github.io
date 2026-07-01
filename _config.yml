@@ -19,12 +19,12 @@ url: "https://hai-webpage.github.io"
 #siteVerification: ""
 
 # Organizer Info
-organizerName: "A*STAR IHPC"
-organizerAlternateName: "Institute of High Performance Computing, A*STAR"
-organizerDescription: "Leadership in computational modelling, simulation and AI to solve major scientific, industrial and societal challenges."
+organizerName: "A*STAR IAIC"
+organizerAlternateName: "Institute of Advanced Intelligence and Computing"
+organizerDescription: "The A*STAR Institute of Advanced Intelligence and Computing (A*STAR IAIC) is dedicated to pioneering research at the nexus of Data, Artificial Intelligence, and Computing. Built on the conviction that these three pillars are most powerful when developed in unison, IAIC strengthens Singapore’s capabilities in advanced intelligence and digital research."
 organizerEmail: "Health_AI@a-star.edu.sg"
-organizerLogo: "/img/seo/ASTAR_IHPC_Horizontal_Logo_RGB.png"
-organizerLink: "http://www.a-star.edu.sg/ihpc"
+organizerLogo: "/img/seo/ASTAR_IAIC_Horizontal_Logo_RGB.png"
+organizerLink: "http://www.a-star.edu.sg/iaic"
 
 # Head
 metaKeywords: "event, hai, healthcare, ai, singapore, medtech, digital, innovation"
@@ -105,7 +105,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://www.a-star.edu.sg/ihpc", text: "A*STAR Institute of High Performance Computing (A*STAR IHPC)"}
+   - {link: "https://www.a-star.edu.sg/iaic", text: "A*STAR Institute of Advanced Intelligence and Computing (A*STAR IAIC)"}
   # - {link: "https://www.a-star.edu.sg", text: "Agency for Science, Technology and Research (A*STAR)"}
  -
   title: "Contact"

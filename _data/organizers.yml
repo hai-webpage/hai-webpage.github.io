@@ -15,3 +15,7 @@
   group: "HPC Partner"
   elements:
     - {name: "NSCC", description: "National Supercomputing Centre (NSCC) Singapore", link: "https://www.nscc.sg", imageUrl: "NSCC_Logo_Colour.png", imgWidth: "150"}
+-
+  group: "Hackathon Partner"
+  elements:
+    - {name: "OpenAI", description: "OpenAI", link: "https://openai.com", imageUrl: "OpenAI_logo_2025_(wordmark).svg.png", imgWidth: "200"}

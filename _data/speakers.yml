@@ -596,21 +596,21 @@
  #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
-# - 
-#   id: 60
-#   name: "Bryan"
-#   surname: "Tan Yijia"
-#   company: "Woodlands Hospital"
-#   title: "Consultant in Orthopaedic Surgery"
-#   presentation: 
-#   bio: "<p>Dr Bryan Tan is a Consultant in Orthopaedic Surgery, Woodlands Hospital, NHG. He has experience practicing locally and overseas having done fellowships in the United States and New Zealand.</p><p>He completed his PhD post specialist training with a focus on health service research, implementation science and health economics in knee osteoarthritis. He has been awarded several NMRC talent awards including HPHSR Clinician Scientist Award in 2025.</p><p>He has more than 60 publications, presented at multiple international conferences, and holds grants exceeding S$10 million as PI. He was awarded the Health Services Research (Gold) in 2019, INEX-OSCAR by the College of Clinician-Scientist in 2022, Public Sector Transformation Exemplary Innovator Award in 2023 and NHG Young Achiever Award in 2024.</p><p>He is currently a Deputy Director at the NTU RRIS spearheading the Musculoskeletal Pillar and sits on several hospital and national workgroups to deliver new models of care for musculoskeletal health.</p>"
-#   thumbnailUrl: BryanTan.jpg
-#   cardThumbnailUrl: BryanTan2.png
-#   rockstar: false
-#  # social: 
-#  #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-#  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-#  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
+- 
+  id: 60
+  name: "Bryan"
+  surname: "Tan Yijia"
+  company: "Woodlands Hospital"
+  title: "Consultant in Orthopaedic Surgery"
+  presentation: 
+  bio: "<p>Dr Bryan Tan is a Consultant in Orthopaedic Surgery, Woodlands Hospital, NHG. He has experience practicing locally and overseas having done fellowships in the United States and New Zealand.</p><p>He completed his PhD post specialist training with a focus on health service research, implementation science and health economics in knee osteoarthritis. He has been awarded several NMRC talent awards including HPHSR Clinician Scientist Award in 2025.</p><p>He has more than 60 publications, presented at multiple international conferences, and holds grants exceeding S$10 million as PI. He was awarded the Health Services Research (Gold) in 2019, INEX-OSCAR by the College of Clinician-Scientist in 2022, Public Sector Transformation Exemplary Innovator Award in 2023 and NHG Young Achiever Award in 2024.</p><p>He is currently a Deputy Director at the NTU RRIS spearheading the Musculoskeletal Pillar and sits on several hospital and national workgroups to deliver new models of care for musculoskeletal health.</p>"
+  thumbnailUrl: BryanTan.jpg
+  cardThumbnailUrl: BryanTan2.png
+  rockstar: false
+ # social: 
+ #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+ #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+ #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
   id: 19
   name: "Cher Heng"

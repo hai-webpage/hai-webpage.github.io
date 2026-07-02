@@ -18,4 +18,4 @@
 -
   group: "Hackathon Partner"
   elements:
-    - {name: "OpenAI", description: "OpenAI", link: "https://openai.com", imageUrl: "OpenAI_logo_2025_(wordmark).svg.png", imgWidth: "200"}
+    - {name: "OpenAI", description: "OpenAI", link: "https://openai.com", imageUrl: "OpenAI_logo_2025_(wordmark).png", imgWidth: "200"}

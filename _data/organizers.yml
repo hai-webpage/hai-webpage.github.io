@@ -19,3 +19,7 @@
   group: "Hackathon Partner"
   elements:
     - {name: "OpenAI", description: "OpenAI", link: "https://openai.com", imageUrl: "OpenAI_logo_2025_(wordmark).png", imgWidth: "200"}
+-
+  group: "Community Partner"
+  elements:
+    - {name: "Lorong AI", description: "Lorong AI", link: "https://lorong.ai", imageUrl: "Lorong AI Logo Corrected.png", imgWidth: "200"}

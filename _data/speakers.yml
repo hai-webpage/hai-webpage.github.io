@@ -474,6 +474,21 @@
  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
+  id: 63
+  name: "Zinaida"
+  surname: "Perova"
+  company: "Deputy Director"
+  title: "Biomedical Data Hub (BDH)"
+  presentation: 
+  bio: "<p>Dr. Zinaida Perova is the Deputy Director at Singapore's Biomedical Data Hub (BDH). She directs the data strategy and applications for the BDH Data Catalog and Trusted Research Environment (TRE), overseeing FAIR data curation and the secure integration of multimodal biomedical data. Her current work focuses on establishing BDH as a secure, robust infrastructure designed to support the analysis of national biomedical research data and enable the testing and validation of AI models.</p><p>A neuroscientist by training, Dr. Perova holds a Ph.D. from Cold Spring Harbor Laboratory (USA) and completed postdoctoral research at the MRC Laboratory of Molecular Biology (UK) and UCL's Sainsbury Wellcome Centre (UK). After a decade of generating and analysing complex biological data at the bench, she transitioned to data platform development and integration, joining EMBL-EBI first as a Data Scientist for the Human Cell Atlas project, and later progressing to leadership of the CancerModels.Org platform.</p><p>During her five-year tenure leading CancerModels.Org, she integrated fragmented global oncology datasets into a unified resource that increased access to patient-derived cancer models (PDCMs) by 91%. She also explored the implementation of Large Language Models (LLMs) for automated data extraction in the PDCM domain. Her published research specifically evaluated smaller, open-source models to develop cost-effective, scalable data-processing pipelines for labs with limited budgets.</p><p>As a co-lead of the Global Alliance for Genomics and Health (GA4GH) Cancer Community, Dr. Perova advocates for international data interoperability and the integration of AI tools to parse unstructured clinical records, aiming to bridge the data gaps required for automated patient-to-clinical-trial matching.</p>"
+  thumbnailUrl: ZinaidaPerova.jpg
+  cardThumbnailUrl: ZinaidaPerova2.png
+  rockstar: false
+ # social: 
+ #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+ #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+ #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
+- 
   id: 41
   name: "Rajeev"
   surname: "Rikhye"
@@ -509,6 +524,21 @@
   bio: "<p>Evangeline Rose is a Senior Solutions Architect at Amazon Web Services (AWS), based in Singapore, where she supports education customers specifically  polytechnics and ITE. With over six years at AWS, Evangeline specializes in designing cloud solutions that help education and public sector organizations modernize and innovate. She is passionate about leveraging emerging technologies—including generative AI—to drive meaningful outcomes for customers. Outside of work, Evangeline is an avid board sports enthusiast who enjoys surfing, snowboarding, and surf-skating, and draws inspiration from travel and continuous learning.</p>"
   thumbnailUrl: EvangelineRose.jpg
   cardThumbnailUrl: EvangelineRose2.png
+  rockstar: false
+ # social: 
+ #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+ #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+ #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
+- 
+  id: 61
+  name: "Keagan"
+  surname: "Rubel"
+  company: "NTT DATA"
+  title: "Senior Consultant, Sustainability"
+  presentation: 
+  bio: "<p>Keagan Rubel is a sustainability and decarbonization leader with more than 20 years of international experience helping organizations translate sustainability commitments into measurable business outcomes. He specializes in leveraging AI, data platforms, and digital technologies to drive decarbonization, ESG compliance, sustainable supply chain transformation, and long-term business value across sectors including technology, data centers, real estate, manufacturing, and financial services.</p><p>Throughout his career, Keagan has held senior leadership roles spanning industry and consulting, including sustainability leadership positions at Standard Chartered and PwC. He has worked closely with boards, C-suite executives, and cross-functional teams to develop and implement Net Zero strategies, carbon management programs, renewable energy initiatives, climate risk frameworks, and ESG reporting aligned with global standards and regulations.</p><p>An award-winning sustainability practitioner and published author on carbon management, Keagan is recognized for combining deep technical expertise with commercial pragmatism. His work focuses on embedding AI-driven carbon intelligence, ESG data governance, and sustainability performance management into business operations to enable informed decision- making and lasting impact. He is also a Certified Data Center Sustainability Professional, holds an MBA with Distinction in Strategic Carbon Emissions Management, and is fluent in Mandarin Chinese.</p><p>Today, Keagan advises organizations on navigating the evolving sustainability landscape, helping them build </p>"
+  thumbnailUrl: KeaganRubel.jpg
+  cardThumbnailUrl: KeaganRubel2.png
   rockstar: false
  # social: 
  #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
@@ -591,6 +621,21 @@
   bio: "<p>Andy is responsible for the visioning, planning and implementation of system-wide and institution-level data, analytical & AI capabilities/ programmes across the care continuum for effective enablement of analytics and data science across public health organisations in alignment to Ministry of Health’s Healthcare Masterplan. Andy’s efforts include building a strong AI & data science community in healthcare, encouraging collaborations among public health institutions to implement innovative or transformative approaches to healthcare services, patient care delivery and population health through use of big data and advanced analytics.</p>"
   thumbnailUrl: AndyTa.jpg
   cardThumbnailUrl: AndyTa2.png
+  rockstar: false
+ # social: 
+ #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+ #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+ #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
+- 
+  id: 60
+  name: "Abby"
+  surname: "Tan Chee Hong"
+  company: "EVYD Technology"
+  title: "Regional Head (Brunei & Singapore) and General Manager"
+  presentation: 
+  bio: "<p>Abby brings experience across academia, research leadership and industry to his role as Regional Head for Brunei and Singapore and General Manager of EVYD Technology.</p><p>At EVYD, he supports the company’s growth, develops strategic collaborations and helps guide the delivery of digital health and AI solutions. He also plays an active role in EVYD’s expansion in Singapore, where he works closely with healthcare and research institutions to develop practical and relevant technology solutions.</p><p>Before joining EVYD, Abby held senior academic and research leadership roles. He has published extensively in leading peer-reviewed journals and holds a PhD in Mathematics from the University of Manchester, following a First-Class Honours Bachelor’s degree in Mathematics.</p>"
+  thumbnailUrl: AbbyTan.jpg
+  cardThumbnailUrl: AbbyTan2.png
   rockstar: false
  # social: 
  #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
@@ -795,7 +840,7 @@
  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 
 
-# COUNT: 60
+# COUNT: 63
 
 
 

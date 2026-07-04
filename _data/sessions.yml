@@ -139,7 +139,7 @@
   speakers: [47] # 47 - Richard Goh AWS
   #language: en
 -
-  id: 045
+  id: 042
   title: "Industry Showcase"
   presentationTitle: "Workato"
   description: ""
@@ -147,7 +147,7 @@
   speakers: [52] # 52 - Ee Shan
   #language: en
 -
-  id: 042
+  id: 043
   title: "Industry Showcase"
   presentationTitle: "NTT DATA"
   description: ""
@@ -155,23 +155,23 @@
   speakers: [61]
   #language: en
 -
-  id: 043
-  title: "Industry Showcase"
-  presentationTitle: "EVYD"
-  description: ""
-  subtype: presentation
-  speakers: [60]
-  #language: en
--
   id: 044
   title: "Industry Showcase"
-  presentationTitle: "BDH"
+  presentationTitle: "EVYD"
   description: ""
   subtype: presentation
   speakers: [62]
   #language: en
 -
   id: 045
+  title: "Industry Showcase"
+  presentationTitle: "BDH"
+  description: ""
+  subtype: presentation
+  speakers: [63]
+  #language: en
+-
+  id: 046
   title: "Industry Showcase"
   presentationTitle: "National Supercomputing Centre (NSCC) Singapore"
   description: ""

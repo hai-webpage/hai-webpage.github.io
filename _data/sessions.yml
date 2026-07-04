@@ -132,7 +132,7 @@
   #language: en
 -
   id: 041
-  title: "Sponsorship Showcase"
+  title: "Industry Showcase"
   presentationTitle: "Amazon Web Services (AWS)"
   description: ""
   subtype: presentation
@@ -140,7 +140,7 @@
   #language: en
 -
   id: 045
-  title: "Sponsorship Showcase"
+  title: "Industry Showcase"
   presentationTitle: "Workato"
   description: ""
   subtype: presentation
@@ -148,15 +148,15 @@
   #language: en
 -
   id: 042
-  title: "Sponsorship Showcase"
-  presentationTitle: "Session 2"
+  title: "Industry Showcase"
+  presentationTitle: "NTT DATA"
   description: ""
   subtype: presentation
-  #speakers: 
+  speakers: [61]
   #language: en
 -
   id: 043
-  title: "Sponsorship Showcase"
+  title: "Industry Showcase"
   presentationTitle: "Session 3"
   description: ""
   subtype: presentation
@@ -164,7 +164,7 @@
   #language: en
 -
   id: 044
-  title: "Sponsorship Showcase"
+  title: "Industry Showcase"
   presentationTitle: "National Supercomputing Centre (NSCC) Singapore"
   description: ""
   subtype: presentation
@@ -199,7 +199,7 @@
   service: true
 -
   id: 080
-  title: "Sponsorship Showcase"
+  title: "Industry Showcase"
   description: ""
   place: "Ballroom"
   service: true
@@ -292,7 +292,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 701
-  title: "Hackathon"
+  title: "HAI Hackathon"
   presentationTitle: "Codex for Healthcare: From Prototype to Production"
   description: "Early-stage startups and research teams present innovations in AI, MedTech, and digital health to investors and clinicians."
   subtype: presentation

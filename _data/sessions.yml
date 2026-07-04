@@ -157,13 +157,21 @@
 -
   id: 043
   title: "Industry Showcase"
-  presentationTitle: "Session 3"
+  presentationTitle: "EVYD"
   description: ""
   subtype: presentation
-  #speakers: []
+  speakers: [60]
   #language: en
 -
   id: 044
+  title: "Industry Showcase"
+  presentationTitle: "BDH"
+  description: ""
+  subtype: presentation
+  speakers: [62]
+  #language: en
+-
+  id: 045
   title: "Industry Showcase"
   presentationTitle: "National Supercomputing Centre (NSCC) Singapore"
   description: ""

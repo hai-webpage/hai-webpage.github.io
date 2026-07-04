@@ -474,7 +474,7 @@
  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
-  id: 63
+  id: 62
   name: "Zinaida"
   surname: "Perova"
   company: "Deputy Director"
@@ -840,7 +840,7 @@
  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 
 
-# COUNT: 63
+# COUNT: 62
 
 
 

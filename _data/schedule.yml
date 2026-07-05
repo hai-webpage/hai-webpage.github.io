@@ -94,17 +94,17 @@
         sessionIds: [043]
     }
     - {
-        startTime: "16:30",
+        startTime: "16:20",
         #endTime: "17:40",
         sessionIds: [026]
     }
     - {
-        startTime: "16:40",
+        startTime: "16:30",
         #endTime: "14:50",
         sessionIds: [027]
     }
     - {
-        startTime: "16:50",
+        startTime: "16:40",
         #endTime: "17:40",
         sessionIds: [300]
     }

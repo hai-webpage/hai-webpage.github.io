@@ -230,7 +230,7 @@
   description: "Exploring how large-scale foundation models are transforming clinical decision support — laying the groundwork for intelligent healthcare systems."
   subtype: panel
   moderator: 3
-  speakers: [3, 2, 5, 30, 31, 41] # 3 - Robert Morris, 2 - Wong Tien Yin, 5 - Martin, 30 - Colin Lim, 31 - Yan Shuicheng, 41 - Rajeev
+  speakers: [3, 2, 30, 41, 5, 31] # 3 - Robert Morris, 2 - Wong Tien Yin, 5 - Martin, 30 - Colin Lim, 31 - Yan Shuicheng, 41 - Rajeev
   #language: en
   #complexity: "Intermediate"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -240,7 +240,7 @@
   description: "Leveraging behavioural, physiological, and digital biomarkers to enable real-time, personalized health insights and proactive care delivery."
   subtype: panel
   moderator: 32
-  speakers: [7, 8, 26, 27, 32, 46] # 7 - Michael Chee, 8 - Tay Choon Hong, 26 - Andy Ho, 27 - Alina Rodriguez, 32 - Koa, 46 - Panicos
+  speakers: [32, 8, 46, 7, 26, 27] # 7 - Michael Chee, 8 - Tay Choon Hong, 26 - Andy Ho, 27 - Alina Rodriguez, 32 - Koa, 46 - Panicos
   #language: en
   #complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -250,8 +250,8 @@
   title: "AI for Healthy Ageing — Empowering Longevity and Quality of Life"
   description: "Exploring how AI and digital health innovations can enable healthy ageing through early risk detection, personalised care pathways, cognitive and mobility support, and continuous monitoring — advancing longevity, independence, and quality of life for ageing populations."
   subtype: panel
-  moderator: 50
-  speakers: [9, 25, 28, 51, 60] # 9 - Au Wing Lok, 25 - Lee Kwok Ming, 28 - Andrea Maier, 51 - Tan Hiang Khoon, 60 - Bryan Tan# removed: 50 - Zhou Jun
+  moderator: 60
+  speakers: [60, 51, 9, 25, 28] # 9 - Au Wing Lok, 25 - Lee Kwok Ming, 28 - Andrea Maier, 51 - Tan Hiang Khoon, 60 - Bryan Tan# removed: 50 - Zhou Jun
   #language: en
   #complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -261,7 +261,7 @@
   description: "This session highlights how agentic systems and AI-driven decision-support tools are improving care coordination and clinical workflows. It explores real examples of intelligent automation, data-guided decisions, and safer, more connected models of care."
   subtype: panel
   moderator: 16
-  speakers: [22, 10, 15, 16, 29, 24] # 10 - Joe Sim, 15 - Wai Hoe Ng, 16 - Ngiam, 22 - Nigam, 14 - Rob Korom, 29 - Tom Smoot
+  speakers: [16, 22, 15, 10, 29, 24] # 10 - Joe Sim, 15 - Wai Hoe Ng, 16 - Ngiam, 22 - Nigam, 24 - Rob Korom, 29 - Tom Smoot
   #language: uk
   #complexity: "Beginner"
   #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
@@ -272,7 +272,7 @@
   description: "Showcasing how sensor technologies, connected devices, and edge AI are transforming diagnostics and patient monitoring. The session highlights practical examples of AI-enabled MedTech innovations — from point-of-care diagnostics to continuous monitoring platforms — and explores challenges in validation, and scaling these solutions into clinical workflows."
   subtype: panel
   moderator: 11
-  speakers: [13, 4, 11, 43] # 4 - CT Lim, 11 - Irene, 13 - Vy Tran, 43 - Lawrence Carin, 49 - Andy Ta # Removed: 12 - Abel Ang, 20 - Daria
+  speakers: [11, 13, 4, 43] # 4 - CT Lim, 11 - Irene, 13 - Vy Tran, 43 - Lawrence Carin, 49 - Andy Ta # Removed: 12 - Abel Ang, 20 - Daria
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -283,7 +283,7 @@
   description: ""
   subtype: panel
   moderator: 1
-  speakers: [14, 21, 1, 44, 45] # 14 - Joseph Mocanu, 21 - Navjeewan, 1 - Rick, 44 - Lau Shi Ying, 45 - Hongfei Xia
+  speakers: [1, 14, 44, 45, 21] # 14 - Joseph Mocanu, 21 - Navjeewan, 1 - Rick, 44 - Lau Shi Ying, 45 - Hongfei Xia
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"

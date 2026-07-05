@@ -109,8 +109,8 @@
                                         <div class="slot-panelists">
                                             <span class="slot-section-label">Panellists</span>
                                             <ul class="slot-speakers">
-                                                {% for speaker in site.data.speakers %}
-                                                    {% for session_speaker in session.speakers %}
+                                                {% for session_speaker in session.speakers %}
+                                                    {% for speaker in site.data.speakers %}
                                                         {% if session_speaker == speaker.id %}
                                                         <li itemprop="performer"><div class="speaker-img flow-img img-circle" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
                                                         <p class="speaker-name">{{ speaker.name }} {{ speaker.surname }}

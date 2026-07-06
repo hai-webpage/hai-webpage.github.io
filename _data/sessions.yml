@@ -22,10 +22,10 @@
   service: true
 -
   id: 010
-  title: "Welcome Remarks"
+  title: "Opening Remarks"
   description: ""
   subtype: keynote
-  speakers: 
+  speakers: [1]
   #language: en
 -
   id: 011
@@ -140,8 +140,8 @@
   #language: en
 -
   id: 042
-  title: "Industry Showcase"
-  presentationTitle: "Workato"
+  title: "Industry Showcase - Workato"
+  presentationTitle: "Designing AI That Meets Patients Where They Are"
   description: ""
   subtype: presentation
   speakers: [52] # 52 - Ee Shan

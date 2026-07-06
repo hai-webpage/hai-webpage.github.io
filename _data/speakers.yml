@@ -477,8 +477,8 @@
   id: 63
   name: "Zinaida"
   surname: "Perova"
-  company: "Deputy Director"
-  title: "Biomedical Data Hub (BDH)"
+  company: "Biomedical Data Hub (BDH)"
+  title: "Deputy Director"
   presentation: 
   bio: "<p>Dr. Zinaida Perova is the Deputy Director at Singapore's Biomedical Data Hub (BDH). She directs the data strategy and applications for the BDH Data Catalog and Trusted Research Environment (TRE), overseeing FAIR data curation and the secure integration of multimodal biomedical data. Her current work focuses on establishing BDH as a secure, robust infrastructure designed to support the analysis of national biomedical research data and enable the testing and validation of AI models.</p><p>A neuroscientist by training, Dr. Perova holds a Ph.D. from Cold Spring Harbor Laboratory (USA) and completed postdoctoral research at the MRC Laboratory of Molecular Biology (UK) and UCL's Sainsbury Wellcome Centre (UK). After a decade of generating and analysing complex biological data at the bench, she transitioned to data platform development and integration, joining EMBL-EBI first as a Data Scientist for the Human Cell Atlas project, and later progressing to leadership of the CancerModels.Org platform.</p><p>During her five-year tenure leading CancerModels.Org, she integrated fragmented global oncology datasets into a unified resource that increased access to patient-derived cancer models (PDCMs) by 91%. She also explored the implementation of Large Language Models (LLMs) for automated data extraction in the PDCM domain. Her published research specifically evaluated smaller, open-source models to develop cost-effective, scalable data-processing pipelines for labs with limited budgets.</p><p>As a co-lead of the Global Alliance for Genomics and Health (GA4GH) Cancer Community, Dr. Perova advocates for international data interoperability and the integration of AI tools to parse unstructured clinical records, aiming to bridge the data gaps required for automated patient-to-clinical-trial matching.</p>"
   thumbnailUrl: ZinaidaPerova.jpg

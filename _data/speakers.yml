@@ -106,15 +106,15 @@
 #    - {name: "site", link: "http://olostan.name/"}
 # - 
 #   id: 34
-#   name: "Vivian"
+#   name: "Shiwen"
 #   surname: "Ding"
 #   company: "Chongqing Medical University"
-#   title: "Section Chief, Office of International Cooperation and Exchanges"
+#   title: "Section Chief, International Mobility & Coordinator for Global Programs, The Office of International Cooperation and Exchanges"
 #   presentation: 
 #   bio: "<p></p"
-#   thumbnailUrl: VivianDing.jpg
-#   cardThumbnailUrl: VivianDing2.png
-#   rockstar: true
+#   thumbnailUrl: DingShiwen.jpg
+#   cardThumbnailUrl: DingShiwen2.png
+#   rockstar: false
  # social: 
  #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
@@ -198,6 +198,21 @@
   thumbnailUrl: AngieHuang.jpg
   cardThumbnailUrl: AngieHuang2.png
   rockstar: false
+- 
+  id: 64
+  name: "Michael"
+  surname: "Ju"
+  company: "Moonplay Pte. Ltd."
+  title: "Ecosystem Partner"
+  presentation: 
+  bio: "<p>Michael is an Ecosystem Partner at Moonplay Pte. Ltd., a key sponsor of the Healthcare AI Symposium 2026. In this role, he drives strategic collaborations to accelerate the adoption of artificial intelligence across the healthcare sector.</p><p>With over 30 years of operational experience, Michael has managed partner strategies, procurement, and supply chains for Fortune 500 multinationals and high-growth tech ventures. His previous leadership roles include positions at Rakuten Symphony, Vodafone, and Siemens. Throughout his career, he has focused on scaling complex technologies, from establishing greenfield cloud-native 5G networks to managing billion-dollar portfolios across IT infrastructure, enterprise software, and cloud virtualization.</p><p>As an ecosystem builder and technology investor, Michael advises both startups and multinationals on capital planning, growth strategy, and market access. He is a pragmatic advocate for AI adoption, prioritizing data governance, cost optimization, and rigorous process design to ensure automation delivers measurable, long-term value.</p><p>Michael holds a Bachelor of Science in Biology and a degree in International Studies from Yale University, and completed additional studies at Eberhard-Karls Universität in Germany.</p>"
+  thumbnailUrl: MichaelJu.jpg
+  cardThumbnailUrl: MichaelJu2.png
+  rockstar: false
+ # social: 
+ #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+ #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+ #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 53
   name: "Noor"
@@ -840,7 +855,7 @@
  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 
 
-# COUNT: 63
+# COUNT: 64
 
 
 

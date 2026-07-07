@@ -364,7 +364,7 @@
   title: "Lighting Talks – Experience from China"
   description:
   subtype: workshop
-  #speakers: [34, 35]
+  speakers: [34]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -394,7 +394,7 @@
   title: "OpenClaw for Healthcare"
   description: ""
   subtype: workshop
-  #speakers: [19]
+  speakers: [64]
   #language: en
   #complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"

@@ -238,6 +238,17 @@
   thumbnailUrl: NavjeewanKhosla.png
   cardThumbnailUrl: NavjeewanKhosla2.png
   rockstar: false
+# -
+#   id: 65
+#   name: "Aima"
+#   surname: "Koh"
+#   company: "Moonplay"
+#   title: "CEO, AI & Digital Transformation Strategist of Moonplay"
+#   #presentation: ""
+#   bio: "<p>Dr. Aima Koh is an accomplished business strategist, AI transformation advocate, and organizational development expert with more than three decades of leadership in corporate management, digital innovation, education, and international business development.</p><p>Holding a PhD in Business Administration (Total Quality Management), she combines academic excellence with practical executive leadership. She is also a Certified IMS Quality Management Trainer (UK) and a recognized expert in leadership development, organizational transformation, and human capital growth.</p><p>Today, her work focuses on Healthcare AI, Digital Health, AI Strategy, Organizational Development, Business Transformation, and Responsible AI, helping organizations embrace intelligent technologies while keeping people at the center of innovation.<p><b>Education & Qualifications</b></p><p>PhD in Business Administration (Total Quality Management)<br>Certified IMS Quality Management Trainer (UK)<br>Certified Trainer of Malaysia Human Resource Development Corporation</p><p><b>Professional Highlights</b></p><p>Human Resources & Organizational Development Expert<br>Ambassador, Malaysia–Uzbekistan Business Alliance<br>Director, International Kiwanis Club of Johor Jaya<br>Chief Executive Officer, Moonplay<br>International Speaker & Leadership Coach<br>Advocate for Human-Centered AI Innovation<br></p>"
+#   thumbnailUrl: AimaKoh.jpg
+#   cardThumbnailUrl: AimaKoh2.png
+#   rockstar: false
 -
   id: 24
   name: "Rob"
@@ -855,7 +866,7 @@
 #  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 
 
-# COUNT: 64
+# COUNT: 65
 
 
 

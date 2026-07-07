@@ -118,6 +118,7 @@
   id: 030
   title: "Plenary Talk"
   description: ""
+  presentationTitle: "Building the Future of Healthcare AI"
   subtype: presentation
   speakers: [1]
   #language: en

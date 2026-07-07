@@ -838,21 +838,21 @@
  #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 50
-  name: "Jun"
-  surname: "Zhou"
-  company: "A*STAR Institute of High Performance Computing"
-  title: "Senior Scientist"
-  presentation: 
-  bio: "<p></p>"
-  thumbnailUrl: ZhouJun.jpg
-  cardThumbnailUrl: ZhouJun2.png
-  rockstar: false
- # social: 
- #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
- #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
- #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
+# - 
+#   id: 50
+#   name: "Jun"
+#   surname: "Zhou"
+#   company: "A*STAR Institute of High Performance Computing"
+#   title: "Senior Scientist"
+#   presentation: 
+#   bio: "<p></p>"
+#   thumbnailUrl: ZhouJun.jpg
+#   cardThumbnailUrl: ZhouJun2.png
+#   rockstar: false
+#  # social: 
+#  #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+#  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 
 
 # COUNT: 64

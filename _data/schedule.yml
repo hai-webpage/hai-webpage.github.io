@@ -153,17 +153,17 @@
         sessionIds: [400]
     }
     - {
-        startTime: "9:40",
+        startTime: "9:55",
         #endTime: "10:10",
         sessionIds: [044]
     }
     - {
-        startTime: "9:50",
+        startTime: "10:00",
         #endTime: "10:10",
         sessionIds: [045]
     }
     - {
-        startTime: "10:00",
+        startTime: "10:05",
         #endTime: "10:10",
         sessionIds: [046]
     }

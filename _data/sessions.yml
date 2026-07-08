@@ -21,6 +21,11 @@
   place: "Hall"
   service: true
 -
+  id: 005
+  title: "Registration & Breakfast"
+  place: "Hall"
+  service: true
+-
   id: 010
   title: "Opening Remarks"
   description: ""

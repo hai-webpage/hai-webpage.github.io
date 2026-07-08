@@ -229,7 +229,7 @@
     - {
     	startTime: "8:00",
     	#endTime: "8:30",
-    	sessionIds: [001]
+    	sessionIds: [005]
     }
     - {
     	startTime: "8:30",

@@ -138,7 +138,7 @@
   #language: en
 -
   id: 041
-  title: "Industry Showcase"
+  title: "Industry Showcase - Amazon Web Services (AWS)"
   presentationTitle: "Amazon Web Services (AWS)"
   description: ""
   subtype: presentation
@@ -154,24 +154,24 @@
   #language: en
 -
   id: 043
-  title: "Industry Showcase"
-  presentationTitle: "NTT DATA"
+  title: "Industry Showcase - NTT DATA"
+  presentationTitle: "The Role of AI in Transforming Healthcare Sustainability through ESG Data Intelligence"
   description: ""
   subtype: presentation
   speakers: [61]
   #language: en
 -
   id: 044
-  title: "Industry Showcase"
-  presentationTitle: "EVYD"
+  title: "Industry Showcase - EVYD Technology"
+  presentationTitle: "Empowering Healthcare Through Digital Intelligence"
   description: ""
   subtype: presentation
   speakers: [62]
   #language: en
 -
   id: 045
-  title: "Industry Showcase"
-  presentationTitle: "BDH"
+  title: "Industry Showcase - Biomedical Data Hub"
+  presentationTitle: "Building the trusted data foundation for intelligent health"
   description: ""
   subtype: presentation
   speakers: [63]
@@ -183,6 +183,14 @@
   description: ""
   subtype: presentation
   speakers: [59]
+  #language: en
+-
+  id: 047
+  title: "Industry Showcase - Moonplay"
+  presentationTitle: "Defining the Infrastructure of the Intelligent Era"
+  description: ""
+  subtype: presentation
+  #speakers: [63]
   #language: en
 -
   id: 050

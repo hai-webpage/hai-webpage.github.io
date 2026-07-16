@@ -87,9 +87,9 @@ highlightsDescription: "HAI 2025 brought together more than 250 healthcare innov
 statisticTitle: "HAI 2026 Highlights"
 statisticBlockImage: "highlights.png"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from Singapore and abroad"}
- - {count: "30", specialCharacter: "+", info: "speakers", detail: "including clinicians, technologists and investors"}
- - {count: "15", specialCharacter: "+", info: "tech booths", detail: "showcasing healthcare innovations"}
+ - {count: "550", specialCharacter: "+", info: "attendees", detail: "from Singapore and abroad"}
+ - {count: "54", specialCharacter: "", info: "speakers", detail: "including clinicians, technologists and investors"}
+ - {count: "30", specialCharacter: "", info: "tech booths", detail: "showcasing healthcare innovations"}
  - {count: "6", specialCharacter: "", info: "frontier themes", detail: "from Foundation Models in Healthcare to Investing in the Future of Health AI"}
 
 # Partners Block

@@ -69,7 +69,12 @@
     	sessionIds: [041]
     }
     - {
-    	startTime: "14:20",
+    	startTime: "14:17",
+    	#endTime: "13:40",
+    	sessionIds: [047]
+    }
+    - {
+    	startTime: "14:23",
     	#endTime: "13:40",
     	sessionIds: [042]
     }

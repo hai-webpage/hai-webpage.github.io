@@ -54,8 +54,8 @@ heroImage: "HAI26 Website Masthead.png"
 heroTitle: "3rd Annual<br>Healthcare AI Symposium<br>2026"
 eventVenue: "Grand Ballroom, One Farrer Hotel"
 eventDate: "Singapore, 8-10 July 2026"
-heroButtons:
- - {link: "https://a-star-engagementportal.glueup.com/event/162425/register/", text: "Register Now"}
+#heroButtons:
+# - {link: "https://a-star-engagementportal.glueup.com/event/162425/register/", text: "Register Now"}
 
 # About Block
 aboutTitle: "About HAI 2026"
